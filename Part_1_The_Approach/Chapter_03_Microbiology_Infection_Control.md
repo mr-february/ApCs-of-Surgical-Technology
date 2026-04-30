@@ -2,37 +2,6 @@
 
 ---
 
-## Learning Objectives
-
-By the end of this chapter, the learner will be able to:
-
-1. Classify microorganisms and describe their relevance to surgical site infections.
-2. Explain the chain of infection and identify opportunities for interruption.
-3. Describe standard precautions and transmission-based precautions.
-4. Demonstrate understanding of surgical hand hygiene methods.
-5. Define and apply the principles of infection control in the perioperative setting.
-
----
-
-## Key Terms
-
-| Term | Definition |
-|------|-----------|
-| **Microorganism** | A living organism too small to be seen with the naked eye |
-| **Pathogen** | A microorganism capable of causing disease |
-| **Bacteria** | Single-celled prokaryotic organisms; the most common cause of SSIs |
-| **Spore** | A resistant, dormant bacterial form capable of surviving harsh conditions (e.g., *C. difficile*, *B. anthracis*) |
-| **Biofilm** | A structured community of microorganisms adhering to surfaces, protected by a polysaccharide matrix |
-| **Surgical Site Infection (SSI)** | An infection occurring within 30–90 days of surgery at the site of the incision or deep tissue |
-| **Endogenous infection** | Infection from the patient's own normal flora |
-| **Exogenous infection** | Infection from an outside source (personnel, instruments, environment) |
-| **Standard Precautions** | Infection control practices applied to all patients regardless of diagnosis |
-| **Transmission-Based Precautions** | Additional precautions applied based on the known or suspected route of pathogen transmission |
-| **Asepsis** | The absence of pathogenic microorganisms |
-| **Aseptic technique** | Practices designed to prevent contamination of the sterile field |
-
----
-
 ## 3.1 Microbiology Basics: A Surgical Perspective
 
 Microbiology is the study of organisms too small to be seen without magnification. For surgical technologists, microbiology is not an abstract science — it is the direct foundation for every aseptic practice performed in the OR. Understanding *why* we do what we do begins with understanding what we are fighting.
@@ -240,19 +209,6 @@ An increasingly common alternative, validated by studies to be as effective as t
 - The most common SSI pathogen (*S. aureus*) lives on the skin of approximately 30% of the healthy population. Your prep technique, your sterile field, and your technique matter.
 - Contact precaution cases should ideally be scheduled last if possible, allowing a terminal cleaning of the room afterward.
 - When in doubt about the infectious status of a patient, apply standard precautions fully. You cannot tell by looking who is colonized with MRSA or who has an undiagnosed bloodborne pathogen.
-
----
-
-## Review Questions
-
-1. What is the most common cause of surgical site infections?
-2. Name and describe the three types of SSIs by classification.
-3. List four patient-related risk factors for SSI development.
-4. Describe the six links in the chain of infection.
-5. What is the difference between contact, droplet, and airborne transmission? Provide an OR example of each.
-6. Why is alcohol-based hand rub ineffective against *Clostridium difficile* spores?
-7. What is the neutral zone, and why is it used?
-8. What PPE is required for airborne precautions, and how does it differ from standard OR masking?
 
 ---
 

@@ -2,36 +2,6 @@
 
 ---
 
-## Learning Objectives
-
-By the end of this chapter, the learner will be able to:
-
-1. Describe the body's natural hemostatic process.
-2. Identify and describe mechanical methods of surgical hemostasis.
-3. Explain thermal hemostasis, including monopolar and bipolar electrosurgery.
-4. Describe chemical and topical hemostatic agents and their applications.
-5. Explain laser principles and safety protocols in the OR.
-6. Describe the scrub technologist's role in hemostasis management.
-
----
-
-## Key Terms
-
-| Term | Definition |
-|------|-----------|
-| **Hemostasis** | The cessation of bleeding, achieved physiologically or surgically |
-| **Coagulation** | The process by which blood forms a solid clot |
-| **Electrosurgical Unit (ESU)** | Device using high-frequency alternating current to cut or coagulate tissue |
-| **Monopolar electrosurgery** | Current passes from active electrode through patient's body to dispersive pad |
-| **Bipolar electrosurgery** | Current passes only between the two tips of the bipolar forceps |
-| **Dispersive electrode** | The grounding pad placed on the patient's body in monopolar ESU |
-| **Argon beam coagulator (ABC)** | ESU variant using ionized argon gas to improve coagulation effect |
-| **Laser** | Light Amplification by Stimulated Emission of Radiation; used for cutting and coagulation |
-| **Bone wax** | Sterile beeswax used to mechanically control bleeding from bone |
-| **Thrombin** | A clotting enzyme used topically or in conjunction with hemostatic agents |
-
----
-
 ## 8.1 Physiologic Hemostasis
 
 Before examining surgical hemostasis, it is useful to understand the body's own mechanisms. When a vessel is injured:
@@ -212,19 +182,6 @@ The scrub tech anticipates hemorrhage and manages the response at the level of t
 - ESU pencil tip builds char over time. Clean it proactively with the scratch pad — a dirty tip requires more power, which causes more collateral damage.
 - Never leave the ESU pencil resting on a drape unholstered. The device can be inadvertently activated, and it is a fire starter.
 - Thrombin is topical only. If it lands on an instrument that then goes back into the wound, it is not harmful — but injecting it is deadly. Know what is in each labeled basin.
-
----
-
-## Review Questions
-
-1. Describe the three phases of physiologic hemostasis.
-2. What is a free tie, and how is it passed to the surgeon?
-3. Explain the difference between monopolar and bipolar electrosurgery.
-4. What is the dispersive electrode, and why must it be placed correctly?
-5. Name three topical hemostatic agents and describe the mechanism of each.
-6. Why must thrombin never be injected intravenously?
-7. Name three laser-related hazards and one control measure for each.
-8. What is the most common laser used in ENT surgery, and what tissue component does it target?
 
 ---
 

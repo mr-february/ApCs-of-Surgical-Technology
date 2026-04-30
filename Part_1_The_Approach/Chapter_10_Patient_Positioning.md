@@ -2,35 +2,6 @@
 
 ---
 
-## Learning Objectives
-
-By the end of this chapter, the learner will be able to:
-
-1. Identify the major surgical positions and their indications.
-2. Describe equipment and accessories used for positioning.
-3. Identify pressure points and potential complications associated with each position.
-4. Explain the physiological effects of positioning on circulation and respiration.
-5. Describe special considerations for vulnerable patient populations.
-
----
-
-## Key Terms
-
-| Term | Definition |
-|------|-----------|
-| **Supine** | Lying flat on the back |
-| **Prone** | Lying face down |
-| **Lateral** | Lying on the side |
-| **Lithotomy** | Supine with hips flexed, legs elevated and abducted in stirrups |
-| **Trendelenburg** | Head-down tilt; legs elevated above the head |
-| **Reverse Trendelenburg** | Head-up tilt; head above the feet |
-| **Fowler's (sitting)** | Semi-recumbent or upright; various degrees of head elevation |
-| **Jackknife (Kraske)** | Prone with hips flexed at break of OR table; buttocks elevated |
-| **Pressure injury** | Tissue damage from sustained pressure compromising blood flow |
-| **Compartment syndrome** | Increased pressure within a muscle compartment leading to ischemia |
-
----
-
 ## 10.1 Principles of Surgical Positioning
 
 Positioning the patient for surgery is a team effort requiring careful planning before the patient arrives in the OR. The goals of surgical positioning are to:
@@ -265,19 +236,6 @@ Pressure points: same as prone position; additional padding for knees and abdome
 - Before draping, do a final visual sweep: is everything padded? Arms in neutral? No pressure on eyes? ETT still secure?
 - In lithotomy position, slide your fingers behind the patient's knee to ensure the popliteal fossa is not resting on the stirrup edge.
 - Document position, padding, duration, and any noted concerns at the end of every case.
-
----
-
-## Review Questions
-
-1. What are the five goals of surgical positioning?
-2. Identify the pressure points in the supine position and what complications are associated with inadequate padding.
-3. Describe how to safely turn a patient to the prone position.
-4. What is the purpose of the axillary roll in the lateral position? Where is it correctly placed?
-5. What is compartment syndrome, and which surgical position puts patients at highest risk?
-6. What is the most serious complication of the Fowler's (beach chair) position, and how is it recognized and managed?
-7. Why are both legs raised and lowered simultaneously when positioning for lithotomy?
-8. Describe two considerations for positioning an obese patient that differ from standard practice.
 
 ---
 

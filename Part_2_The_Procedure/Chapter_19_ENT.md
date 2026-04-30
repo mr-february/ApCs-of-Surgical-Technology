@@ -2,289 +2,292 @@
 
 ---
 
-## Learning Objectives
+## Anatomy You Need at the Table
 
-By the end of this chapter, the learner will be able to:
+**Ear:** External canal → tympanic membrane → ossicles (malleus, incus, stapes) → cochlea (hearing) and semicircular canals (balance). Facial nerve (CN VII) runs through the mastoid bone — at risk in any mastoid surgery.
 
-1. Apply the ApC framework to common ENT procedures.
-2. Describe the specific draping, incision, and retractor setup for tonsillectomy, thyroidectomy, ear surgery, and FESS.
-3. Identify the critical anatomical structures at risk in each ENT procedure.
-4. Explain the scrub technologist's role in laser airway cases and nerve monitoring.
+**Nose/Sinuses:** Paranasal sinuses drain through the ostiomeatal complex. Lateral wall of the ethmoid is the lamina papyracea (paper-thin; separates sinus from orbit). Roof is the skull base/cribriform plate.
 
----
+**Thyroid/Parathyroid:** Thyroid lobes connected by isthmus at the 2nd–4th tracheal rings. The **recurrent laryngeal nerve (RLN)** runs in the tracheoesophageal groove and enters the larynx just posterior to the ligament of Berry — the most dangerous millimeter in thyroid surgery.
 
-## 19.1 Head and Neck Anatomy Review
-
-**Ear:** External canal → tympanic membrane → middle ear ossicles (malleus, incus, stapes) → oval window → cochlea (hearing) and semicircular canals (balance). Facial nerve (CN VII) runs through the mastoid bone — at risk in mastoid surgery.
-
-**Nose/Sinuses:** Paranasal sinuses drain through the ostiomeatal complex. Adjacent to the orbit (lamina papyracea — paper-thin bone) and skull base (cribriform plate).
-
-**Thyroid/Parathyroid:** Thyroid lobes connected by isthmus at the 2nd–4th tracheal rings. Recurrent laryngeal nerve (RLN) runs in the tracheoesophageal groove; at extreme risk in thyroid surgery.
+**Why it matters at the back table:** ENT cases are narrow fields with microscopic anatomy. Your passing must be controlled, quiet, and precise. One wrong instrument handed at the wrong angle can cause a nerve injury or orbital entry.
 
 ---
 
-## 19.2 Tonsillectomy and Adenoidectomy (T&A)
+## Tonsillectomy and Adenoidectomy (T&A)
+
+> **QUICK FACTS**
+> Wound Class: II (Clean-Contaminated) — oropharynx is not sterile · Position: Supine, shoulder roll, head extended · Avg time: 20–45 min · Team: surgeon only or + 1 · Airway: shared with anesthesia (RAE tube)
 
 ### The Approach
 
-**Position:** Supine; shoulder roll under the shoulders to extend the neck and elevate the head; head in a small foam donut ring.
+> **BEFORE YOU SCRUB**
+> - [ ] Crowe-Davis (or Jennings/McIvor) mouth gag: confirm size appropriate for the patient (pediatric vs. adult); confirm the suspension arm is available (hooks from Mayo stand or ceiling mount)
+> - [ ] Tonsil clamps (Allis or Hurd): × 2 minimum on the Mayo stand
+> - [ ] ESU pencil or coblation wand: confirm the correct energy device per surgeon preference; generator settings confirmed
+> - [ ] Sponge count: tonsil sponges (tonsil balls) are small, heavily used in the oropharynx, and life-threatening if retained — count vigilantly before AND after
+> - [ ] Specimen cups × 2 labeled: left tonsil, right tonsil (pathology)
+> - [ ] Adenoid curette (La Force adenotome) if adenoidectomy included
+> - [ ] Suction: Yankauer for secretions and blood; Frazier for the narrow adenoid field
 
-**Prep:** No traditional skin prep — the operative field is the oropharynx, an inherently non-sterile area. The oral mucosa is not prepped with antiseptic.
+**Position:** Supine; shoulder roll under the shoulder blades to extend the neck; head in a foam donut ring.
 
-**Draping:**
-- Head drape across the top of the head; tucked under the head on each side to keep hair out of the field
-- A chest drape over the patient's body (sterile from the surgeon's perspective; the field is the open mouth)
-- The patient's face is part of the operative field — eyes are taped closed and protected
+**Prep:** No traditional skin prep — the oropharynx is a non-sterile field. The oral mucosa is not prepped with antiseptic. Eyes are taped closed and protected.
 
-**Gown and Gloves:** Standard.
+**Draping:** Head drape across the top of the head; chest drape over the patient's body.
 
-**The Knife:** No traditional skin incision. The "knife" is the electrocautery (or coblation wand, or cold dissection with scissors) working entirely through the open mouth. The first cut is through the mucosa of the anterior tonsillar pillar using the monopolar ESU (or a #12 blade for cold dissection technique).
+**The Knife:** No skin incision. The monopolar ESU pencil (or coblation wand, or cold scissors) makes the first cut through the anterior tonsillar pillar mucosa. For cold dissection: #12 blade or curved scissors.
 
-**Retractors:**
-- **Crowe-Davis mouth gag** (or Jennings or McIvor mouth gag): a hinged metal retractor placed between the teeth/gums that holds the mouth wide open; a tongue blade component depresses and exposes the posterior oropharynx; the gag is suspended from a Mayo stand arm or ceiling hook above the patient, maintaining continuous hands-free exposure throughout the case
-- This is the essential retractor for T&A — without it, there is no field
-
----
+**Retractors:** Crowe-Davis mouth gag placed between the teeth/gums; tongue blade depresses and exposes the posterior oropharynx; gag suspended from a Mayo stand arm or ceiling hook above the patient. This is the entire retractor system for the case.
 
 ### The Procedure
 
-1. Crowe-Davis mouth gag placed and suspended; patient in suspension (surgeon at the head of the table, working into the open mouth)
-2. Identify the tonsil; grasp with a **tonsil clamp (Allis or Hurd)** for traction
-3. Incise mucosa of the anterior tonsillar pillar with the ESU pencil; develop the plane between the tonsil and its bed (fibrous capsule); dissect to the base
-4. Divide the tonsil pedicle at the base; tonsil free; place in basin
-5. Achieve hemostasis of the tonsillar fossa (ESU, suture ligation if needed)
+1. Place Crowe-Davis gag and suspend it; surgeon works from the head of the table looking into the open mouth
+2. Grasp the tonsil with Allis or Hurd clamp for traction
+3. Incise mucosa of the anterior tonsillar pillar with ESU; develop the dissection plane between tonsil and its fibrous bed
+4. Dissect to the base; divide the tonsillar pedicle; place tonsil in specimen cup
+5. Achieve hemostasis in the tonsillar fossa (ESU; suture ligation if needed with 3-0 chromic on a tonsil needle)
 6. Repeat on the opposite side
-7. **Adenoidectomy:** place a mirror in the nasopharynx for visualization; or use a nasopharyngoscope; remove adenoid tissue with a suction coagulator, adenoid curette (La Force adenotome), or coblation wand
-8. Pack nasopharynx with moist sponge while achieving hemostasis
+7. **Adenoidectomy:** visualize the nasopharynx with a mirror or nasopharyngoscope; remove adenoid tissue with a suction coagulator, La Force adenotome, or coblation wand
+8. Pack the nasopharynx with a moist sponge while achieving hemostasis; remove the sponge before removing the gag
 
-**Scrub tech: sponges used in the oropharynx must be counted. A sponge left in the pharynx after the gag is removed causes airway obstruction — this is a life-threatening event. Count vigilantly.**
-
----
+> **⚠ WATCH FOR**
+> - **Sponge retention:** a sponge left in the oropharynx after gag removal obstructs the airway — this is immediately life-threatening; before removing the gag, confirm every tonsil sponge is accounted for; call your count clearly
+> - **Gag slippage during the case:** if the Crowe-Davis gag loses suspension, the tongue falls forward and the field collapses; reset the suspension before the surgeon proceeds
+> - **Tonsillar fossa bleeding:** active arterial bleeding in the fossa may require a suture ligature (3-0 chromic on a tonsil needle); have it loaded and on the Mayo stand before the case begins
+> - **Coblation wand tip clogging:** the coblation wand tip clogs with eschar; have a clean wet sponge on the Mayo stand for wiping it; a clogged tip stops cutting entirely
 
 ### The Closure
 
-No formal wound closure — the mucosal bed heals by secondary intention.
+No formal wound closure. Mucosal beds heal by secondary intention.
 
-**Remove gag:** both the tongue blade and the bite block are removed; confirm the mouth is clear of any packing before removing the gag.
+Before removing the gag: confirm all sponges are out; confirm the mouth is clear of all packing. Remove the gag carefully.
 
-**Dressing:** None at the oral operative site.
+**Dressing:** None at the operative site.
 
 ---
 
-## 19.3 Thyroidectomy (Total)
+## Thyroidectomy (Total)
+
+> **QUICK FACTS**
+> Wound Class: I (Clean) · Position: Supine, shoulder roll, neck extended, slight reverse Trendelenburg · Avg time: 60–120 min · Team: surgeon + 1 assistant · Nerve monitoring: NIM ETT required · Specimen: thyroid lobe(s) to pathology
 
 ### The Approach
 
-**Position:** Supine; shoulder roll beneath the shoulder blades (elevates the shoulders, extends the neck, brings the thyroid toward the surface); head in a donut ring; slight reverse Trendelenburg.
+> **BEFORE YOU SCRUB**
+> - [ ] NIM (nerve integrity monitor) ETT: confirm it is placed correctly by anesthesia before draping; test the system with the nerve stimulator before dissection begins
+> - [ ] Nerve stimulator (Prass probe or equivalent): on the field; confirm it produces an audible NIM tone before use
+> - [ ] Bipolar forceps: essential for hemostasis near the RLN — do not use monopolar near the nerve
+> - [ ] Harmonic scalpel or LigaSure (surgeon preference) for vessel sealing; confirm which device is requested
+> - [ ] Small vein retractors and right-angle retractors for posterior thyroid lobe exposure
+> - [ ] Parathyroid autotransplant supplies: if a parathyroid is accidentally devascularized, it is minced and implanted into the SCM — have a small basin and saline ready
+> - [ ] Specimen cups × 2 (left lobe, right lobe); intraoperative PTH test tube if parathyroid testing is anticipated
 
-**Prep:** CHG/alcohol; prep from the chin to the upper chest, lateral to both borders of the sternocleidomastoid muscles.
+**Position:** Supine; shoulder roll under the shoulder blades; neck extended and elevated. Head in a donut ring. Slight reverse Trendelenburg.
 
-**Draping:**
-- Head drape wrapping the hair
-- Four small towels framing the neck incision (a low, transverse skin crease in the anterior neck)
-- Thyroid drape (split sheet) or a small laparotomy sheet with a transverse opening
+**Prep:** CHG/alcohol; chin to upper chest, lateral to both SCM borders.
 
-**Gown and Gloves:** Standard.
+**Draping:** Head drape → four small towels framing the low collar incision → thyroid drape (split sheet).
 
-**The Knife:** #15 blade on a #3 handle; **Kocher incision** — a low transverse collar incision approximately 2–4 cm above the sternal notch, in a natural skin crease; typically 4–8 cm (as small as possible, cosmetically). A subplatysmal flap is developed above and below the incision using electrocautery or scissors.
+**The Knife:** #15 blade on #3 handle. Kocher incision — low transverse collar incision in a natural skin crease, 2–4 cm above the sternal notch; 4–8 cm depending on gland size. Subplatysmal flaps developed above and below.
 
-**Retractors:**
-- **Initial:** army-navy retractors in the skin and subplatysmal layers
-- **Deep:** self-retaining retractor placed to hold the strap muscles apart; commonly a **small Weitlaner** or a custom thyroid retractor system (e.g., Army-Navy retractors held by an assistant, or a Gelpi)
-- **Specific lobe exposure:** a right-angle or vein retractor placed under the thyroid lobe, carefully, to rotate it medially and expose the posterior surface where the RLN and parathyroids live
-- The Nerve Monitoring (NIM) ETT (electromyographic ETT) must be positioned correctly before surgery and confirmed with a nerve stimulator before dissection begins
-
----
+**Retractors:** Army-Navy retractors for skin and subplatysmal layers. Deep: small Weitlaner or Gelpi in the strap muscle layer. Small right-angle or vein retractors to rotate each thyroid lobe medially and expose the posterior surface where the RLN and parathyroids are found.
 
 ### The Procedure
 
-1. Incise platysma; elevate subplatysmal flaps cephalad (to thyroid cartilage) and caudal (to sternal notch)
+1. Incise platysma; elevate subplatysmal flaps cephalad to the thyroid cartilage, caudal to the sternal notch
 2. Separate strap muscles in the midline (avascular raphe); retract laterally
-3. Identify the **superior pole** of each thyroid lobe; ligate the superior thyroid artery and vein close to the thyroid capsule (avoid the external branch of the superior laryngeal nerve)
-4. Identify the **recurrent laryngeal nerve** (RLN): trace it from the tracheoesophageal groove cephalad to its entry into the larynx; confirm with nerve stimulator; keep it in view throughout the dissection
-5. Identify and preserve each **parathyroid gland** (brownish, 5 mm, on the posterior thyroid capsule); if accidentally devascularized, autotransplant to the SCM
-6. Divide the **ligament of Berry** (posterior suspensory ligament where the RLN is closest to the thyroid) with fine dissection — most RLN injuries occur here
+3. Identify the superior pole; ligate the superior thyroid artery and vein close to the thyroid capsule (avoid the external branch of the superior laryngeal nerve)
+4. Identify the **RLN** in the tracheoesophageal groove; trace it cephalad to its laryngeal entry; confirm with nerve stimulator; keep it in view for the entire case
+5. Identify and preserve all four **parathyroid glands** (brownish, 5 mm, on the posterior thyroid capsule); if one is accidentally devascularized, autotransplant it to the SCM
+6. Divide the **ligament of Berry** with fine dissection — this is where the RLN is closest to the thyroid and most often injured; work slowly
 7. Divide the isthmus; remove the thyroid specimen
-8. Confirm all four parathyroids identified; confirm RLN integrity with nerve stimulator
+8. Confirm parathyroid identification; confirm RLN integrity with nerve stimulator
 
----
+> **⚠ WATCH FOR**
+> - **NIM silence:** if the NIM tone disappears after a dissection step, the RLN may have been compressed, stretched, or cut — alert the surgeon; do not proceed until the nerve is visualized and stimulated again
+> - **Bipolar vs. monopolar near the nerve:** when dissecting within 1 cm of the RLN, pass only bipolar — never pass the Bovie pencil in that region; the thermal spread from monopolar at this proximity causes nerve injury even without direct contact
+> - **Parathyroid color loss:** if a parathyroid gland turns dusky or black, it has lost its blood supply; alert the surgeon immediately for autotransplant decision
+> - **Ligament of Berry dissection speed:** the surgeon will slow down here deliberately; do not anticipate the next step; wait; pass only what is specifically asked for
 
 ### The Closure
 
-**Strap muscles:** 3-0 Vicryl running; approximate the midline raphe.
+| Layer | Suture | Notes |
+|-------|--------|-------|
+| Strap muscles | 3-0 Vicryl running | Approximate the midline raphe |
+| Platysma | 3-0 Vicryl interrupted | |
+| Subcutaneous | 3-0 Vicryl | |
+| Skin | 4-0 Monocryl subcuticular + Steri-strips | Cosmetically critical incision |
+| Drain | Optional JP through separate stab | 2-0 nylon; most surgeons omit for uncomplicated cases |
 
-**Platysma:** 3-0 Vicryl interrupted.
-
-**Subcutaneous:** 3-0 Vicryl.
-
-**Skin:** 4-0 Monocryl subcuticular + Steri-strips (cosmetically visible incision; subcuticular is standard).
-
-**Drain:** Optional JP drain placed in the thyroid bed through a separate stab incision; 2-0 nylon to skin. Most surgeons omit a drain for straightforward total thyroidectomy.
-
-**Dressing:** Steri-strips over the closed incision; light gauze.
+**Dressing:** Steri-strips; light gauze.
 
 ---
 
-## 19.4 Tympanoplasty (Eardrum Repair)
+## Tympanoplasty (Eardrum Repair)
+
+> **QUICK FACTS**
+> Wound Class: I (Clean) · Position: Supine, head turned away from the operative ear · Avg time: 60–90 min · Team: surgeon only · Microscope: required · Implants: temporalis fascia graft (autologous)
 
 ### The Approach
 
-**Position:** Supine; head turned away from the operative ear; head on a donut foam ring.
+> **BEFORE YOU SCRUB**
+> - [ ] Operating microscope sterile drape: drape it before the surgeon asks; confirm the focal length is set
+> - [ ] Ear speculum set (multiple sizes): pull the largest that will fit comfortably in the patient's ear canal
+> - [ ] Micro-ENT instruments: right-angle pick, Rosen needle, sickle knife, Bellucci scissors, cup forceps — all oriented for ear canal use (angled, small)
+> - [ ] Gelfoam (gelatin sponge) cut into small pledgets: needed for middle ear packing and graft support
+> - [ ] Temporalis fascia graft preparation: surgeon will harvest postauricularly; have a small flat surface (back of a glove wrapper or a clean card) ready to press the graft flat; allow 10–15 min to dry before placing
+> - [ ] Local anesthetic (1% lidocaine + epinephrine) drawn up before the case: used for vasoconstriction in the ear canal
+> - [ ] Do NOT use CHG near the ear canal — it is ototoxic; use betadine for the prep
 
-**Prep:** Betadine (or CHG/alcohol avoiding the ear canal — CHG is ototoxic); prep the auricle, surrounding scalp, and postauricular skin.
+**Position:** Supine; head turned away from the operative ear; foam donut ring.
 
-**Draping:**
-- Head drape framing the ear; the operative ear is fully exposed within the aperture
-- A small fenestrated head drape with an adhesive border isolates the ear
-- **The operative microscope** is draped with a sterile microscope cover before use
+**Prep:** Betadine; auricle, surrounding scalp, postauricular skin. Do not use CHG in or near the ear canal.
 
-**Gown and Gloves:** Standard.
+**Draping:** Head drape framing the ear → small fenestrated adhesive-bordered ear drape over the operative ear. Microscope draped with sterile scope cover before use.
 
-**The Knife:** #15 blade on a #3 handle for any incision:
-- **Transcanal approach:** a fine knife or sickle knife is used to incise the ear canal skin to elevate the tympanomeatal flap
-- **Postauricular approach:** a #15 blade incision behind the ear crease to harvest the temporalis fascia graft and gain wider access to the middle ear
+**The Knife:** #15 blade. Postauricular approach: incision in the postauricular crease for graft harvest and wider access. Transcanal: fine sickle knife to incise the ear canal skin for the tympanomeatal flap.
 
-**Retractors:**
-- **Ear speculum** (metal speculum placed into the ear canal): holds the canal open and provides the visual field; multiple sizes; the largest that fits comfortably
-- The speculum is held in place by the **operating microscope's focal point** — the surgeon looks through the microscope with the speculum in the canal; there is no self-retaining retractor equivalent
-- A **speculum holder** (attached to the OR table) may hold the speculum hands-free
-- **Postauricular:** a self-retaining mastoid retractor or small Weitlaner retracts the postauricular tissues
-
----
+**Retractors:** Ear speculum in the canal provides the visual field. The speculum is held by the operating microscope's focal axis; a speculum holder attached to the OR table may hold it hands-free. Postauricular: small Weitlaner or mastoid retractor.
 
 ### The Procedure
 
-1. Inject local anesthetic (1% lidocaine with epinephrine) into the ear canal and postauricular area for vasoconstriction
-2. Harvest temporalis fascia through the postauricular incision; press flat and allow to dry
-3. Incise the ear canal skin; elevate the **tympanomeatal flap** (the tympanic membrane + canal skin lifted as one unit); expose the middle ear and perforation
+1. Inject local anesthetic (1% lidocaine + epinephrine) into the ear canal for vasoconstriction
+2. Harvest temporalis fascia through the postauricular incision; press flat; allow to dry
+3. Incise the ear canal skin; elevate the **tympanomeatal flap** (tympanic membrane + canal skin as one unit); expose the middle ear and perforation
 4. Assess the ossicular chain; determine graft placement
-5. **Underlay graft technique:** place Gelfoam in the middle ear to support the graft; place the temporalis fascia graft medial (underneath) to the tympanic membrane remnant, covering the perforation
-6. Reposition the tympanomeatal flap over the graft; pack the canal with Gelfoam pledgets to hold the graft in place
+5. **Underlay graft:** place Gelfoam pledgets in the middle ear for graft support; place the dry temporalis fascia graft medial (underneath) to the tympanic membrane remnant, covering the perforation completely
+6. Reposition the tympanomeatal flap over the graft; pack the canal with Gelfoam pledgets
 
----
+> **⚠ WATCH FOR**
+> - **Graft too wet:** if the fascia graft is still moist when placed, it will shrink as it dries and pull away from the perforation margins — allow full drying time; press the graft flat and wait at least 10 minutes
+> - **Gelfoam count:** Gelfoam pledgets placed in the middle ear are small and must be tracked; account for each one placed and each one removed
+> - **Ossicular chain disruption:** if the malleus or incus is inadvertently displaced during flap elevation, the surgeon will need to reposition it before placing the graft; have cup forceps and the right-angle pick immediately available
+> - **Instrument angle at the microscope:** every instrument passed to the surgeon must arrive with the working tip pointing toward the ear canal; a backward-oriented instrument at microscopic scale is unusable
 
 ### The Closure
 
-**Postauricular incision:** 3-0 Vicryl for the periosteum and subcutaneous; 4-0 nylon interrupted or running for skin.
+| Layer | Suture | Notes |
+|-------|--------|-------|
+| Postauricular periosteum + subcutaneous | 3-0 Vicryl | |
+| Postauricular skin | 4-0 nylon interrupted or running | |
+| Ear canal | Gelfoam packing (no sutures) | Canal heals around the packing |
 
-**Ear canal:** Gelfoam packing (no sutures — the canal heals around the packing).
-
-**Dressing:** Mastoid pressure dressing: a large cotton ball in the concha; a cotton/gauze stack behind the ear; an elastic circumferential head bandage (Kerlix). The dressing provides mild compression to reduce hematoma.
+**Dressing:** Large cotton ball in the concha; cotton/gauze behind the ear; elastic circumferential Kerlix head wrap (mild compression to reduce hematoma).
 
 ---
 
-## 19.5 Functional Endoscopic Sinus Surgery (FESS)
+## Functional Endoscopic Sinus Surgery (FESS)
+
+> **QUICK FACTS**
+> Wound Class: II (Clean-Contaminated) — nasal cavity is non-sterile · Position: Supine, slight reverse Trendelenburg · Avg time: 45–90 min · Team: surgeon only · No incision · Nasal decongestion required before starting
 
 ### The Approach
 
-**Position:** Supine; slight reverse Trendelenburg (reduces nasal blood flow); head in a neutral position on a foam donut ring.
+> **BEFORE YOU SCRUB**
+> - [ ] Rigid nasal endoscopes: 0°, 30°, 45°, and 70° — confirm all are in the room and camera/light cord fits each
+> - [ ] Microdebrider: blade loaded and spinning before the first polyp; confirm suction is running through it
+> - [ ] Nasal instruments: Blakesley-Wilde forceps (straight and angled), backbiting forceps, Kerrison punch for bone, ball probe, sphenoid punch
+> - [ ] Oxymetazoline-soaked pledgets: placed before draping to decongest the mucosa; removed before the endoscope enters
+> - [ ] Merocel nasal packing or NasoPore: on the field for post-case packing; confirm surgeon preference
+> - [ ] Suction Franger or Frazier: constant suction for blood and irrigation during the case
+> - [ ] Eye protection confirmed: ointment + tape/shield in place before draping (lamina papyracea is millimeters from the orbital contents)
 
-**Prep:** Betadine or CHG/alcohol applied to the face (avoiding eyes — use eye ointment and tape or shields). Before the procedure, the nasal mucosa is **decongested** with oxymetazoline-soaked pledgets placed endoscopically — this shrinks the mucosa and reduces bleeding.
+**Position:** Supine; slight reverse Trendelenburg (reduces nasal blood flow). Head neutral on a foam donut ring.
 
-**Draping:**
-- A **face drape** with an aperture exposing both nostrils and the patient's mouth (shared airway)
-- The eyes are protected (ointment + taped closed or shielded) within the drape
-- The endoscope tower is positioned at the head of the table, monitor visible to the surgeon
+**Prep:** Betadine or CHG/alcohol applied to the face, avoiding the eyes. Oxymetazoline-soaked pledgets placed endoscopically before prep to decongest the mucosa.
 
-**Gown and Gloves:** Standard.
+**Draping:** Face drape with aperture exposing both nostrils and the patient's mouth. Eyes protected (ointment + taped closed or shielded) within the drape. Endoscope tower positioned at the head with the monitor visible to the surgeon.
 
-**The Knife:** No external skin incision — FESS is entirely **endoscopic through the nostrils**. The "first cut" is the incision into the uncinate process with a sickle knife or the Blakesley forceps to begin the uncinectomy.
+**The Knife:** No external incision. All work is endoscopic through the nostrils. The first "cut" is a sickle knife incision into the uncinate process.
 
-**Retractors:**
-- No conventional retractors — the **rigid nasal endoscope** (0°, 30°, 45°, or 70° depending on the sinus region) is both the visualization and access tool
-- The endoscope is held by the non-dominant hand; the operative instrument is held in the dominant hand
-- The nasal septum and turbinates provide natural anatomical retraction of the nasal walls
-
----
+**Retractors:** The rigid nasal endoscope is the visualization and access tool. Held by the non-dominant hand; operative instrument in the dominant hand. No conventional retractors.
 
 ### The Procedure
 
-1. Insert the 0° endoscope; inspect the nasal cavity
-2. **Uncinectomy:** remove the uncinate process (the thin curved bone blocking the ostiomeatal complex) with a sickle knife and Blakesley forceps
+1. Insert 0° endoscope; inspect the nasal cavity; confirm nasal decongestion is adequate
+2. **Uncinectomy:** incise and remove the uncinate process with a sickle knife and Blakesley forceps — opens access to the ostiomeatal complex
 3. **Anterior ethmoidectomy:** open anterior ethmoid air cells systematically
 4. **Maxillary antrostomy:** widen the maxillary sinus ostium; trim with backbiting forceps
 5. Proceed to posterior ethmoid, sphenoid, or frontal sinuses as indicated
-6. **Microdebrider** used for polypectomy or when large amounts of diseased mucosa are removed
-7. Irrigate; achieve hemostasis; assess drainage
+6. Microdebrider used for polypectomy or large volumes of diseased mucosa
+7. Irrigate; achieve hemostasis; assess sinus drainage
 
----
+> **⚠ WATCH FOR**
+> - **Orbital entry through the lamina papyracea:** if the bone is dehiscent or the instrument wanders laterally, the orbit can be entered; signs include orbital fat herniation, periorbital ecchymosis, and eye movement on the endoscope monitor; call it out immediately
+> - **Skull base violation (cribriform plate):** if the instrument passes superiorly beyond the ethmoid roof, intracranial entry and CSF leak occur; clear fluid draining from the nose mid-case = CSF until proven otherwise; stop and alert the surgeon
+> - **Microdebrider suction failure:** if suction stops mid-case, the microdebrider clogs with tissue; have a backup blade and know how to switch it; loss of suction during heavy polypectomy makes the field unworkable quickly
+> - **Bleeding obscuring the endoscope lens:** blood on the endoscope tip blocks the view instantly; have a bulb syringe with warm saline to rinse the scope; surgeon cannot operate on a fogged lens
 
 ### The Closure
 
 No external wound closure — all work is endonasal.
 
-**Nasal packing (if used):** Merocel nasal sponges or dissolvable hemostatic packing (NasoPore) placed into the nasal cavities to reduce bleeding and maintain patency; or no packing.
+**Nasal packing (if used):** Merocel sponges or NasoPore placed into the nasal cavities; or no packing if the surgeon prefers.
 
-**Dressing:** Small nasal drip pad (gauze folded under the nose) taped to the upper lip to collect postoperative drainage.
+**Dressing:** Nasal drip pad (folded gauze under the nose) taped to the upper lip.
 
 ---
 
-## 19.6 Tracheostomy
+## Tracheostomy
+
+> **QUICK FACTS**
+> Wound Class: II (Clean-Contaminated) · Position: Supine, shoulder roll, neck extended · Avg time: 20–45 min · Team: surgeon + 1 assistant · Airway: coordinated with anesthesia — the ETT is withdrawn at the critical moment
 
 ### The Approach
 
-**Position:** Supine; shoulder roll under the shoulder blades (extends the neck to bring the trachea anteriorly); slight reverse Trendelenburg.
+> **BEFORE YOU SCRUB**
+> - [ ] Tracheostomy tube: confirm size and type ordered; cuff inflated and tested before the case; obturator inside the tube; extra tube one size smaller on the field (for emergency if the initial tube won't seat)
+> - [ ] Stay sutures: 2-0 nylon × 2 (placed through each lateral tracheal ring; allow emergency reopening of the stoma)
+> - [ ] 12-gauge needle + syringe for tracheal aspiration (confirms entry into the trachea before incising)
+> - [ ] Tracheostomy ties on the field for securing the tube after placement
+> - [ ] Anesthesia coordination: confirm the anesthesia provider knows the sequence — they will withdraw the ETT to just above the tracheal incision site on your surgeon's call; do NOT cut the trachea while the ETT cuff is still at that level
 
-**Prep:** CHG/alcohol; prep from chin to upper chest, full width.
+**Position:** Supine; shoulder roll under the shoulder blades; neck extended. Slight reverse Trendelenburg.
 
-**Draping:**
-- Four small towels framing the midline anterior neck incision below the cricoid
-- Thyroid drape or split sheet
+**Prep:** CHG/alcohol; chin to upper chest, full width.
 
-**Gown and Gloves:** Standard.
+**Draping:** Four small towels framing the midline anterior neck incision → thyroid drape or split sheet.
 
-**The Knife:** #15 blade on a #3 handle; **transverse or vertical incision** midline, approximately 2 cm below the cricoid cartilage (at the level of the 2nd–4th tracheal rings); approximately 3–4 cm.
+**The Knife:** #15 blade on #3 handle. Transverse or vertical midline incision approximately 2 cm below the cricoid cartilage (at the level of the 2nd–4th tracheal rings); 3–4 cm.
 
-**Retractors:**
-- **Initial:** small army-navy retractors for skin and subcutaneous tissue
-- **Deep:** a self-retaining small Weitlaner placed in the strap muscle layer
-- **Tracheal retractors:** after the strap muscles are separated and the thyroid isthmus is retracted or divided, small right-angle retractors (or skin hooks) retract the tracheal edges to maintain exposure of the tracheal rings
-
----
+**Retractors:** Army-Navy retractors for skin and subcutaneous. Small Weitlaner in the strap muscle layer. Small right-angle retractors hold the tracheal edges open after the tracheal incision is made.
 
 ### The Procedure
 
 1. Transverse skin incision; divide subcutaneous tissue and platysma
-2. Separate strap muscles vertically in the midline; identify and retract/divide the thyroid isthmus
-3. Identify the trachea; palpate the cricoid cartilage and count down to the 2nd–3rd tracheal ring
-4. **Confirm trachea with needle aspiration** (12-gauge needle + syringe; aspiration of air confirms tracheal entry before cutting)
-5. Place **stay sutures** (2-0 nylon) through each lateral tracheal ring adjacent to the planned opening (these allow emergency reopening if the tube is dislodged)
-6. Anesthesia withdraws the ETT to just above the planned incision site
-7. **Tracheal incision:** vertical or horizontal incision; or a Bjork flap (inferiorly-based tracheal cartilage flap sutured to the skin to create a permanent stoma)
-8. Insert the tracheostomy tube with obturator; remove obturator; anesthesia confirms ventilation; cuff inflated
+2. Separate strap muscles vertically in the midline; identify and retract or divide the thyroid isthmus
+3. Identify the trachea; palpate the cricoid and count down to the 2nd–3rd tracheal ring
+4. **Needle aspiration:** 12-gauge needle + syringe; aspiration of air confirms tracheal entry before cutting
+5. Place **stay sutures** (2-0 nylon) through each lateral tracheal ring adjacent to the planned opening
+6. Anesthesia withdraws the ETT to just above the incision site
+7. **Tracheal incision:** vertical or horizontal between the 2nd and 3rd (or 3rd and 4th) tracheal rings; or Bjork flap (inferiorly-based cartilage flap sutured to the skin)
+8. Insert the tracheostomy tube with obturator; remove the obturator; anesthesia confirms ventilation; inflate the cuff
 
----
+> **⚠ WATCH FOR**
+> - **ETT cuff still at the tracheal incision level:** if anesthesia has not withdrawn the ETT before the tracheal incision, the scalpel or scissors will cut the cuff — the patient loses their airway; confirm ETT withdrawal with anesthesia by name before handing the blade for the tracheal incision
+> - **Tracheostomy tube will not seat:** if the tube does not advance easily, do not force it; the tube may be the wrong size or there may be a cartilaginous ring obstructing; have the next size smaller immediately available
+> - **Stay suture management:** the two 2-0 nylon stay sutures hold the tracheal opening for the first 72 hours if the tube is accidentally dislodged; keep them labeled (left/right) and secure them to the skin before leaving the OR
 
 ### The Closure
 
-**Wound edges:** loosely closed around the tracheostomy tube with 3-0 nylon or left open (intentionally — prevents subcutaneous emphysema if there is air leak around the tube).
+| Layer | Suture | Notes |
+|-------|--------|-------|
+| Wound edges around tube | 3-0 nylon | Loosely closed; intentional gap prevents subcutaneous emphysema |
+| Tracheostomy tube | Ties through flanges, around neck | Two-finger rule: two fingers must fit between the ties and the neck |
 
-**Tracheostomy tube secured:** ties around the neck through the flanges of the tube; tied firmly (two-finger rule — two fingers should fit between the ties and the neck).
-
-**Dressing:** Pre-cut gauze split around the tracheostomy tube; tape at the flanges.
+**Dressing:** Pre-cut gauze split around the tracheostomy tube at the flange.
 
 ---
 
 ## Clinical Pearls
 
-> "In ENT, the Approach is often the narrowest pathway to the most critical anatomy. One millimeter of traction at the wrong moment ends a career — or a nerve."
+> "In ENT, the Approach is often the narrowest pathway to the most critical anatomy. One millimeter of traction at the wrong moment ends a nerve."
 
-- During thyroidectomy, keep absolute quiet when the surgeon stimulates the nerve and listens for the NIM tone. Background noise will mask the signal.
-- In a T&A, every sponge that goes into the pharynx must come out of the pharynx. The Crowe-Davis gag keeps the mouth open — but when it comes out, it comes out fast. Have the field clear before gag removal.
-- For tympanoplasty, keep all instruments oriented for the microscope — right-angled, small, handed with the working tip pointing toward the ear.
-
----
-
-## Review Questions
-
-1. Describe the Approach for a tonsillectomy: position, prep (or lack thereof), key retractor, and why it is essential.
-2. What is the Crowe-Davis gag, and what happens if a sponge is left in the oropharynx?
-3. Describe the Approach for a total thyroidectomy: position, skin incision name and location, retractors.
-4. What is the recurrent laryngeal nerve (RLN) and what is its significance in thyroid surgery?
-5. Describe the "underlay technique" in tympanoplasty.
-6. What is the Approach for FESS — what serves as the "knife" and what serves as the "retractors"?
-7. Describe the tracheostomy Approach: position, prep, incision location, and why stay sutures are placed.
-8. What is the Closure for a thyroidectomy: layers, suture types, drain?
+- During thyroidectomy, keep absolute silence when the surgeon stimulates the RLN and listens for the NIM tone. Background OR noise masks the signal.
+- In a T&A, every sponge that goes into the pharynx must come out before the gag is removed. A retained tonsil sponge is an immediate airway emergency.
+- For tympanoplasty, pass every instrument with the working tip oriented toward the ear canal. At microscope magnification, a backward instrument is useless.
+- In tracheostomy, confirm ETT withdrawal by name with anesthesia before handing the tracheal incision knife. This communication step prevents the most catastrophic complication in the entire procedure.
 
 ---
 

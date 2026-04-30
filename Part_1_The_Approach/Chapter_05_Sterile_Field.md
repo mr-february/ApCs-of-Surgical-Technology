@@ -2,37 +2,6 @@
 
 ---
 
-## Learning Objectives
-
-By the end of this chapter, the learner will be able to:
-
-1. Define the sterile field and explain its purpose.
-2. List and apply the principles of aseptic technique.
-3. Describe the proper procedures for gowning and gloving.
-4. Explain how sterile supplies are opened and transferred to the sterile field.
-5. Identify contamination events and describe the appropriate response.
-6. Define surgical conscience and explain its role in patient safety.
-
----
-
-## Key Terms
-
-| Term | Definition |
-|------|-----------|
-| **Sterile Field** | A defined area considered free of microorganisms, maintained for the purpose of surgery |
-| **Aseptic Technique** | Practices used to maintain sterility and prevent contamination |
-| **Surgical Conscience** | The internalized, self-monitored commitment to maintaining aseptic practice at all times |
-| **Contamination** | Introduction of microorganisms to a previously sterile area or item |
-| **Strike-through** | Contamination of a sterile item via wet passage through a non-sterile barrier |
-| **Gowning** | The process of donning a sterile surgical gown after the surgical scrub |
-| **Closed gloving** | Gloving technique performed with hands inside the gown cuffs |
-| **Open gloving** | Gloving technique performed with hands outside the gown cuffs |
-| **Assisted gloving** | A scrubbed team member helps another person don sterile gloves |
-| **Back table** | The large sterile instrument table set up by the scrub tech before the procedure |
-| **Mayo stand** | The small, moveable sterile table positioned near the operative field |
-
----
-
 ## 5.1 What Is the Sterile Field?
 
 The sterile field is the designated area of the operating room that has been established as free of microorganisms. It includes:
@@ -217,19 +186,6 @@ This requires **surgical conscience**: the willingness to prioritize patient saf
 - When setting up the back table, organize instruments the same way every time. Consistency becomes muscle memory, and muscle memory frees your mind to anticipate the case.
 - If you are unsure whether you touched something non-sterile, change your glove. The patient cannot speak for themselves — you must speak for them.
 - Maintain visual contact with your sterile field whenever possible. An unmonitored sterile field is a question mark.
-
----
-
-## Review Questions
-
-1. Define the sterile field and list five items that are considered part of it.
-2. What does "strike-through contamination" mean, and how is it prevented?
-3. List five principles of aseptic technique.
-4. Describe the difference between closed and open gloving techniques. When is each used?
-5. How should the circulating nurse transfer a sterile peel-pouch item to the sterile field?
-6. What is surgical conscience, and how does it relate to contamination reporting?
-7. A gloved hand falls below the level of the sterile table. What should happen?
-8. Why is the sterile field never left unattended?
 
 ---
 

@@ -2,218 +2,239 @@
 
 ---
 
-## Learning Objectives
-
-By the end of this chapter, the learner will be able to:
-
-1. Apply the ApC framework to CABG, valve surgery, and thoracic procedures.
-2. Describe the specific draping, incision, and retractor systems for each cardiovascular procedure.
-3. Explain the role of the scrub technologist during bypass cannulation, valve work, and sternal closure.
-
----
-
-## 16.1 Cardiovascular Anatomy Review
+## Anatomy You Need at the Table
 
 **Heart:** Right atrium → right ventricle → pulmonary artery → pulmonary veins → left atrium → left ventricle → aorta. Coronary arteries (LAD, LCx, RCA) supply the myocardium.
 
-**Valves:** Tricuspid (RA→RV), pulmonic (RV→PA), mitral (LA→LV), aortic (LV→Ao).
+**Valves:** Tricuspid (RA→RV), pulmonic (RV→PA), mitral (LA→LV), aortic (LV→aorta).
 
 **Aorta:** Root → ascending → arch → descending thoracic → abdominal.
 
+**Why it matters at the back table:** CV/thoracic is the highest-stakes scrub in the hospital. Cardiopulmonary bypass (CPB) arrests the heart. The patient's life is sustained by a machine. Every suture, every cannula, every staple load requires precision and verification before it leaves your hands.
+
 ---
 
-## 16.2 Coronary Artery Bypass Grafting (CABG)
+## Coronary Artery Bypass Grafting (CABG)
+
+> **QUICK FACTS**
+> Wound Class: I (Clean) · Position: Supine, arms tucked · Avg time: 3–5 hrs · Team: surgeon + 2 assistants + perfusionist · CPB: yes · Implants: conduit (LIMA, SVG, or radial artery); no prosthetic hardware at anastomosis
 
 ### The Approach
 
-**Position:** Supine; arms tucked at the sides (standard) or right arm extended for radial artery harvest. Slight reverse Trendelenburg. Both legs slightly abducted if SVG harvest is needed (second team harvests simultaneously).
+> **BEFORE YOU SCRUB**
+> - [ ] Confirm conduits planned: LIMA only? SVG harvest? Radial artery? Second leg prepped if bilateral SVG expected
+> - [ ] Sternal saw (oscillating or air-powered) — tested and functional; backup available
+> - [ ] Finochietto rib spreader (sternal retractor) on the field; select size based on patient's chest width
+> - [ ] Bone wax on the field; electrocautery with long active electrode extension for mediastinum
+> - [ ] Cardioplegia: confirm delivery method with surgeon (antegrade vs. retrograde); cardioplegia lines on the pump side
+> - [ ] Suture critical line-up: 7-0 Prolene for coronary anastomoses; 5-0 or 6-0 Prolene for aortic proximals; 4-0 Prolene for purse-strings; 5-0 or 6-0 Prolene for cannula sites
+> - [ ] Sternal wires (#5 or #6 stainless steel) × 8; wire twister available
+> - [ ] Chest tubes × 2 mediastinal + 1–2 pleural; have 32 Fr available; 2-0 silk for securing
+> - [ ] Silastic vessel loops (red and white) for LIMA identification; medium titanium clips for LIMA branches
+> - [ ] Double-glove; have replacement outer gloves on the field
 
-**Prep:**
-- Chest (sternum and bilateral chest walls) from chin to pubis
-- Both legs from groin to ankle if SVG is planned
-- Left arm from axilla to wrist if radial artery graft is planned
-- CHG/alcohol to all prep sites
+**Position:** Supine; arms tucked at sides. Slight reverse Trendelenburg. Both legs slightly abducted if SVG harvest planned; left arm extended if radial artery harvest planned.
 
-**Draping:**
-- Sternum: four draping towels framing the midline chest; large cardiothoracic sheet (fenestrated over the sternum)
-- Legs (if SVG): separate extremity drapes or incorporated into a larger combined drape
-- Groin exposure may be required for femoral access if intraaortic balloon pump (IABP) is anticipated
-- The draping must expose the full sternum from the sternal notch (suprasternal notch) to the xiphoid process
+**Prep:** CHG/alcohol to chest (sternum and bilateral chest wall) from chin to pubis; both legs from groin to ankle if SVG planned; left arm axilla to wrist if radial artery planned.
 
-**Gown and Gloves:** Standard; double-glove recommended for long cardiac cases.
+**Draping:** Four towels framing the midline sternum → large cardiothoracic fenestrated sheet. Legs: separate extremity drapes or incorporated into a larger combined drape. The full sternum from suprasternal notch to xiphoid must be exposed.
 
-**The Knife:**
-- **Sternotomy incision:** #10 blade on a #3 handle; midline from the sternal notch to the xiphoid; cut through skin and subcutaneous tissue to the sternum
-- **SVG harvest:** #15 blade on a #3 or #7 handle; longitudinal incision along the medial thigh overlying the greater saphenous vein; one long incision or multiple "skip" incisions
-- **LIMA harvest:** no separate incision — the left internal mammary artery is dissected from the undersurface of the left chest wall through the sternotomy
+**The Knife:** #10 blade for sternotomy skin incision (sternal notch to xiphoid). #15 blade for SVG harvest incision along medial thigh (single longitudinal incision or multiple "skip" incisions over the greater saphenous vein).
 
-**Retractors:**
-- **Sternal retractor (Finochietto rib spreader):** placed after the sternum is divided; cranked open to spread the sternal halves; provides wide exposure of the mediastinum, heart, and great vessels
-- Additional retractors: Deaver or right-angle retractors to retract the pericardial edges after pericardiotomy
-
----
+**Retractors:** Finochietto sternal retractor placed after sternum is divided; cranked open gradually. Deaver or right-angle retractors to retract pericardial edges after pericardiotomy.
 
 ### The Procedure
 
-1. **Sternotomy:** sternal saw (oscillating or air-powered) divides the sternum in the midline; sternal edges waxed with bone wax; Finochietto retractor placed and opened
-2. **Pericardiotomy:** pericardium opened longitudinally; edges sutured to the drapes with heavy sutures to form a pericardial cradle around the heart
-3. **Conduit harvest (simultaneous):**
-   - LIMA: electrocautery and clips dissect the LIMA from the chest wall; divided distally; proximal end remains attached (pedicled graft)
-   - SVG: vein dissected from leg; side branches ligated and divided; vein distended gently to check for leaks
-4. **Heparin administered**; ACT confirmed >480 seconds
-5. **Cannulation:** purse-string sutures in ascending aorta (arterial cannula) and right atrial appendage (venous cannula); cannulas inserted and connected to the CPB circuit; bypass initiated
-6. **Aortic cross-clamp applied; antegrade cardioplegia delivered**; heart arrested
-7. **Distal anastomoses:** coronary arteriotomy (horizontal mattress stay suture holds the artery open); LIMA-to-LAD (or SVG-to-target coronary) anastomosis using **7-0 Prolene running suture**; each anastomosis done while the heart is arrested
-8. **Proximal SVG anastomoses:** partial occlusion clamp applied to ascending aorta; aortotomy; each SVG sewn end-to-side to the aorta with **5-0 or 6-0 Prolene running suture**
+1. **Sternotomy:** sternal saw divides the sternum in the midline; sternal edges waxed; Finochietto placed and opened
+2. **Pericardiotomy:** pericardium opened longitudinally; edges sutured to the drapes with heavy sutures forming a pericardial cradle
+3. **Conduit harvest (simultaneous with another team if SVG):**
+   - LIMA: electrocautery and titanium clips dissect LIMA from the chest wall; divided distally; proximal end remains attached (pedicled graft)
+   - SVG: vein dissected from leg; side branches ligated; vein distended gently to check for leaks
+4. Heparin administered; perfusionist confirms ACT >480 seconds
+5. **Cannulation:** purse-string sutures in the ascending aorta (arterial cannula) and right atrial appendage (venous cannula); cannulas inserted; bypass initiated
+6. **Aortic cross-clamp applied; cardioplegia delivered; heart arrested**
+7. **Distal anastomoses:** coronary arteriotomy; LIMA-to-LAD or SVG-to-target coronary with 7-0 Prolene running suture; each anastomosis completed while the heart is arrested
+8. **Proximal SVG anastomoses:** partial occlusion clamp on the ascending aorta; aortotomy; SVG sewn end-to-side to the aorta with 5-0 or 6-0 Prolene running suture
 9. Cross-clamp removed; heart defibrillated if needed; wean from bypass
 
----
+> **⚠ WATCH FOR**
+> - **Prolene tangles:** 7-0 and 8-0 sutures are extremely delicate; keep them moist, manage tails carefully, and never let them snag on clamps or instruments
+> - **Sternal saw drift:** if the saw veers off midline, the surgeon will stop and reposition; have bone wax and the Bovie ready immediately for bleeding sternal marrow
+> - **ACT not therapeutic:** if the perfusionist reports ACT <480, cannulation is delayed — do not move to the next step until the ACT is confirmed; additional heparin will be given
+> - **Conduit leak (SVG):** a leaking SVG side branch will be identified during distension; have extra ties (3-0 silk) ready for the harvest team
+> - **Chest tube count:** mediastinal drains are part of the final count; confirm the number placed and where each exits before closing
 
 ### The Closure
 
-**Sternum:** Stainless steel wires (#5 or #6) passed around or through the sternal halves; typically 6–8 wires; twisted and cut short, bent flat against the bone; OR a rigid plate system (Talon, Sternalock).
+| Layer | Suture | Notes |
+|-------|--------|-------|
+| Sternum | #5 or #6 stainless steel wires × 6–8 | Twisted and cut short, bent flat; or rigid plate system |
+| Presternal fascia / linea alba | 0 Vicryl running | |
+| Subcutaneous | 2-0 Vicryl | |
+| Skin | Staples or 4-0 Monocryl | |
+| SVG leg wounds | Staples or 3-0 Monocryl subcuticular | Ace bandage wrap post-closure |
 
-**Presternal fascia and linea alba:** 0 Vicryl running.
-
-**Subcutaneous:** 2-0 Vicryl.
-
-**Skin:** Staples or 4-0 Monocryl.
-
-**Drains:** Two (or more) mediastinal chest tubes + one or two pleural chest tubes; exit through stab incisions below the xiphoid and laterally; sutured with 2-0 silk or nylon.
-
-**SVG leg wounds:** Closed with staples or 3-0 Monocryl subcuticular; wrapped in ace bandage.
+**Drains:** 2 mediastinal chest tubes + 1–2 pleural tubes through stab incisions below xiphoid and laterally; secured with 2-0 silk.
 
 **Dressing:** Gauze + ABD pad over sternum; occlusive dressing over chest tube sites.
 
 ---
 
-## 16.3 Aortic Valve Replacement (AVR)
+## Aortic Valve Replacement (AVR)
+
+> **QUICK FACTS**
+> Wound Class: I (Clean) · Position: Supine — median sternotomy identical to CABG · Avg time: 2.5–4 hrs · Team: surgeon + 1–2 assistants + perfusionist · CPB: yes · Implants: prosthetic heart valve (mechanical or bioprosthetic)
 
 ### The Approach
 
-**Position, Prep, Draping, Knife, Retractors:** Identical to CABG (median sternotomy approach; Finochietto retractor). CPB is established as described above.
+> **BEFORE YOU SCRUB**
+> - [ ] Confirm valve type and size (mechanical vs. bioprosthetic; size templated on pre-op echo)
+> - [ ] Valve sizers for the specific prosthetic system — have all sizes on the field
+> - [ ] Pledgeted sutures: 2-0 Ti-cron or Ethibond × 15–20 with Teflon pledgets; load all sutures before the valve is seated
+> - [ ] Potts scissors for aortotomy extension; 11 blade for the initial stab
+> - [ ] 4-0 Prolene for aortotomy closure; aortic valve retractors (small, smooth-tipped)
+> - [ ] Everything else: same as CABG setup (sternotomy, CPB, wires, chest tubes)
 
-The key difference from CABG is the **target anatomy**: instead of the coronary arteries on the surface of the heart, the valve lies within the ascending aorta — requiring an aortotomy.
+**Position, Prep, Draping:** Identical to CABG. Median sternotomy; Finochietto retractor. CPB established identically.
 
-**The Knife (aortotomy):** After the aortic cross-clamp is applied and cardioplegia delivered, a **#11 blade** is used to stab-incise the ascending aorta transversely; the aortotomy is then extended in both directions with Potts scissors; stay sutures hold the aortic edges open.
+**The Knife (aortotomy):** After cross-clamp and cardioplegia, a #11 blade stab-incises the ascending aorta transversely; Potts scissors extend the aortotomy; stay sutures hold the aortic edges open for valve exposure.
 
-**Retractors inside the aorta:** Aortic valve retractors (nerve hook or small Deaver equivalent designed for the aortic root) retract the aortic wall edges to expose the valve leaflets.
-
----
+**Retractors:** Aortic valve retractors (small, smooth-tipped) retract the aortic wall edges to expose the valve and annulus.
 
 ### The Procedure
 
 1. CPB established; cross-clamp applied; cardioplegia
-2. Transverse aortotomy; stay sutures placed on the aortic edges
-3. Inspect and excise the diseased native valve leaflets and debride the annular calcium
-4. **Size the annulus** with a valve sizer; select appropriate prosthetic valve
-5. Place **pledgeted sutures** around the annulus (15–20 individual sutures using 2-0 Ti-cron or Ethibond with Teflon pledgets); all sutures placed before the valve is seated (loaded onto the valve holder/sewing ring)
-6. **Lower the valve** into the annulus; tie all sutures sequentially; cut
-7. Close the aortotomy: **4-0 Prolene running suture**; two-layer closure (inner running + outer reinforcing)
-8. De-air the heart before releasing the cross-clamp (vent, tilting table, aspiration)
-9. Wean from bypass
+2. Transverse aortotomy; stay sutures on aortic edges
+3. Inspect and excise the diseased native valve leaflets; debride annular calcium
+4. Size the annulus with the valve sizer; select prosthetic valve size
+5. Place pledgeted sutures around the entire annulus (15–20 individual sutures; 2-0 Ti-cron or Ethibond with Teflon pledgets); all sutures placed before the valve is loaded onto the sewing ring
+6. Lower the valve into the annulus; tie all sutures sequentially; cut
+7. Close aortotomy with 4-0 Prolene running suture (two layers); de-air the heart before releasing the cross-clamp
+8. Wean from bypass
 
----
+> **⚠ WATCH FOR**
+> - **Pledget count:** pledgeted sutures are a counted item — every suture has a pledget; if a pledget separates and is not found, the case stops and imaging is performed
+> - **Suture organization:** 15–20 pledgeted sutures in the annulus simultaneously; they must be organized on the field systematically (anterior vs. posterior; each in sequence) so the surgeon can load them without confusion
+> - **Valve sizing:** if the annulus is borderline between two sizes, the surgeon will size again — have all adjacent sizes immediately available
+> - **De-airing:** air in the coronary arteries causes ventricular fibrillation on cross-clamp release; surgeon will tilt the table and vent the aorta before releasing — follow the sequence and do not rush the closing sutures
 
 ### The Closure
 
-Same as CABG (sternotomy closure with wires or plates; mediastinal drains; layered soft tissue closure).
+Same as CABG: sternal wires or plate system; mediastinal drains; layered soft tissue closure.
 
 ---
 
-## 16.4 Carotid Endarterectomy (CEA)
+## Carotid Endarterectomy (CEA)
+
+> **QUICK FACTS**
+> Wound Class: I (Clean) · Position: Supine, head turned away from operative side · Avg time: 90–120 min · Team: surgeon + 1 assistant · Fluoroscopy: sometimes (completion angiography) · Implants: patch graft (saphenous vein, Dacron, or bovine pericardium)
 
 ### The Approach
 
-**Position:** Supine; head turned away from the operative side; neck extended slightly (small shoulder roll or inflatable neck roll beneath the shoulders); head secured in a foam head ring.
+> **BEFORE YOU SCRUB**
+> - [ ] Patch graft material confirmed with surgeon: vein graft vs. Dacron vs. bovine pericardium — pull it and have it on the field unopened until needed
+> - [ ] 6-0 Prolene × 2 on the field (one for the arteriotomy running closure; one backup)
+> - [ ] Silastic vessel loops (red and white) for carotid artery control × 3 (ICA, ECA, CCA)
+> - [ ] DeBakey vascular clamps: straight and angled; confirm they are atraumatic (no teeth)
+> - [ ] Freer elevator for plaque dissection
+> - [ ] Potts scissors for arteriotomy extension; #11 blade for initial arteriotomy stab
+> - [ ] Intraluminal shunt (Javid or Pruitt-Inahara) on the field if neurological monitoring indicates shunting
+> - [ ] Heparin drawn by the circulator; timing with surgeon for administration
 
-**Prep:** CHG/alcohol; prep from the mandible to the upper chest, ipsilateral to the midline (and slightly past midline for bilateral access if needed).
+**Position:** Supine; small shoulder roll; neck slightly extended; head turned away from the operative side; foam head ring.
 
-**Draping:**
-- Head drape wrapping the hair/top of head
-- Small towels framing the neck incision (along the anterior border of the SCM)
-- Thyroid-type or transverse split sheet over the neck and chest, leaving the anterior cervical triangle exposed
+**Prep:** CHG/alcohol; mandible to upper chest, ipsilateral to the midline.
 
-**Gown and Gloves:** Standard.
+**Draping:** Head drape for hair → small towels framing the anterior cervical triangle → thyroid-type or transverse split sheet exposing the neck.
 
-**The Knife:** #15 blade on a #3 handle; longitudinal incision along the anterior border of the sternocleidomastoid muscle, centered on the carotid bifurcation (typically at the level of the mandibular angle). Approximately 6–8 cm.
+**The Knife:** #15 blade on #3 handle; longitudinal incision along the anterior border of the SCM, centered on the carotid bifurcation (mandibular angle level); 6–8 cm.
 
-**Retractors:**
-- **Subcutaneous / platysmal level:** small army-navy retractors initially
-- **Deep (carotid sheath):** self-retaining Weitlaner, or hand-held vein retractors and right-angle retractors; carotid sheath is opened longitudinally with scissors
-- Delicate retraction is essential — no crushing retractors near the carotid bifurcation; the hypoglossal nerve (CN XII) crosses the field and must not be stretched
-
----
+**Retractors:** Army-Navy initially. Deep: Weitlaner or hand-held vein retractors and right-angle retractors to open the carotid sheath. No crushing retractors near the carotid bifurcation — the hypoglossal nerve (CN XII) crosses the field.
 
 ### The Procedure
 
-1. Incise platysma; develop the tissue plane along the anterior border of the SCM
-2. Open the carotid sheath; identify the common, internal, and external carotid arteries
-3. Silastic vessel loops placed around each artery for control; assess for need for intraluminal shunt (EEG monitoring or carotid stump pressure measurement)
-4. Administer heparin; clamp the ICA, ECA, and CCA with atraumatic vascular clamps (DeBakey clamps)
-5. **Arteriotomy:** #11 blade; longitudinal incision through the CCA and extending into the ICA through the plaque; Potts scissors extend the arteriotomy
-6. **Endarterectomy:** develop a dissection plane between the plaque and the media using a Freer elevator; remove plaque en bloc; tack down the distal intimal edge with fine sutures if a "shelf" remains
-7. **Shunt placement** (if needed): intraluminal shunt inserted to maintain cerebral perfusion during the repair
-8. **Arteriotomy closure:** patch angioplasty — saphenous vein, Dacron, or bovine pericardium; **6-0 Prolene running suture**; ensure no air or clot remains before final closure
+1. Incise platysma; develop the tissue plane along the anterior SCM border
+2. Open carotid sheath; identify CCA, ICA, and ECA
+3. Pass silastic vessel loops around each artery for control
+4. Administer heparin; clamp ICA, ECA, and CCA with atraumatic DeBakey vascular clamps
+5. **Arteriotomy:** #11 blade longitudinal incision through CCA extending into ICA through the plaque; Potts scissors extend the arteriotomy
+6. **Endarterectomy:** develop dissection plane between plaque and media with Freer elevator; remove plaque en bloc; tack down distal intimal edge with fine sutures if a "shelf" remains
+7. **Shunt insertion** (if indicated): intraluminal shunt inserted to maintain cerebral perfusion
+8. **Patch closure:** saphenous vein, Dacron, or bovine pericardium patch sutured with 6-0 Prolene running suture; confirm no air or clot before final closure
 
----
+> **⚠ WATCH FOR**
+> - **Hypoglossal nerve traction:** if the nerve is stretched during retraction, the patient will have tongue deviation post-op; alert the surgeon if retraction is forceful superior to the bifurcation
+> - **Clamp time:** stroke risk increases with clamp time; keep all instruments ready to pass without delay — do not let instrument search slow the surgeon
+> - **Prolene management:** 6-0 Prolene is fragile; if a suture breaks mid-run, have the backup 6-0 ready immediately
+> - **Air in the vessel:** before releasing the ICA clamp, the surgeon will flush the vessel; be ready with a bulb syringe of heparinized saline
+> - **Patch wrinkles:** a patch that folds or wrinkles during closure narrows the lumen; point it out to the surgeon before the final throw is tied
 
 ### The Closure
 
-**Carotid sheath / deep layer:** 3-0 Vicryl; approximate the sheath loosely.
-
-**Platysma:** 3-0 Vicryl interrupted.
-
-**Subcutaneous:** 3-0 Vicryl.
-
-**Skin:** 4-0 Monocryl subcuticular (cosmetically visible neck incision — subcuticular is preferred).
-
-**Drain:** Optional small JP drain; placed in the deep cervical space.
+| Layer | Suture | Notes |
+|-------|--------|-------|
+| Carotid sheath / deep layer | 3-0 Vicryl | Approximate loosely |
+| Platysma | 3-0 Vicryl interrupted | |
+| Subcutaneous | 3-0 Vicryl | |
+| Skin | 4-0 Monocryl subcuticular | Cosmetically visible — subcuticular preferred |
+| Drain | Optional small JP | Placed in deep cervical space |
 
 **Dressing:** Steri-strips; light gauze.
 
 ---
 
-## 16.5 Video-Assisted Thoracoscopic Lobectomy (VATS)
+## VATS Lobectomy
+
+> **QUICK FACTS**
+> Wound Class: I (Clean) · Position: Lateral decubitus, operative lung up · Avg time: 90–150 min · Team: surgeon + 1 assistant · Single-lung ventilation: required · Implants: none; Endo-GIA stapler loads
 
 ### The Approach
 
-**Position:** Lateral decubitus (operative lung up); double-lumen ETT placed by anesthesia for single-lung ventilation (the operative lung is deflated to allow working space). Bean bag positioner secures the lateral position.
+> **BEFORE YOU SCRUB**
+> - [ ] Double-lumen ETT confirmed placed and positioned by anesthesia before prepping
+> - [ ] Endo-GIA stapler with vascular loads (white/gray) × 3–4; bronchial loads (green/blue) × 1–2 — confirm with surgeon; have extras of each
+> - [ ] Thoracoscope: 10 mm 30° scope; camera white-balanced and focused
+> - [ ] Specimen bag (endobag) for lobe extraction through the utility port
+> - [ ] 28–32 Fr chest tube; 0 silk × 2 for securing
+> - [ ] Thoracoscopic instruments: graspers, dissectors, clip applier, electrosurgical hook; confirm all are in the room and working
 
-**Prep:** CHG/alcohol; prep the entire ipsilateral chest and lateral torso circumferentially.
+**Position:** Lateral decubitus; operative lung up; beanbag positioner. Confirm single-lung ventilation is established (operative lung deflated) before making any port incisions.
 
-**Draping:** Thoracic draping: split sheet under the patient; three-quarter sheet covers the lower body and table; the lateral chest is exposed; an upper-body drape covers the non-operative shoulder and arm; the arm is supported on a padded arm sled.
+**Prep:** CHG/alcohol; entire ipsilateral chest and lateral torso circumferentially.
 
-**Gown and Gloves:** Standard.
+**Draping:** Split sheet under the patient → three-quarter sheet for lower body → lateral chest exposed → upper-body drape over the non-operative shoulder; arm supported on a padded arm sled.
 
-**The Knife:**
-- **Camera port:** #11 blade; 1.5 cm incision in the 7th or 8th intercostal space (ICS) at the midaxillary line
-- **Working ports:** Two additional #11 blade incisions; typically at the 4th ICS anteriorly and 5th/6th ICS posteriorly; total of 2–3 small incisions
-- **Utility port / access incision:** some VATS lobectomies use a small access incision (2–4 cm) to remove the specimen and improve instrument maneuverability — this is the "key hole"
+**The Knife:** #11 blade for all ports. Camera port: 1.5 cm at the 7th or 8th ICS, midaxillary line. Working ports: 4th ICS anteriorly and 5th/6th ICS posteriorly. Utility/access incision: 2–4 cm for specimen removal.
 
-**Retractors:** No rib spreading in VATS — the key advantage over open thoracotomy. The deflated lung falls away and provides its own working space. A ring forceps or sponge stick may be used to gently displace lung segments. The thoracoscope provides the visual retraction equivalent.
-
----
+**Retractors:** None — the deflated lung falls away and provides the working space. Thoracoscope provides visualization. Sponge stick or ring forceps for gentle lung displacement if needed.
 
 ### The Procedure
 
-1. Place thoracoscope (camera) through the camera port; inspect the pleural cavity; confirm single-lung ventilation is established (operative lung deflated)
-2. Divide the inferior pulmonary ligament to mobilize the lower lobe
-3. Dissect the fissure between lobes (if incomplete fissure, use Endo-GIA stapler to complete)
-4. Identify and dissect pulmonary artery branches to the target lobe; divide with Endo-GIA vascular load (white/gray)
-5. Identify and divide pulmonary vein(s) to the target lobe with Endo-GIA
-6. Divide the lobar bronchus with Endo-GIA
-7. Remove specimen in a specimen bag through the utility/access port
+1. Place thoracoscope through the camera port; inspect the pleural cavity; confirm operative lung is deflated
+2. Divide the inferior pulmonary ligament to mobilize the lobe (hook electrocautery)
+3. Dissect the fissure; complete it with Endo-GIA if the fissure is incomplete (use appropriate load)
+4. Identify pulmonary artery branches to the target lobe; divide with Endo-GIA vascular load (white/gray)
+5. Identify and divide pulmonary vein(s) with Endo-GIA vascular load
+6. Divide the lobar bronchus with Endo-GIA bronchial load (green/blue)
+7. Place lobe in endobag; extract through the utility/access port
 
----
+> **⚠ WATCH FOR**
+> - **Wrong staple load:** vascular structures use white/vascular loads; bronchus uses green/blue loads; giving the wrong load for the wrong structure is a critical error — confirm the load type with the surgeon each time
+> - **Single-lung ventilation failure:** if the anesthesia team reports difficulty maintaining single-lung ventilation, the surgeon may need to pause; do not rush; confirm with anesthesia before re-engaging
+> - **Bleeding at a staple line:** if a vascular staple line bleeds after firing, the surgeon needs another vascular load or a suture immediately — have 4-0 or 5-0 Prolene ready
+> - **Specimen bag failure:** if the endobag tears during extraction, pieces of the lobe can contaminate the port site (especially in cancer cases); avoid rough handling during extraction
+> - **Chest tube count:** the chest tube placed at the end is part of your count; document it and confirm its exit site
 
 ### The Closure
 
-**Chest tube:** 28–32 Fr chest tube placed through one of the port sites; connected to water-seal drainage (Pleur-evac); secured with 0 silk suture around the tube; tied securely; petroleum gauze (Xeroform) dressing around the tube site.
+| Layer | Suture | Notes |
+|-------|--------|-------|
+| Intercostal / port site fascia | 0 Vicryl | Per port |
+| Subcutaneous | 2-0 Vicryl | |
+| Skin | 4-0 Monocryl | |
+| Chest tube securing suture | 0 silk | Tied around tube; petroleum gauze (Xeroform) around the site |
 
-**Port sites:** 0 Vicryl for intercostal fascial closure; 2-0 Vicryl subcutaneous; 4-0 Monocryl skin.
-
-**Dressing:** Occlusive dressing over chest tube; Tegaderm or Mefix over port incisions.
+**Dressing:** Occlusive dressing over chest tube site; Tegaderm or Mefix over port incisions.
 
 ---
 
@@ -221,22 +242,10 @@ Same as CABG (sternotomy closure with wires or plates; mediastinal drains; layer
 
 > "In cardiac and thoracic surgery, the Approach is a structured, sequential entry into the most protected cavity in the human body. Every element — the sternotomy, the Finochietto, the purse-strings — must be perfect before the heart is touched."
 
-- Vascular sutures (Prolene 7-0, 8-0) are unforgiving. Do not let them kink, tangle, or dry. Keep them moistened and managed carefully on the field.
-- When the sternal saw fires, control the field. Bone dust aerosolizes. Irrigation helps.
-- In a VATS case, the Endo-GIA stapler load selection matters: vascular structures use white/vascular loads; bronchus uses green/blue loads. Confirm each load with the surgeon.
-
----
-
-## Review Questions
-
-1. Describe the Approach for CABG: position, prep sites, initial incisions, retractors.
-2. What is the Finochietto retractor and what does it expose?
-3. What suture and size is used for LIMA-to-coronary distal anastomosis?
-4. In AVR, how are the prosthetic valve sutures placed before the valve is seated?
-5. Describe the Approach for carotid endarterectomy: position, incision, retractors.
-6. What is a patch angioplasty in CEA, and what suture is used?
-7. Describe the key differences in the Approach between VATS lobectomy and open thoracotomy.
-8. What Endo-GIA load is used for vascular structures, and why?
+- Vascular sutures (6-0, 7-0 Prolene) are unforgiving. Keep them moist. Manage their tails. Never let them kink or catch on an instrument.
+- When the sternal saw fires, bone dust aerosolizes. Continuous irrigation during the cut reduces contamination.
+- In VATS, confirm the staple load type before every single fire. The wrong load for the structure is the most preventable serious error in thoracic surgery.
+- Track your chest tubes as carefully as your sponge count. A misplaced or uncounted drain is a post-op emergency.
 
 ---
 

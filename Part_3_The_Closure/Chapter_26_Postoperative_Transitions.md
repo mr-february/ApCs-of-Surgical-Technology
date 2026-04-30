@@ -2,17 +2,6 @@
 
 ---
 
-## Learning Objectives
-
-By the end of this chapter, the learner will be able to:
-
-1. Describe the scrub technologist's responsibilities at the end of a surgical case.
-2. Explain the safe patient transfer process from the OR table.
-3. Identify common postoperative complications and their early signs.
-4. Describe OR room turnover and terminal cleaning procedures.
-
----
-
 ## 26.1 End-of-Case Responsibilities
 
 The case is not over when the last suture is placed. The scrub technologist has a defined set of responsibilities that complete the procedure and prepare for safe patient transfer.
@@ -153,19 +142,6 @@ Every patient on the OR table is someone's parent, partner, or child. They are u
 The ApC's are not just chapters in a textbook. They are the structure of professional practice and the framework of a career built in service of the most vulnerable moments in a human being's life.
 
 Welcome to the profession.
-
----
-
-## Review Questions
-
-1. List five tasks the scrub technologist must complete before the patient leaves the OR table.
-2. How many people are needed for a standard patient transfer, and what is each person's role?
-3. Describe the SBAR framework for patient handoff.
-4. What is the difference between primary, reactive, and secondary hemorrhage?
-5. What is wound dehiscence, and what is the significance of "salmon-colored drainage"?
-6. What is evisceration, and how is it immediately managed?
-7. Describe the difference between between-case cleaning and terminal cleaning.
-8. What special cleaning agent is required after a case involving *C. difficile*, and why?
 
 ---
 

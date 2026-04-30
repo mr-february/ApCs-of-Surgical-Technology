@@ -2,37 +2,6 @@
 
 ---
 
-## Learning Objectives
-
-By the end of this chapter, the learner will be able to:
-
-1. Identify and describe the four types of anesthesia used in surgical procedures.
-2. Describe the phases of general anesthesia.
-3. Identify common anesthetic agents and their classifications.
-4. Explain the role of the surgical technologist during anesthesia induction and emergence.
-5. Describe malignant hyperthermia: triggers, signs, and emergency response.
-6. Identify common airway management devices.
-
----
-
-## Key Terms
-
-| Term | Definition |
-|------|-----------|
-| **Anesthesia** | A state of controlled, temporary loss of sensation or consciousness for medical purposes |
-| **Anesthesiologist** | A physician (MD/DO) specializing in anesthesia care |
-| **CRNA** | Certified Registered Nurse Anesthetist; advanced practice nurse specializing in anesthesia |
-| **Induction** | The phase of general anesthesia when consciousness is lost |
-| **Maintenance** | The sustained anesthetic state during the operative procedure |
-| **Emergence** | The phase of anesthesia when the patient regains consciousness |
-| **Intubation** | Placement of an endotracheal tube (ETT) through the mouth into the trachea |
-| **LMA** | Laryngeal Mask Airway; supraglottic airway device |
-| **MAC** | Monitored Anesthesia Care; moderate sedation with local anesthesia |
-| **Malignant Hyperthermia (MH)** | A rare, life-threatening hypermetabolic reaction to volatile anesthetic agents or succinylcholine |
-| **Dantrolene** | The antidote for malignant hyperthermia |
-
----
-
 ## 9.1 Types of Anesthesia
 
 Anesthesia is not a single intervention — it is a spectrum of techniques calibrated to the patient, the procedure, and the goals of the operative team.
@@ -254,19 +223,6 @@ Dantrolene is provided as a lyophilized powder (20 mg per vial) requiring 60 mL 
 - If a surgeon is asking for epinephrine in a local anesthetic for a digit procedure, speak up — epinephrine is contraindicated in end-arterial tissues. Patient safety is everyone's responsibility.
 - Rising EtCO₂ during a case is not normal. If you notice it on the monitor, inform the team.
 - Know where the MH cart is before every case. Every OR should have one stocked and immediately accessible.
-
----
-
-## Review Questions
-
-1. What are the "four A's" of general anesthesia?
-2. Describe the difference between spinal and epidural anesthesia.
-3. Name two IV induction agents and one key characteristic of each.
-4. What is the earliest sign of malignant hyperthermia?
-5. Name the two categories of anesthetic agent that trigger malignant hyperthermia.
-6. What is dantrolene, and what is the initial dosing in an MH crisis?
-7. Why is epinephrine contraindicated in local anesthetic injections to fingers or toes?
-8. What does CRNA stand for, and how does their role differ from an anesthesiologist?
 
 ---
 

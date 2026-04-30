@@ -2,33 +2,6 @@
 
 ---
 
-## Learning Objectives
-
-By the end of this chapter, the learner will be able to:
-
-1. Explain the purpose and principles of preoperative skin preparation.
-2. Compare the properties of common skin prep agents.
-3. Describe proper skin prep technique for various operative sites.
-4. Explain the principles of surgical draping.
-5. Describe standard draping setups for common procedures.
-
----
-
-## Key Terms
-
-| Term | Definition |
-|------|-----------|
-| **Skin preparation (skin prep)** | Application of an antiseptic to the surgical site to reduce bacterial colonization |
-| **Chlorhexidine gluconate (CHG)** | Most commonly used surgical antiseptic; bactericidal; persistent activity |
-| **Povidone-iodine (betadine)** | Iodine-based antiseptic; broad-spectrum; less persistent than CHG |
-| **Draping** | Covering the patient and OR environment with sterile barriers to create and maintain the sterile field |
-| **Incise drape** | Adhesive sterile film applied over the surgical site through which the incision is made |
-| **Fenestrated drape** | Drape with a pre-cut opening to expose the operative site |
-| **Cephalad** | Toward the head |
-| **Caudal** | Toward the feet |
-
----
-
 ## 11.1 Purpose of Skin Preparation
 
 Even with intact skin, the human body harbors millions of bacteria. Skin prep cannot sterilize the skin — it reduces the total bacterial count to a level unlikely to cause infection in the context of the surgical wound. The goal is to decrease the risk of endogenous SSIs (those caused by the patient's own flora).
@@ -194,19 +167,6 @@ Once draping is complete:
 - Check your prep solution before opening the case. A CHG-allergic patient needs a different agent. Check the allergy list.
 - Alcohol-based prep agents need time to dry. Three minutes minimum — resist the surgeon's impatience when patient safety is at stake.
 - When passing drapes, hold them up and out — away from your scrub suit — before placing them. A drape that brushes your non-sterile torso is contaminated.
-
----
-
-## Review Questions
-
-1. What is the purpose of surgical skin preparation?
-2. Compare CHG and povidone-iodine as surgical prep agents: spectrum, persistence, and contraindications.
-3. Why are razors prohibited for hair removal before surgery?
-4. Describe the correct direction and technique for skin prep around a contaminated area.
-5. When prepping for an abdominal case, where do you begin and why?
-6. What is the rule about repositioning drapes after they are placed?
-7. What is an incise drape, and why must skin be completely dry before applying it?
-8. Why must alcohol-based prep agents be allowed to fully dry before draping?
 
 ---
 

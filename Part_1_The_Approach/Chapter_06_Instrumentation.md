@@ -2,34 +2,6 @@
 
 ---
 
-## Learning Objectives
-
-By the end of this chapter, the learner will be able to:
-
-1. Classify surgical instruments by function.
-2. Identify common instruments by name and describe their use.
-3. Explain instrument naming conventions.
-4. Describe proper instrument handling, care, and passing techniques.
-5. Explain the purpose, procedure, and timing of surgical counts.
-
----
-
-## Key Terms
-
-| Term | Definition |
-|------|-----------|
-| **Ring handle** | Scissor-style handle with finger rings; common on clamps, scissors, and needle holders |
-| **Ratchet** | Locking mechanism on a clamp that holds it closed in incremental positions |
-| **Box lock** | The pivot mechanism joining the two halves of a clamping or cutting instrument |
-| **Serrations** | Horizontal grooves on the inner jaw surface of a clamp that improve grip |
-| **Fenestrated** | Having an opening or window; refers to jaws with holes for lightness or to allow tissue visualization |
-| **Atraumatic** | Designed to grasp tissue without crushing or tearing |
-| **Instrument count** | A systematic accounting of all instruments, sponges, and sharps on the sterile field |
-| **Mayo stand** | Moveable tray positioned near the operative field containing currently needed instruments |
-| **Preference card** | Surgeon-specific documentation of instrument preferences, supply needs, and setup requirements |
-
----
-
 ## 6.1 Instrument Classification by Function
 
 ![Common Surgical Instruments](../illustrations/instrument_silhouettes.svg)
@@ -252,19 +224,6 @@ All discrepancies must be documented and reported per institutional policy, rega
 - When handing a needle holder, always be aware of where the free needle tip is pointing.
 - If a surgeon asks for an instrument you don't recognize, do not guess — ask for clarification. A wrong guess handed confidently can go somewhere it shouldn't.
 - Read the preference card before every case. Surgeons have preferences because they matter.
-
----
-
-## Review Questions
-
-1. Name the five categories of surgical instruments and provide two examples of each.
-2. What is the difference between a Metzenbaum and a Mayo scissor? When is each used?
-3. Describe how to mount a scalpel blade safely.
-4. What is the neutral zone, and how is it used for sharps passing?
-5. When are surgical counts performed?
-6. What should happen if a final instrument count does not reconcile before skin closure?
-7. What is a preference card, and why is it important for the scrub technologist?
-8. Describe how to correctly pass a loaded needle holder.
 
 ---
 

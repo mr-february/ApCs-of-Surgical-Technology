@@ -2,18 +2,6 @@
 
 ---
 
-## Learning Objectives
-
-By the end of this chapter, the learner will be able to:
-
-1. Explain how the ApC framework structures every surgical procedure.
-2. Classify surgical wounds by contamination level.
-3. Describe the principles of tissue handling that apply across all specialties.
-4. Identify the layers of the abdominal wall and their implications for access and closure.
-5. Read any procedure in Part II using the Approach → Procedure → Closure structure.
-
----
-
 ## 12.1 The Framework That Never Changes
 
 Every chapter in Part II covers a different surgical specialty with different anatomy, different instruments, and different pathology. But every single procedure in every single chapter follows the same structure:
@@ -219,21 +207,6 @@ When you scrub a case you have never seen before, read it this way. When you are
 The Approach. The Procedure. The Closure.
 
 Every time.
-
----
-
-## Review Questions
-
-1. What are the four constant elements of every surgical Approach?
-2. Describe the four wound classifications and the approximate SSI rate for each.
-3. How does wound classification affect the Closure decision?
-4. List the layers of the anterior abdominal wall from superficial to deep.
-5. What is the linea alba, and why is it preferred for midline incisions?
-6. Describe the difference between primary, secondary, and tertiary wound healing.
-7. What is a Kittner dissector, and what special precaution must be observed when using it?
-8. Name three types of abdominal incisions and their primary indications.
-9. Why should a two-table technique (or instrument exchange) be considered for Class IV wound closures?
-10. Describe how the ApC framework helps a scrub tech prepare for a procedure they have never seen.
 
 ---
 

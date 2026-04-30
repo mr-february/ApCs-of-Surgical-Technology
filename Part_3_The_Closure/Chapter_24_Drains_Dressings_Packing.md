@@ -2,18 +2,6 @@
 
 ---
 
-## Learning Objectives
-
-By the end of this chapter, the learner will be able to:
-
-1. Identify types of surgical drains and their indications.
-2. Describe proper drain placement and securing technique.
-3. Identify wound dressing types and their selection criteria.
-4. Explain negative pressure wound therapy (wound VAC).
-5. Describe wound packing technique and materials.
-
----
-
 ## 24.1 Surgical Drains
 
 A surgical drain removes blood, serum, bile, lymph, or air from a wound cavity, preventing accumulation that would otherwise create dead space, promote infection, or impair healing.
@@ -154,19 +142,6 @@ NPWT uses continuous or intermittent subatmospheric (negative) pressure applied 
 - When applying dressings over a drain site, ensure the drain is clearly visible through or at the edge of the dressing — nursing staff need to assess and empty it.
 - Wound VAC foam must fill the wound completely — if it doesn't, it creates dead space. Cut and piece foam to fill all recesses.
 - If a drain is accidentally removed during dressing application, do not attempt to reinsert it — notify the surgeon.
-
----
-
-## Review Questions
-
-1. Describe the difference between a Jackson-Pratt drain and a Penrose drain.
-2. How is a closed-suction drain activated to create negative pressure?
-3. What are the three layers of a basic wound dressing?
-4. When is a wet-to-dry dressing used, and what purpose does it serve?
-5. Describe the components of a negative pressure wound therapy (VAC) system.
-6. What are the clinical indications for NPWT?
-7. How should packing be placed in an open contaminated wound?
-8. What information should the scrub tech confirm before applying the wound dressing?
 
 ---
 

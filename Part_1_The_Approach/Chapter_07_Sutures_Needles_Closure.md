@@ -2,34 +2,6 @@
 
 ---
 
-## Learning Objectives
-
-By the end of this chapter, the learner will be able to:
-
-1. Classify sutures by absorbability, origin, and structure.
-2. Identify common suture materials and their clinical applications.
-3. Describe suture packaging information and how to load suture on the sterile field.
-4. Classify surgical needles by point type and body shape.
-5. Describe alternative wound closure devices including staples, clips, strips, and tissue adhesives.
-
----
-
-## Key Terms
-
-| Term | Definition |
-|------|-----------|
-| **Absorbable suture** | Suture that is broken down and absorbed by the body over time |
-| **Non-absorbable suture** | Suture that is not broken down; remains in tissue permanently or is removed |
-| **Monofilament** | Single-strand suture; smooth surface; less harbor for bacteria |
-| **Multifilament (braided)** | Multiple strands twisted or braided; more pliable; stronger knot security |
-| **Tensile strength** | The amount of tension a suture can withstand before breaking |
-| **Memory** | A suture's tendency to return to its packaged shape; high memory makes handling difficult |
-| **Capillarity** | A suture's ability to absorb fluid along its length; braided sutures have higher capillarity |
-| **Swaged (atraumatic) needle** | Needle and suture joined as a single unit; no eye to thread |
-| **Needle gauge** | Thickness of the needle wire; finer gauge = smaller needle body |
-
----
-
 ## 7.1 Suture Classification
 
 Sutures are classified along three axes: absorbability, origin, and structure.
@@ -203,19 +175,6 @@ Heavy, non-absorbable sutures placed through all layers of the abdominal wall to
 - Monofilament sutures (Prolene, nylon, PDS) have memory. Pre-stretch them slightly by pulling through a moist gauze to reduce springback.
 - When passing suture to the surgeon, keep the tail organized — let it fall to one side and don't let it tangle with other supplies on the field.
 - Know the difference between the Vicryl the surgeon uses for fascia (#1), subcutaneous (3-0), and skin (4-0). All three may be open at once; keeping them distinct matters.
-
----
-
-## Review Questions
-
-1. What is the difference between absorbable and non-absorbable suture?
-2. Compare monofilament and multifilament sutures: list one advantage and one disadvantage of each.
-3. What does "3-0" mean in suture sizing? Is it larger or smaller than "2-0"?
-4. Describe the three main types of needle points and identify a use for each.
-5. What information appears on the outside of a suture package?
-6. What is the difference between a GIA stapler and an EEA stapler?
-7. When is tissue adhesive (Dermabond) appropriate for wound closure?
-8. How should suture be loaded on a needle holder, and at what position on the needle?
 
 ---
 

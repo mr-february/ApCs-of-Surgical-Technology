@@ -2,34 +2,6 @@
 
 ---
 
-## Learning Objectives
-
-By the end of this chapter, the learner will be able to:
-
-1. Describe the physical layout of a typical operating room suite.
-2. Identify and explain the three OR traffic zones.
-3. Explain environmental controls (temperature, humidity, air exchange) and their purpose.
-4. Identify standard OR equipment and its function.
-5. Describe fire safety principles in the operating room.
-
----
-
-## Key Terms
-
-| Term | Definition |
-|------|-----------|
-| **Unrestricted Zone** | Area of the OR suite where standard hospital attire is acceptable |
-| **Semi-restricted Zone** | Area where surgical attire and head covering are required |
-| **Restricted Zone** | The OR itself; surgical attire, head covering, and mask are required |
-| **Laminar Airflow** | Unidirectional, filtered airflow directed downward over the operative field to reduce contamination |
-| **Positive Pressure** | Higher air pressure inside the OR than in adjacent corridors, preventing unfiltered air from entering |
-| **HEPA Filter** | High-Efficiency Particulate Air filter used to remove contaminants from OR air |
-| **Electrosurgical Unit (ESU)** | Device that uses high-frequency electrical current to cut tissue and achieve hemostasis |
-| **C-arm** | Portable fluoroscopy unit used for intraoperative imaging |
-| **Boyle's Law** | Relationship between gas pressure and volume; relevant to anesthesia machine function |
-
----
-
 ## 2.1 The Surgical Suite: An Overview
 
 The operating room suite is a self-contained unit within the hospital designed to provide the most controlled, cleanest possible environment for invasive procedures. Everything about its design — from the floor plan to the air handling systems to the material of the walls — exists to reduce the risk of contamination and support the safe delivery of surgical care.
@@ -211,18 +183,6 @@ If a fire occurs on the sterile drapes:
 - Before your first patient of the day, walk the room. Know where every piece of equipment is. Know how the OR table works. Know where the fire extinguisher is. Know how to reach the charge nurse.
 - Keep OR doors closed during cases — every opening disrupts the pressure differential and increases contamination risk.
 - If you are unsure about equipment function, ask before the case begins — not during a crisis.
-
----
-
-## Review Questions
-
-1. What are the three OR traffic zones, and what attire is required in each?
-2. Why is the OR maintained at positive pressure relative to surrounding corridors?
-3. What is the recommended air exchange rate for an operating room?
-4. What is the purpose of laminar airflow, and in which types of ORs is it most commonly used?
-5. Describe the components of the fire triad and give one example of each in the OR setting.
-6. What is the RACE protocol, and when is it used?
-7. Explain the difference between the back table and the Mayo stand.
 
 ---
 

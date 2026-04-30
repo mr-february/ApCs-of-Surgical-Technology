@@ -2,36 +2,6 @@
 
 ---
 
-## Learning Objectives
-
-By the end of this chapter, the learner will be able to:
-
-1. Differentiate between sterilization, disinfection, sanitization, and decontamination.
-2. Apply the Spaulding classification system to instrument processing decisions.
-3. Describe the major methods of sterilization and their indications.
-4. Explain the role of biological and chemical indicators in sterilization monitoring.
-5. Describe the instrument reprocessing workflow from point of use to sterile storage.
-
----
-
-## Key Terms
-
-| Term | Definition |
-|------|-----------|
-| **Sterilization** | Destruction of ALL microorganisms, including spores |
-| **Disinfection** | Destruction of most pathogenic organisms; does NOT reliably kill spores |
-| **Sanitization** | Cleaning to reduce microbial load to safe levels (e.g., household surfaces) |
-| **Decontamination** | Process of removing or neutralizing contaminants (biological, chemical, radiological) from instruments or personnel |
-| **Bioburden** | The number of viable microorganisms on an item prior to sterilization |
-| **Spaulding Classification** | System for classifying instruments by risk level and required reprocessing method |
-| **Biological Indicator (BI)** | Contains live spores to test the lethality of a sterilization cycle |
-| **Chemical Indicator (CI)** | Uses a chemical reaction to show exposure to sterilization parameters |
-| **IUSS** | Immediate Use Steam Sterilization; flash sterilization for unwrapped items needed urgently |
-| **EtO** | Ethylene oxide; a low-temperature sterilization gas |
-| **Hydrogen Peroxide Plasma** | Low-temperature sterilization system (e.g., Sterrad) using vaporized H₂O₂ |
-
----
-
 ## 4.1 Defining the Hierarchy
 
 The terms sterilization, disinfection, and cleaning are often used loosely, but they represent very distinct levels of microbial control with different indications, processes, and outcomes.
@@ -222,19 +192,6 @@ Under this system, expiration dates are still applied as an internal audit mecha
 - Always inspect packaging before opening. Wet packages, torn packaging, or damaged containers must be considered non-sterile and returned for reprocessing.
 - Never use a chemical indicator result alone to release items from quarantine after a suspected sterilization failure — wait for the BI result.
 - If an IUSS item is processed for an emergency, document the reason. Routine IUSS bypasses important quality controls and should be a last resort.
-
----
-
-## Review Questions
-
-1. What is the difference between sterilization and high-level disinfection?
-2. Describe the Spaulding classification system and provide two examples for each category.
-3. Name four methods of sterilization and identify one advantage and one disadvantage of each.
-4. What organisms are used in biological indicators for steam and EtO sterilization?
-5. What is IUSS, and when is it appropriate?
-6. Explain the concept of event-related sterility.
-7. What action must be taken if a biological indicator returns a positive result?
-8. Why must instruments be cleaned before sterilization?
 
 ---
 

@@ -2,18 +2,7 @@
 
 ---
 
-## Learning Objectives
-
-By the end of this chapter, the learner will be able to:
-
-1. Review abdominal anatomy relevant to general surgery.
-2. Apply the ApC framework (Approach, Procedure, Closure) to common general surgery cases.
-3. Identify the specific draping, incision, and retractor setup for each procedure.
-4. Describe the scrub technologist's role in open and laparoscopic approaches.
-
----
-
-## 13.1 Abdominal Anatomy Review
+## 13.1 Abdominal Anatomy — What You Need to Know
 
 **Solid organs:** Liver (RUQ), spleen (LUQ), pancreas (retroperitoneal, central), kidneys (retroperitoneal, bilateral).
 
@@ -21,7 +10,6 @@ By the end of this chapter, the learner will be able to:
 
 **Vascular landmarks:** Aorta (midline retroperitoneal), IVC (right of aorta), portal vein (formed by splenic vein + SMV at the pancreatic neck).
 
-**Quadrant reference:**
 | Quadrant | Key Contents |
 |---------|-------------|
 | RUQ | Liver, gallbladder, right kidney, hepatic flexure |
@@ -31,287 +19,323 @@ By the end of this chapter, the learner will be able to:
 
 ---
 
-## 13.2 Laparoscopic Surgery: Principles and Tower Setup
+## 13.2 Laparoscopic Tower Setup — Every Lap Case
 
-**Laparoscopic tower components:**
-- Monitor(s)
-- Camera head + light source
-- CO₂ insufflator (creates pneumoperitoneum at 10–15 mmHg)
-- Smoke evacuator
+Before any laparoscopic general surgery case, confirm with the circulator:
+- Monitor(s) functional and positioned for surgeon sight line
+- Camera head + light source + CO₂ insufflator on and tested
+- Smoke evacuator connected
+- Correct laparoscope angle per preference card (0° or 30°)
 
-**Scrub setup for any laparoscopic case:**
-- Veress needle or Hasson trocar for initial entry
-- Trocars (5 mm, 10–12 mm) in appropriate sizes for that case
-- 0° or 30° laparoscope (per surgeon preference card)
-- Laparoscopic instruments: graspers, scissors, dissectors, clip appliers, suction/irrigation
-- Anti-fog solution or warm saline for scope tip
-- Appropriate energy device (L-hook cautery, harmonic, ligasure)
+**On the sterile field for any lap case:**
+- Veress needle or Hasson trocar (per surgeon preference)
+- Trocars in the sizes needed (5 mm, 10–12 mm)
+- Laparoscope + camera + light cord — have anti-fog solution or warm saline ready
+- Laparoscopic graspers, dissectors, scissors, suction/irrigation
+- Energy device: L-hook cautery, harmonic scalpel, or LigaSure (confirm with preference card)
 
-**The camera cord and CO₂ tubing are sterile field items.** Secure them to the drape with a clamp; route them off the field to the tower (circulator connects the non-sterile end).
+Camera cord and CO₂ tubing are sterile field items. Secure them to the drape; the circulator connects the non-sterile end to the tower.
 
 ---
 
-## 13.3 Appendectomy
+## 13.3 Laparoscopic Appendectomy
+
+> **QUICK FACTS**
+> Wound Class: I (Clean) — reclassify to III if perforation found · Position: Supine → Trendelenburg + left tilt · Avg time: 30–60 min · Team: Surgeon + scrub + circulator
 
 ### The Approach
 
-**Position:** Supine; slight Trendelenburg with left lateral tilt once ports are placed (gravity displaces bowel out of the RLQ field).
+> **BEFORE YOU SCRUB**
+> - [ ] 30° laparoscope + camera + light cord
+> - [ ] Trocars: 12 mm × 1 (umbilical), 5 mm × 2 (RLQ + suprapubic)
+> - [ ] Endoloops (Roeder loops) × 3 — or endo-GIA with blue/white load
+> - [ ] Specimen retrieval bag (Endocatch or similar)
+> - [ ] #10 blade on #3 handle (umbilical), #11 blades ×2 (5 mm ports)
+> - [ ] Suction/irrigation cannula + warm saline
+> - [ ] Extra lap sponges if perforation possible
 
-**Prep:** Chlorhexidine/alcohol; prep from nipples to mid-thigh, full width. Include umbilicus separately.
+**Position:** Supine; Trendelenburg with left lateral tilt once ports are placed.
 
-**Draping:** Four draping towels placed around the abdomen; fenestrated laparotomy sheet (or laparoscopic sheet with port openings).
+**Prep:** CHG/alcohol; nipples to mid-thigh, full width; umbilicus prepped separately.
 
-**Gown and Gloves:** Standard gown and glove; no special considerations unless obese patient (longer instruments required — confirm with circulator before setup).
+**Draping:** Four towels + laparoscopic fenestrated sheet.
 
-**The Knife:** #10 blade on a #3 handle at the umbilicus for the initial port incision (typically 10–12 mm). The skin incision is small — approximately 1–1.5 cm. Additional 5 mm incisions at the RLQ and suprapubic sites.
+**The Knife:** #10 blade at umbilicus (12 mm port); #11 at 5 mm port sites.
 
-**Retractors:** No conventional retractors in laparoscopic appendectomy — the pneumoperitoneum itself provides the working space. The trocars serve as the "retractors" maintaining port access. Laparoscopic graspers retract the cecum and mesoappendix for exposure.
+**Retractors:** Pneumoperitoneum (10–15 mmHg) = the working space. Laparoscopic grasper retracts the cecum.
 
 ---
 
 ### The Procedure
 
-1. Veress needle or Hasson open technique for initial abdominal access; CO₂ insufflated to 10–15 mmHg
-2. 12 mm camera port at umbilicus; 5 mm ports at RLQ and suprapubic
-3. Inspect abdomen; confirm diagnosis; identify base of appendix at the convergence of the taeniae coli
-4. Dissect mesoappendix with L-hook or energy device; ligate appendiceal artery with clips or energy device
-5. Ligate appendiceal base with two endoloops (Roeder loops) proximally; one loop distally; divide between
-6. Alternatively: divide the base with a laparoscopic linear stapler (endo-GIA with blue/white load)
-7. Place appendix into a specimen retrieval bag; extract through the 12 mm umbilical port
-8. Irrigate pelvis/RLQ if perforated (Class III wound)
-9. Release pneumoperitoneum
+1. Umbilical access (Veress or Hasson); CO₂ to 10–15 mmHg
+2. 30° scope inserted; ports placed under direct vision
+3. Trendelenburg + left tilt; identify cecum and taeniae coli convergence = appendix base
+4. Dissect mesoappendix with energy device; clip appendiceal artery (2 clips proximal, 1 distal); divide
+5. Place 2 endoloops at the base (proximal); 1 loop distally; divide between loops — **or** fire endo-GIA across the base
+6. Place appendix in specimen bag; extract through 12 mm port
+7. If perforation found: irrigate pelvis/RLQ copiously with warm saline; wound reclassified
 
-**Scrub tech: have endoloops loaded and ready before the base is ligated; prepare the specimen bag before extraction; ensure suction is immediately accessible if perforation is encountered.**
+> **⚠ WATCH FOR**
+> - **Perforation discovered at scope:** immediately have suction and irrigation ready; alert circulator to reclassify wound; extra sponges may be needed
+> - **Endoloop fails to tighten:** have 2 backup loops loaded before surgeon reaches the base
+> - **Stone-hard appendix / abscess:** surgeon may convert to open — have open appendectomy instruments accessible on back table
+> - **Appendix in retrocecal position:** dissection takes longer; anticipate more instrument exchanges and possible longer case
 
 ---
 
 ### The Closure
 
-**Fascia:** 12 mm port site closed with 0 Vicryl on a large needle (fascial closure required for all port sites ≥10 mm to prevent port-site hernia); use a Carter-Thomason closure device or hand-sutured.
-
-**Skin:** 4-0 Monocryl subcuticular for all port sites; or skin staples; covered with Steri-strips.
-
-**Dressing:** Small Tegaderm or adhesive bandage over each port site.
+| Layer | Suture | Notes |
+|-------|--------|-------|
+| Fascia (12 mm port) | 0 Vicryl CTX | Required for all ports ≥10 mm |
+| Skin | 4-0 Monocryl subcuticular | All port sites |
+| Dressing | Small Tegaderm | Each port site |
 
 ---
 
 ## 13.4 Laparoscopic Cholecystectomy (Lap Chole)
 
+> **QUICK FACTS**
+> Wound Class: I (Clean) — II if bile spillage · Position: Supine, reverse Trendelenburg + left tilt · Avg time: 45–90 min · Team: Surgeon + scrub + circulator
+
 ### The Approach
 
-**Position:** Supine; reverse Trendelenburg (10–15°) with right side elevated (left lateral tilt); left arm tucked.
+> **BEFORE YOU SCRUB**
+> - [ ] 30° laparoscope + camera + light cord confirmed
+> - [ ] 10 mm clip applier — load before case; have 2 extra cartridges
+> - [ ] Endocatch specimen retrieval bag
+> - [ ] #10 blade (umbilical 12 mm), #15 blades ×3 (5 mm ports)
+> - [ ] CO₂ tubing + Veress needle (or Hasson if prior abdominal surgery)
+> - [ ] Suction/irrigation + warm saline
+> - [ ] Cholangiogram supplies on back table if IOC on schedule: cystic duct catheter, C-clamp, contrast (confirm with circulator)
 
-**Prep:** CHG/alcohol; prep from mid-chest to pubis, full width; include right flank.
+**Position:** Supine; reverse Trendelenburg 10–15° with right side up; left arm tucked.
 
-**Draping:** Four towels framing the upper abdomen; laparoscopic fenestrated sheet (or standard laparotomy sheet with port-site openings).
+**Prep:** CHG/alcohol; mid-chest to pubis, full width, right flank included.
 
-**Gown and Gloves:** Standard.
+**Draping:** Four towels framing upper abdomen; laparoscopic fenestrated sheet.
 
-**The Knife:** #10 blade on a #3 handle at the umbilicus (12 mm port); #15 blade for the smaller 5 mm port sites (less skin tension needed).
+**The Knife:** #10 at umbilicus (12 mm); #15 at 5 mm port sites.
 
-**Retractors:** No conventional retractors. Three to four trocars placed:
-- 12 mm umbilical (camera)
-- 5 mm epigastric (working port — L-hook, dissector, clips)
-- 5 mm right subcostal midclavicular (gallbladder retraction)
-- 5 mm right subcostal anterior axillary (optional fundus grasper)
-
-The laparoscopic grasper holding the gallbladder fundus provides the "retraction" equivalent — lifting the liver edge to expose the hepatocystic triangle.
+**Retractors:** Four trocars (12 mm umbilical, 5 mm epigastric, 5 mm right subcostal ×2). Grasper on the gallbladder fundus retracts toward the right shoulder — this exposes the hepatocystic triangle and is the primary "retraction" of the case.
 
 ---
 
 ### The Procedure
 
-1. Umbilical access; pneumoperitoneum to 14 mmHg; 30° laparoscope inserted
-2. Port placement as above; patient tilted to displace bowel away from liver
-3. Grasp gallbladder fundus with 5 mm grasper through lateral port; retract toward the right shoulder (cephalad and lateral) to expose the hepatocystic triangle
-4. Dissect peritoneum of the hepatocystic triangle using L-hook or hook cautery
-5. Achieve the **Critical View of Safety (CVS):** two and only two structures seen entering the gallbladder (cystic duct and cystic artery); anterior and posterior peritoneum cleared from the lower 1/3 of the gallbladder
-6. Apply 3 medium-large clips: 2 on the cystic duct (patient side), 1 distally; divide with laparoscopic scissors between clip 1 and 2
+1. Umbilical entry; CO₂ to 14 mmHg; 30° scope
+2. Four ports placed; patient positioned for gravity to displace bowel
+3. Grasp fundus; retract toward right shoulder (cephalad + lateral)
+4. Dissect peritoneum off the hepatocystic triangle (L-hook or dissector)
+5. Achieve **Critical View of Safety (CVS):** only 2 structures enter the gallbladder (cystic duct + cystic artery); lower 1/3 of gallbladder cleared front and back
+6. **Clip sequence:** 2 clips proximal on cystic duct, 1 distal; divide with laparoscopic scissors between clips 1 and 2
 7. Same clip sequence on cystic artery; divide
-8. Dissect gallbladder off the liver bed using hook cautery
-9. Place gallbladder in specimen retrieval bag; deliver through umbilical port (enlarge if large stone burden)
+8. Dissect GB off liver bed with hook cautery
+9. Specimen into retrieval bag; deliver through umbilical port
 
-**Scrub tech: pre-load the clip applier; have scissors ready immediately after clips placed; have specimen bag available before the gallbladder is completely freed.**
+> **⚠ WATCH FOR**
+> - **CVS not achieved / difficult triangle:** surgeon may call for intraoperative cholangiogram — have supplies immediately available; do not break down the table looking for them
+> - **Clip applier misfire or jam:** this happens; have a loaded backup clip applier ready before clips are applied to the duct
+> - **Bile spillage on extraction:** have irrigation loaded; dropped stones must be retrieved; document spilled stones
+> - **Conversion to open:** if called, open cholecystectomy tray must be accessible — keep it in room, not outside
 
 ---
 
 ### The Closure
 
-**Fascia:** 12 mm umbilical port closed with 0 Vicryl.
-
-**Skin:** 4-0 Monocryl subcuticular at each port site; Steri-strips.
-
-**Dressing:** Small adhesive dressings at each port site.
+| Layer | Suture | Notes |
+|-------|--------|-------|
+| Fascia (12 mm) | 0 Vicryl CTX | Carter-Thomason or hand-sutured |
+| Skin | 4-0 Monocryl subcuticular | All port sites |
+| Dressing | Small adhesive strips | Each port |
 
 ---
 
 ## 13.5 Open Inguinal Hernia Repair (Lichtenstein)
 
+> **QUICK FACTS**
+> Wound Class: I (Clean) · Position: Supine, slight reverse Trendelenburg · Avg time: 45–75 min · Team: Surgeon + scrub + circulator
+
 ### The Approach
 
-**Position:** Supine; slight reverse Trendelenburg (gravity keeps bowel out of the inguinal region).
+> **BEFORE YOU SCRUB**
+> - [ ] Polypropylene mesh (Prolene) — confirm size with surgeon (typically 6×11 cm); do not open until surgeon confirms
+> - [ ] Penrose drain (¼ inch) for cord retraction
+> - [ ] Weitlaner self-retaining retractor
+> - [ ] #10 blade on #3 handle
+> - [ ] 2-0 Prolene loaded on needle driver for mesh fixation
+> - [ ] 3-0 Vicryl for subcutaneous, 4-0 Monocryl for skin
 
-**Prep:** CHG/alcohol; prep from umbilicus to mid-thigh; include genitalia (with betadine if preferred for perineal skin — confirm with surgeon).
+**Position:** Supine; slight reverse Trendelenburg.
 
-**Draping:** Four draping towels to frame the RLQ/LLQ (depending on side) groin; laparotomy sheet or smaller split sheet placed to expose the inguinal region while covering the genitalia.
+**Prep:** CHG/alcohol; umbilicus to mid-thigh; include groin and genitalia.
 
-**Gown and Gloves:** Standard.
+**Draping:** Four towels framing the inguinal incision; split sheet covering genitalia.
 
-**The Knife:** #10 blade on a #3 handle; transverse incision approximately 2 cm above and parallel to the inguinal ligament; approximately 5–6 cm in length. The incision begins medial to the internal inguinal ring and extends toward the pubic tubercle.
+**The Knife:** #10 blade; oblique incision 2 cm above and parallel to inguinal ligament, ~5–6 cm.
 
-**Retractors:** Self-retaining Weitlaner retractor placed in the skin/subcutaneous layer after initial dissection. Hand-held Army-Navy retractors for deeper exposure as needed. As the inguinal canal is opened, a Richardson retractor may be used to protect the cord structures medially.
+**Retractors:** Weitlaner in subcutaneous layer; Army-Navy retractors for deeper exposure; Penrose around the cord for retraction.
 
 ---
 
 ### The Procedure
 
-1. Skin incision; sharply divide subcutaneous fat; identify Scarpa's fascia
-2. Incise external oblique aponeurosis in line with its fibers from the external inguinal ring outward; preserve the ilioinguinal nerve
-3. Identify the spermatic cord (or round ligament); encircle with a Penrose drain for retraction
-4. Dissect hernia sac from the cord; reduce contents into the peritoneal cavity; ligate and excise sac (if indirect) or reduce sac (if direct)
-5. Place **polypropylene mesh (Prolene mesh)** flat on the floor of the inguinal canal; suture medially to the pubic tubercle and along the inguinal ligament (continuous Prolene suture); split the lateral edge around the cord to recreate the internal ring
-6. Fix the upper edge of mesh to the internal oblique; ensure no tension
+1. Skin incision; divide subcutaneous fat to Scarpa's fascia
+2. Incise external oblique aponeurosis in line with fibers from external ring outward; identify and protect the ilioinguinal nerve
+3. Encircle spermatic cord with Penrose drain
+4. Dissect hernia sac: if indirect (through internal ring), reduce contents and ligate/excise; if direct (through Hesselbach's triangle), reduce and suture-plicate the floor
+5. Place Prolene mesh flat on the posterior inguinal wall; fix medial edge to pubic tubercle with interrupted Prolene; run suture along inguinal ligament (lower edge of mesh)
+6. Split lateral edge of mesh around cord to recreate internal ring; fix upper edge to internal oblique
 
-**Scrub tech: have the mesh pre-cut and ready (typically 6×11 cm, trimmed to surgeon preference); confirm the correct mesh type from the circulator before opening.**
+> **⚠ WATCH FOR**
+> - **Ilioinguinal nerve:** runs in the inguinal canal lateral to the cord; must be preserved — alert the surgeon if you see it caught in a retractor
+> - **Indirect sac with bowel contents:** if sac contains bowel that is non-reducible, surgeon may need to extend dissection into peritoneum — be ready with deeper instruments
+> - **Mesh selection:** confirm correct mesh type with circulator before opening; wrong mesh is a wrong-implant event
 
 ---
 
 ### The Closure
 
-**External oblique:** Continuous 2-0 Vicryl; recreate the external ring around the cord.
-
-**Scarpa's fascia / subcutaneous:** 3-0 Vicryl interrupted.
-
-**Skin:** 4-0 Monocryl subcuticular; Steri-strips.
-
-**Dressing:** Gauze 4×4 + ABD pad; secured with tape or elastic net.
+| Layer | Suture | Notes |
+|-------|--------|-------|
+| External oblique | 2-0 Vicryl continuous | Recreate external ring around cord |
+| Scarpa's fascia | 3-0 Vicryl interrupted | Eliminate dead space |
+| Skin | 4-0 Monocryl subcuticular | + Steri-strips |
+| Dressing | Gauze 4×4 + ABD pad | |
 
 ---
 
-## 13.6 Open Bowel Resection (Colectomy) with Anastomosis
+## 13.6 Open Bowel Resection (Colectomy)
+
+> **QUICK FACTS**
+> Wound Class: I–IV (depends on indication) · Position: Supine (lithotomy for sigmoid/rectal) · Avg time: 2–4 hours · Team: Surgeon + first assist + scrub + circulator
 
 ### The Approach
 
-**Position:** Supine; arms extended on arm boards; Foley catheter in place. For sigmoid/rectal procedures: lithotomy.
+> **BEFORE YOU SCRUB**
+> - [ ] Balfour self-retaining retractor confirmed and assembled
+> - [ ] GIA stapler (60 or 80 mm) + multiple loads; TA stapler; confirm sizes with surgeon
+> - [ ] Wound protector (Alexis or similar) for incision edges
+> - [ ] Double-glove: outer gloves changed before closure
+> - [ ] Bowel instruments isolated: contaminated instruments stay separate from closure instruments
+> - [ ] Large warm saline for irrigation (1–3L)
+> - [ ] #1 looped PDS for fascial closure
+> - [ ] JP drain if anastomosis near pelvis
 
-**Prep:** CHG/alcohol; prep from nipples to mid-thigh, full width; include perineum if lithotomy.
+**Position:** Supine; arms extended; Foley in place. Lithotomy for sigmoid/rectal.
 
-**Draping:** Four draping towels framing the midline abdomen; large laparotomy (lap) sheet over the patient and table. An antimicrobial incise drape (Ioban) may be applied over the wound after the towels are placed.
+**Prep:** CHG/alcohol; nipples to mid-thigh, full width. Include perineum if lithotomy.
 
-**Gown and Gloves:** Standard. A double-gloving technique is appropriate for colorectal cases (contamination risk is higher; outer gloves changed before closure).
+**Draping:** Four towels; large laparotomy sheet; Ioban incise drape optional.
 
-**The Knife:** #10 blade on a #3 handle for the skin; midline incision from just below the xiphoid to just above the pubis (or limited to the relevant quadrant). The linea alba is incised sharply; peritoneum opened bluntly or sharply.
+**The Knife:** #10 blade; midline incision from xiphoid toward pubis (length per extent of resection).
 
-**Retractors:**
-- Initially: Army-Navy retractors held by the assistant to retract skin edges
-- Deep abdominal exposure: self-retaining **Balfour retractor** (with bladder blade inferiorly + lateral blades) placed once abdomen is open
-- For deep pelvic work: **Bookwalter retractor** system may be added
-
-**Wound protector:** Placed over the abdominal incision edges before bowel work begins — creates a barrier between the bowel contents and the wound.
+**Retractors:** Army-Navy initially; Balfour self-retaining retractor once abdomen is entered; Bookwalter for deep pelvic work.
 
 ---
 
 ### The Procedure
 
-1. Enter abdomen; systematic exploration; confirm extent of disease
-2. Mobilize the colon segment to be resected by incising the lateral peritoneal reflection (white line of Toldt); mobilize splenic or hepatic flexure as needed
-3. Identify and ligate the named mesenteric vessels (IMA for sigmoid/left colon; right colic/ileocolic for right colon) close to their aortic origin for oncologic cases; or near the bowel wall for benign cases
-4. Divide the bowel at the proximal and distal margins using linear stapler (GIA) or bowel clamps; protect the field with moist packs
-5. Remove specimen; pass off field; classify the wound
-6. Anastomosis: stapled (functional end-to-end with two GIA firings + TA closure of the common opening) or hand-sewn two-layer
-7. Test anastomosis: air insufflation (sigmoidoscope) or methylene blue instillation; look for leaks
-8. Copious warm saline irrigation
+1. Enter abdomen through linea alba; systematic exploration
+2. Mobilize the colon segment: incise the lateral peritoneal reflection (white line of Toldt)
+3. Ligate named mesenteric vessels (IMA for sigmoid/left; ileocolic/right colic for right colon); pass ties with right-angle clamp
+4. Divide bowel at proximal and distal margins with GIA stapler or between bowel clamps; protect with moist lap sponges
+5. Remove specimen; pass off field; reassess wound classification
+6. Anastomosis: stapled (two GIA firings + TA closure) or hand-sewn two-layer
+7. Test anastomosis: air via sigmoidoscope or methylene blue; watch for bubbles/leakage
+8. Copious warm saline irrigation; achieve hemostasis
 
-**Scrub tech: maintain a second "bowel table" setup within the main back table if needed; keep two separate instrument systems — clean instruments for closure are separate from instruments used on bowel.**
+> **⚠ WATCH FOR**
+> - **Contamination event:** if bowel contents spill, immediately isolate those instruments; wound classification rises to III or IV; subcutaneous and skin may be left open
+> - **Stapler misfire:** never attempt to re-fire a misfired GIA load; call for a replacement; the misfired stapler goes off the field
+> - **Anastomosis leak test:** have the sigmoidoscope and methylene blue both available before the anastomosis is complete — surgeon will test before closing
+> - **Ureters:** in sigmoid/pelvic dissection, the ureters are at serious risk; surgeon may request ureteral stents preoperatively; if called for a lighted ureteral catheter mid-case, have it accessible
 
 ---
 
 ### The Closure
 
-**Peritoneum:** May be closed or left open per surgeon preference; 3-0 Vicryl continuous if closed.
-
-**Fascia (linea alba):** #1 or 0 looped PDS, continuous mass closure; or #1 PDS interrupted. Sutures placed 1 cm from edge, 1 cm apart.
-
-**Subcutaneous:** For Class I/II: 3-0 Vicryl. For Class III/IV wounds: leave open and pack; delayed primary closure at 3–5 days.
-
-**Skin:** Staples or 4-0 Monocryl subcuticular for clean wounds; skin left open (packed) for contaminated.
-
-**Drain:** Jackson-Pratt drain in the pelvis near the anastomosis if surgeon chooses; brought through a separate stab incision; sutured to skin with 2-0 nylon.
-
-**Dressing:** Gauze 4×4 + ABD pad; secured with tape.
+| Layer | Suture | Notes |
+|-------|--------|-------|
+| Peritoneum (optional) | 3-0 Vicryl continuous | Per surgeon preference |
+| Fascia (linea alba) | #1 looped PDS continuous | 1 cm bites, 1 cm apart |
+| Subcutaneous | 3-0 Vicryl (Class I/II) | Leave open + pack for Class III/IV |
+| Skin | Staples or 4-0 Monocryl | Leave open for contaminated wounds |
+| Drain | JP through separate stab | Near anastomosis; 2-0 nylon to skin |
+| Dressing | Gauze 4×4 + ABD pad | |
 
 ---
 
 ## 13.7 Whipple Procedure (Pancreaticoduodenectomy)
 
+> **QUICK FACTS**
+> Wound Class: I–II · Position: Supine, reverse Trendelenburg · Avg time: 4–8 hours · Team: Surgeon + first assist + scrub + circulator · Note: One of the longest and most instrument-intensive cases in general surgery
+
 ### The Approach
 
-**Position:** Supine; arms extended; reverse Trendelenburg for upper abdominal exposure.
+> **BEFORE YOU SCRUB**
+> - [ ] Large laparotomy set + vascular instruments (DeBakey forceps, vessel loops, vascular clamps)
+> - [ ] Multiple GIA and TA stapler loads (confirm sizes)
+> - [ ] Fine suture for anastomoses: 4-0 and 5-0 PDS or Vicryl
+> - [ ] Self-retaining upper hand retractor (Thompson, Omni-Tract, or Bookwalter) — this is a long upper abdominal case
+> - [ ] 2 JP drains minimum
+> - [ ] Large warm saline (2–3L irrigation)
+> - [ ] Double-glove; organize back table for a long case with phases; label suture by use
 
-**Prep:** CHG/alcohol; prep from nipples to mid-thigh, full width.
+**Position:** Supine; arms extended; reverse Trendelenburg.
 
-**Draping:** Four towels framing the upper midline abdomen; large laparotomy sheet.
+**Prep:** CHG/alcohol; nipples to mid-thigh.
 
-**Gown and Gloves:** Standard; double-gloving recommended for this long, complex case.
+**Draping:** Four towels; large laparotomy sheet.
 
-**The Knife:** #10 blade on a #3 handle; midline incision from xiphoid to umbilicus (may extend below umbilicus if more lower abdominal exposure needed). A right subcostal (Kocher) extension may be added if hepatic exposure is required.
+**The Knife:** #10 blade; midline xiphoid to umbilicus ± right subcostal (Kocher) extension.
 
-**Retractors:** Balfour retractor for standard abdominal exposure; a self-retaining upper hand retractor (Thompson, Omni-Tract, or Bookwalter) for deep central access. The liver edge may need to be retracted superiorly with a Deaver.
+**Retractors:** Balfour initially; Thompson or Bookwalter self-retaining upper hand retractor for sustained deep access; Deaver for liver retraction.
 
 ---
 
 ### The Procedure
 
 **Resection phase:**
-1. Explore abdomen; confirm resectability (no distant metastasis; portal vein/SMA not encased)
-2. Kocher maneuver: mobilize the duodenum and pancreatic head off the retroperitoneum
-3. Divide the distal stomach (gastrojejunostomy reconstruction) or pylorus (pylorus-preserving variant)
-4. Divide the common bile duct above the cystic duct entry; cholecystectomy
-5. Divide the jejunum ~10–15 cm past the ligament of Treitz
-6. Dissect the pancreatic neck off the portal vein/SMV confluence; divide pancreas
-7. Remove specimen (pancreatic head + duodenum + distal bile duct + gallbladder + distal stomach or pyloric ring)
+1. Explore abdomen; confirm resectability — no distant metastasis; portal vein and SMA not encased
+2. Kocher maneuver: mobilize duodenum + pancreatic head off retroperitoneum
+3. Divide distal stomach (or preserve pylorus); cholecystectomy; divide CBD above cystic duct entry
+4. Divide jejunum ~15 cm past the ligament of Treitz; divide pancreatic neck over the portal vein/SMV
+5. Remove specimen: pancreatic head + duodenum + distal CBD + gallbladder + distal stomach (or pyloric ring)
 
-**Reconstruction phase (three anastomoses):**
-1. **Pancreaticojejunostomy**: pancreatic stump anastomosed to a Roux limb of jejunum; fine absorbable sutures (4-0 PDS or Vicryl)
-2. **Hepaticojejunostomy**: bile duct anastomosed to the same jejunal limb; 4-0 or 5-0 PDS
-3. **Gastrojejunostomy** (or duodenojejunostomy if pylorus-preserving): stomach/duodenum anastomosed to jejunum; stapled or hand-sewn
+**Reconstruction phase — three anastomoses:**
+1. **Pancreaticojejunostomy:** pancreatic stump to Roux limb; 4-0 PDS or Vicryl; most technically demanding anastomosis
+2. **Hepaticojejunostomy:** bile duct to same jejunal limb; 4-0 or 5-0 PDS
+3. **Gastrojejunostomy:** stomach to jejunum; stapled or hand-sewn
+
+> **⚠ WATCH FOR**
+> - **Instrument count in a long complex case:** this case produces significant instrument and sponge turnover; maintain counts aggressively; verify before each anastomosis phase
+> - **Portal vein bleeding:** the most feared intraoperative event; have vascular clamps (Satinsky), 4-0 Prolene, and pledgets immediately accessible at all times during resection
+> - **Anastomosis suture sizes:** surgeon will use multiple different suture sizes for the three anastomoses; keep them clearly labeled and separated on the back table
+> - **Fatigue and long case awareness:** at hour 4+, restock Mayo stand proactively; do not wait to be asked
 
 ---
 
 ### The Closure
 
-**Drain:** One or two closed-suction drains (Jackson-Pratt) placed near the pancreatic anastomosis; brought through separate stab incisions.
-
-**Fascia:** #1 looped PDS running mass closure of the midline; generous bites.
-
-**Subcutaneous:** 3-0 Vicryl.
-
-**Skin:** Staples.
-
-**Dressing:** Gauze 4×4 + large ABD pad; tape.
+| Layer | Suture | Notes |
+|-------|--------|-------|
+| Fascia | #1 looped PDS continuous | Large bites |
+| Subcutaneous | 3-0 Vicryl | |
+| Skin | Staples | |
+| Drains | 2× JP near pancreatic anastomosis | Separate stab incisions; 2-0 nylon to skin |
+| Dressing | Gauze 4×4 + ABD pad | |
 
 ---
 
 ## Clinical Pearls
 
-> "In general surgery, your Approach sets up the Procedure. Sloppy draping leads to contaminated closure. Know which drapes go where before the patient is on the table."
+> "In general surgery, your job is to be one step ahead. Know what gets clipped before the hepatocystic triangle is clear. Know when the stapler is about to fire. Know that the conversion tray needs to be in the room before the surgeon decides to convert. Anticipation is not a gift — it is preparation."
 
-- In laparoscopic cases, the incision is small but the access it provides is everything. Have the correct trocar size ready — the wrong diameter wastes time.
-- For bowel cases, change your outer gloves before closure. The instruments that touched bowel content should not be used to close the fascia.
-- In the Whipple procedure, label your three anastomoses clearly in your head. The scrub tech must track which suture is being used for each reconstruction.
-
----
-
-## Review Questions
-
-1. Describe the Approach for a laparoscopic cholecystectomy: position, prep area, draping, initial incision blade and location.
-2. What is the Critical View of Safety, and why must it be achieved before dividing any structure?
-3. Describe the retractors used in an open inguinal hernia repair.
-4. In an open colectomy, what is placed over the wound edges before bowel work and why?
-5. What is the initial incision location and blade for an open midline laparotomy?
-6. Describe the Closure for a laparoscopic appendectomy: which port sites require fascial closure and why?
-7. What are the three anastomoses in a Whipple procedure?
-8. Why are outer gloves changed before fascial closure in colorectal cases?
+- The Critical View of Safety in a lap chole is not optional. Nothing is clipped until CVS is achieved. If the surgeon moves to clip before you believe CVS has been established, that is a moment for quiet, respectful pause.
+- In colorectal cases, your contaminated instruments never go back to the clean field. Ever. Establish that separation at setup and maintain it.
+- The Whipple is won or lost in the setup. An organized back table with labeled anastomosis sutures, accessible vascular instruments, and a proactively maintained Mayo stand is how the scrub tech contributes to a successful outcome.
 
 ---
 

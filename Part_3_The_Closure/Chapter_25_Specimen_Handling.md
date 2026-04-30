@@ -2,32 +2,6 @@
 
 ---
 
-## Learning Objectives
-
-By the end of this chapter, the learner will be able to:
-
-1. Describe the types of surgical specimens and their handling requirements.
-2. Explain chain of custody and labeling requirements.
-3. Identify common fixatives and their applications.
-4. Describe frozen section technique and its clinical significance.
-5. Explain implant documentation and tracking requirements.
-
----
-
-## Key Terms
-
-| Term | Definition |
-|------|-----------|
-| **Surgical specimen** | Tissue, fluid, foreign body, or other material removed during surgery and submitted for analysis |
-| **Chain of custody** | An unbroken record of possession and handling of a specimen from removal to laboratory receipt |
-| **Fixative** | A chemical solution that preserves tissue and prevents autolysis |
-| **Formalin (10% NBF)** | Neutral buffered formalin; standard fixative for routine histopathology |
-| **Frozen section** | Intraoperative rapid pathological evaluation of fresh (unfixed) tissue |
-| **Culture** | A microbiological specimen submitted to identify bacterial, fungal, or viral organisms |
-| **Implant log** | A record of all implantable devices placed in a patient (lot number, size, manufacturer) |
-
----
-
 ## 25.1 Types of Surgical Specimens
 
 ### Tissue Specimens
@@ -189,19 +163,6 @@ Documentation includes:
 - Never pass a specimen to the circulator without verbally confirming its identity. A mislabeled specimen can result in an incorrect cancer diagnosis — a harm that may be irreversible.
 - If you are unsure which fixative to use, ask before the case. Some specimens need to be in culture media within minutes; formalin cannot be undone.
 - Keep implant stickers/packaging until you hear "confirmed" from the circulator.
-
----
-
-## Review Questions
-
-1. What is the minimum labeling information required on every surgical specimen container?
-2. What is chain of custody, and why is it especially important for medico-legal specimens?
-3. What fixative is standard for routine surgical pathology?
-4. Why can a culture specimen not be placed in formalin?
-5. Describe the frozen section process: when is it used and what are its limitations?
-6. What information must be documented for each implantable device?
-7. Why is implant documentation required by federal law?
-8. What should the scrub tech do with implant packaging during and after the case?
 
 ---
 

@@ -2,33 +2,6 @@
 
 ---
 
-## Learning Objectives
-
-By the end of this chapter, the learner will be able to:
-
-1. Describe the layers of wound closure and the rationale for each.
-2. Identify common suture techniques and their applications.
-3. Describe retention sutures and their indications.
-4. Explain the scrub technologist's role during wound closure.
-
----
-
-## Key Terms
-
-| Term | Definition |
-|------|-----------|
-| **Approximation** | Bringing tissue edges together for healing |
-| **Tension** | Force applied across a wound; excessive tension impairs healing |
-| **Dead space** | Empty space within a wound where fluid can accumulate |
-| **Eversion** | Turning skin edges slightly outward; promotes better healing |
-| **Inversion** | Turning tissue edges inward; used in bowel anastomosis |
-| **Interrupted suture** | Individual sutures each tied separately |
-| **Continuous (running) suture** | Single suture strand placed in a series without cutting between throws |
-| **Subcuticular (intradermal)** | Suture placed within the dermis, parallel to the skin surface |
-| **Retention sutures** | Heavy through-and-through sutures distributing tension across a high-risk abdominal wound |
-
----
-
 ## 23.1 Principles of Wound Closure
 
 The goal of closure is to create the conditions in which the body can heal:
@@ -162,19 +135,6 @@ Closure phase is not less demanding than the procedure — it requires the same 
 - In long running fascial closures, manage the suture tail — don't let it tangle in the wound. Keep it draped cleanly across the field.
 - When subcuticular sutures are placed, keep the suture moist if using absorbable — dry Monocryl becomes stiff and difficult to handle.
 - If a count is off when closure begins, the surgeon must wait. Do not let a surgeon close on an unresolved count discrepancy.
-
----
-
-## Review Questions
-
-1. Describe the layers closed in a midline laparotomy closure, from deep to superficial.
-2. What is dead space, and how is it eliminated during closure?
-3. Compare simple interrupted suture with vertical mattress suture technique.
-4. What is a subcuticular (intradermal) suture, and when is it preferred?
-5. Describe a two-layer hand-sewn bowel anastomosis.
-6. What are retention sutures, and for which patients are they indicated?
-7. What are bolsters used for in retention suture placement?
-8. When must the final count be completed, relative to fascial closure?
 
 ---
 

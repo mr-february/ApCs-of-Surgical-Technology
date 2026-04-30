@@ -2,33 +2,6 @@
 
 ---
 
-## Learning Objectives
-
-By the end of this chapter, the learner will be able to:
-
-1. Define surgical technology and describe the scope of practice.
-2. Identify the professional organizations governing the field.
-3. Explain the educational pathway and credentialing requirements for a CST.
-4. Describe the legal and ethical responsibilities of a surgical technologist.
-5. Articulate the importance of professionalism and teamwork in the OR.
-
----
-
-## Key Terms
-
-| Term | Definition |
-|------|-----------|
-| **Surgical Technologist (ST)** | An allied health professional trained to function in the scrub role during surgery |
-| **Certified Surgical Technologist (CST)** | A surgical technologist who has passed the NBSTSA national certification exam |
-| **AST** | Association of Surgical Technologists — the professional organization for STs |
-| **NBSTSA** | National Board of Surgical Technology and Surgical Assisting — administers the CST exam |
-| **CAAHEP** | Commission on Accreditation of Allied Health Education Programs — accredits ST programs |
-| **ARC/STSA** | Accreditation Review Council on Education in Surgical Technology and Surgical Assisting |
-| **Scope of Practice** | The procedures, actions, and processes that a healthcare professional is permitted to perform |
-| **Surgical Conscience** | The personal commitment to uphold aseptic technique and patient safety at all times |
-
----
-
 ## 1.1 Defining the Profession
 
 Surgical technology is the allied health profession that focuses on providing surgical care to patients in the perioperative setting. The surgical technologist works under the supervision of a registered nurse (RN) and the direction of a licensed surgeon to ensure that the operating room environment is safe, that equipment functions properly, and that the operative procedure is conducted under conditions that maximize safety and efficiency for the patient.
@@ -158,18 +131,6 @@ Professionalism includes:
 - Know the procedure before you scrub in. Read the surgeon's preference card, review the anatomy, know which instruments come next. Anticipation is the mark of an expert scrub tech.
 - When in doubt about sterility — contaminate it. Never rationalize keeping a compromised item in the field because you're not sure it was actually contaminated.
 - A strong "surgical conscience" is worth more than any single technical skill.
-
----
-
-## Review Questions
-
-1. What does CST stand for, and which organization administers the certification exam?
-2. Describe the three phases of the surgical experience.
-3. What is the difference between the scrub role and the circulating role?
-4. Name three ethical obligations of a surgical technologist according to the AST Code of Ethics.
-5. What is "surgical conscience," and why is it considered fundamental to patient safety?
-6. What organization accredits surgical technology educational programs?
-7. How many continuing education credits are required to maintain CST certification every four years?
 
 ---
 
