@@ -1,0 +1,86 @@
+site_name: The ApC's of Surgical Technology
+site_description: A Comprehensive Educational Text for Surgical Technology Students and Practicing CSTs
+site_author: mr-february
+repo_url: https://github.com/mr-february/ApCs-of-Surgical-Technology
+repo_name: ApCs-of-Surgical-Technology
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: teal
+      accent: cyan
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: teal
+      accent: cyan
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  font:
+    text: Roboto
+    code: Roboto Mono
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - toc.follow
+
+nav:
+  - Home: README.md
+  - Introduction: Part_0_Introduction.md
+  - "Part I — The Approach":
+    - "Ch 1: What Is Surgical Technology?": Part_1_The_Approach/Chapter_01_What_Is_Surgical_Technology.md
+    - "Ch 2: The OR Environment": Part_1_The_Approach/Chapter_02_OR_Environment.md
+    - "Ch 3: Microbiology & Infection Control": Part_1_The_Approach/Chapter_03_Microbiology_Infection_Control.md
+    - "Ch 4: Sterilization & Disinfection": Part_1_The_Approach/Chapter_04_Sterilization_Disinfection.md
+    - "Ch 5: The Sterile Field": Part_1_The_Approach/Chapter_05_Sterile_Field.md
+    - "Ch 6: Surgical Instrumentation": Part_1_The_Approach/Chapter_06_Instrumentation.md
+    - "Ch 7: Sutures, Needles & Closure": Part_1_The_Approach/Chapter_07_Sutures_Needles_Closure.md
+    - "Ch 8: Hemostasis": Part_1_The_Approach/Chapter_08_Hemostasis.md
+    - "Ch 9: Anesthesia": Part_1_The_Approach/Chapter_09_Anesthesia.md
+    - "Ch 10: Patient Positioning": Part_1_The_Approach/Chapter_10_Patient_Positioning.md
+    - "Ch 11: Skin Prep & Draping": Part_1_The_Approach/Chapter_11_Skin_Prep_Draping.md
+  - "Part II — The Procedure":
+    - "Ch 12: The ApC Framework": Part_2_The_Procedure/Chapter_12_Wound_Classification.md
+    - "Ch 13: General Surgery": Part_2_The_Procedure/Chapter_13_General_Surgery.md
+    - "Ch 14: Orthopedic Surgery": Part_2_The_Procedure/Chapter_14_Orthopedic_Surgery.md
+    - "Ch 15: Neurosurgery": Part_2_The_Procedure/Chapter_15_Neurosurgery.md
+    - "Ch 16: Cardiovascular & Thoracic": Part_2_The_Procedure/Chapter_16_Cardiovascular_Thoracic.md
+    - "Ch 17: OB/GYN": Part_2_The_Procedure/Chapter_17_OB_GYN.md
+    - "Ch 18: Urology": Part_2_The_Procedure/Chapter_18_Urology.md
+    - "Ch 19: ENT": Part_2_The_Procedure/Chapter_19_ENT.md
+    - "Ch 20: Ophthalmology": Part_2_The_Procedure/Chapter_20_Ophthalmology.md
+    - "Ch 21: Plastic & Reconstructive": Part_2_The_Procedure/Chapter_21_Plastic_Reconstructive.md
+    - "Ch 22: Pediatric Surgery": Part_2_The_Procedure/Chapter_22_Pediatric_Surgery.md
+  - "Part III — The Closure":
+    - "Ch 23: Wound Closure Techniques": Part_3_The_Closure/Chapter_23_Wound_Closure_Techniques.md
+    - "Ch 24: Drains, Dressings & Packing": Part_3_The_Closure/Chapter_24_Drains_Dressings_Packing.md
+    - "Ch 25: Specimen Handling": Part_3_The_Closure/Chapter_25_Specimen_Handling.md
+    - "Ch 26: Postoperative Transitions": Part_3_The_Closure/Chapter_26_Postoperative_Transitions.md
+  - Appendices:
+    - "Appendix A: Abbreviations": Appendices/Appendix_A_Abbreviations.md
+    - "Appendix B: Instruments Guide": Appendices/Appendix_B_Instruments.md
+    - "Appendix C: Suture Reference": Appendices/Appendix_C_Suture_Reference.md
+    - "Appendix D: Positions Reference": Appendices/Appendix_D_Positions.md
+    - "Appendix E: Sterilization Methods": Appendices/Appendix_E_Sterilization.md
+    - "Appendix F: Study Questions": Appendices/Appendix_F_Study_Questions.md
+    - "Appendix G: Mayo Stand Setups": Appendices/Appendix_G_Mayo_Stand_Setups.md
+
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true

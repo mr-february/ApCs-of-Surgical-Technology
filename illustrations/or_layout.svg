@@ -1,0 +1,156 @@
+<svg width="680" height="620" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 620">
+  <defs>
+    <style>text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif; }</style>
+  </defs>
+
+  <!-- Room background -->
+  <rect width="680" height="620" fill="#f1f5f9" rx="4"/>
+  <!-- OR room walls -->
+  <rect x="20" y="50" width="640" height="540" rx="8" fill="#ffffff" stroke="#94a3b8" stroke-width="3"/>
+
+  <text x="340" y="32" text-anchor="middle" font-size="17" font-weight="bold" fill="#0f172a">Operating Room Layout</text>
+  <text x="340" y="48" text-anchor="middle" font-size="10" fill="#64748b">Standard configuration — top-down view</text>
+
+  <!-- ===== ANESTHESIA AREA (top) ===== -->
+  <rect x="220" y="62" width="240" height="80" rx="6" fill="#dbeafe" stroke="#3b82f6" stroke-width="1.5"/>
+  <text x="340" y="82" text-anchor="middle" font-size="12" font-weight="bold" fill="#1d4ed8">ANESTHESIA WORKSTATION</text>
+  <text x="340" y="97" text-anchor="middle" font-size="10" fill="#1d4ed8">Anesthesia machine · Monitors</text>
+  <text x="340" y="110" text-anchor="middle" font-size="10" fill="#1d4ed8">Drug cart · Airway supplies</text>
+  <text x="340" y="125" text-anchor="middle" font-size="9" fill="#3b82f6" font-style="italic">CRNA / Anesthesiologist position ↓</text>
+
+  <!-- ===== OR TABLE (center) ===== -->
+  <rect x="265" y="215" width="150" height="260" rx="8" fill="#e2e8f0" stroke="#475569" stroke-width="2"/>
+  <text x="340" y="345" text-anchor="middle" font-size="13" font-weight="bold" fill="#0f172a">OR TABLE</text>
+
+  <!-- Patient on table (simplified silhouette) -->
+  <!-- Head end (top) -->
+  <circle cx="340" cy="248" r="18" fill="#fbbf24" stroke="#d97706" stroke-width="1.5"/>
+  <text x="340" y="253" text-anchor="middle" font-size="9" fill="#78350f">HEAD</text>
+  <!-- Torso -->
+  <rect x="305" y="268" width="70" height="80" rx="6" fill="#0d9488" opacity="0.7"/>
+  <!-- Hips/legs -->
+  <rect x="305" y="348" width="70" height="80" rx="6" fill="#0f766e" opacity="0.6"/>
+  <text x="340" y="395" text-anchor="middle" font-size="9" fill="white">FEET</text>
+  <!-- Drape line (sterile field boundary) -->
+  <rect x="265" y="215" width="150" height="260" rx="8" fill="none" stroke="#16a34a" stroke-width="2" stroke-dasharray="6,3"/>
+
+  <!-- Sterile field label -->
+  <text x="340" y="210" text-anchor="middle" font-size="9" fill="#16a34a" font-weight="bold">— STERILE FIELD —</text>
+
+  <!-- ===== SURGEON POSITION (right of patient) ===== -->
+  <rect x="450" y="280" width="115" height="90" rx="6" fill="#dcfce7" stroke="#16a34a" stroke-width="1.5"/>
+  <text x="507" y="300" text-anchor="middle" font-size="11" font-weight="bold" fill="#15803d">SURGEON</text>
+  <text x="507" y="315" text-anchor="middle" font-size="10" fill="#166534">Primary surgeon</text>
+  <text x="507" y="330" text-anchor="middle" font-size="10" fill="#166534">faces operative field</text>
+  <text x="507" y="345" text-anchor="middle" font-size="9" fill="#15803d" font-style="italic">Gowned + Gloved</text>
+  <text x="507" y="360" text-anchor="middle" font-size="9" fill="#15803d" font-style="italic">Within sterile field</text>
+  <!-- Arrow from surgeon toward table -->
+  <line x1="450" y1="320" x2="418" y2="320" stroke="#16a34a" stroke-width="2"/>
+  <polygon points="415,320 423,316 423,324" fill="#16a34a"/>
+
+  <!-- ===== ASSISTANT POSITION (left of patient) ===== -->
+  <rect x="115" y="280" width="115" height="90" rx="6" fill="#dcfce7" stroke="#16a34a" stroke-width="1.5"/>
+  <text x="172" y="300" text-anchor="middle" font-size="11" font-weight="bold" fill="#15803d">FIRST ASSIST</text>
+  <text x="172" y="315" text-anchor="middle" font-size="10" fill="#166534">Surgical assistant</text>
+  <text x="172" y="330" text-anchor="middle" font-size="10" fill="#166534">opposite surgeon</text>
+  <text x="172" y="345" text-anchor="middle" font-size="9" fill="#15803d" font-style="italic">Gowned + Gloved</text>
+  <text x="172" y="360" text-anchor="middle" font-size="9" fill="#15803d" font-style="italic">Within sterile field</text>
+  <!-- Arrow toward table -->
+  <line x1="230" y1="320" x2="262" y2="320" stroke="#16a34a" stroke-width="2"/>
+  <polygon points="265,320 257,316 257,324" fill="#16a34a"/>
+
+  <!-- ===== MAYO STAND (between scrub and patient) ===== -->
+  <rect x="450" y="195" width="115" height="70" rx="6" fill="#fef9c3" stroke="#ca8a04" stroke-width="2"/>
+  <text x="507" y="215" text-anchor="middle" font-size="11" font-weight="bold" fill="#92400e">MAYO STAND</text>
+  <text x="507" y="230" text-anchor="middle" font-size="10" fill="#a16207">Active instruments</text>
+  <text x="507" y="245" text-anchor="middle" font-size="10" fill="#a16207">over patient field</text>
+  <text x="507" y="258" text-anchor="middle" font-size="9" fill="#ca8a04" font-style="italic">Sterile</text>
+  <!-- Arrow from mayo toward patient -->
+  <line x1="450" y1="230" x2="420" y2="250" stroke="#ca8a04" stroke-width="1.5" stroke-dasharray="4,2"/>
+
+  <!-- ===== SCRUB TECH (corner near mayo + back table) ===== -->
+  <rect x="455" y="390" width="115" height="95" rx="6" fill="#ede9fe" stroke="#7c3aed" stroke-width="2"/>
+  <text x="512" y="410" text-anchor="middle" font-size="11" font-weight="bold" fill="#5b21b6">SCRUB TECH</text>
+  <text x="512" y="425" text-anchor="middle" font-size="10" fill="#6d28d9">Manages Mayo</text>
+  <text x="512" y="440" text-anchor="middle" font-size="10" fill="#6d28d9">stand + back table</text>
+  <text x="512" y="455" text-anchor="middle" font-size="9" fill="#7c3aed" font-style="italic">Gowned + Gloved</text>
+  <text x="512" y="468" text-anchor="middle" font-size="9" fill="#7c3aed" font-style="italic">Within sterile field</text>
+  <!-- Arrow scrub → mayo -->
+  <line x1="507" y1="390" x2="507" y2="268" stroke="#7c3aed" stroke-width="1.5" stroke-dasharray="4,2"/>
+
+  <!-- ===== BACK TABLE (right wall) ===== -->
+  <rect x="570" y="200" width="78" height="280" rx="6" fill="#fef9c3" stroke="#ca8a04" stroke-width="2"/>
+  <text x="609" y="225" text-anchor="middle" font-size="11" font-weight="bold" fill="#92400e" transform="rotate(-90, 609, 340)">BACK TABLE — Full instrument set (Sterile)</text>
+
+  <!-- ===== CIRCULATOR (non-sterile, moving around) ===== -->
+  <rect x="115" y="390" width="115" height="95" rx="6" fill="#fee2e2" stroke="#dc2626" stroke-width="1.5"/>
+  <text x="172" y="410" text-anchor="middle" font-size="11" font-weight="bold" fill="#b91c1c">CIRCULATOR</text>
+  <text x="172" y="425" text-anchor="middle" font-size="10" fill="#dc2626">Non-sterile RN</text>
+  <text x="172" y="440" text-anchor="middle" font-size="10" fill="#dc2626">Opens supplies</text>
+  <text x="172" y="455" text-anchor="middle" font-size="10" fill="#dc2626">Documentation</text>
+  <text x="172" y="468" text-anchor="middle" font-size="9" fill="#dc2626" font-style="italic">Moves freely in room</text>
+  <text x="172" y="481" text-anchor="middle" font-size="9" fill="#dc2626" font-style="italic">(outside sterile field)</text>
+
+  <!-- ===== ESU / BOVIE (near surgeon) ===== -->
+  <rect x="450" y="505" width="75" height="55" rx="5" fill="#f0fdf4" stroke="#86efac" stroke-width="1.5"/>
+  <text x="487" y="522" text-anchor="middle" font-size="10" font-weight="bold" fill="#15803d">BOVIE / ESU</text>
+  <text x="487" y="536" text-anchor="middle" font-size="9" fill="#166534">Electrosurgical</text>
+  <text x="487" y="549" text-anchor="middle" font-size="9" fill="#166534">unit</text>
+
+  <!-- ===== SUCTION unit ===== -->
+  <rect x="530" y="505" width="70" height="55" rx="5" fill="#f0fdf4" stroke="#86efac" stroke-width="1.5"/>
+  <text x="565" y="522" text-anchor="middle" font-size="10" font-weight="bold" fill="#15803d">SUCTION</text>
+  <text x="565" y="536" text-anchor="middle" font-size="9" fill="#166534">Wall or</text>
+  <text x="565" y="549" text-anchor="middle" font-size="9" fill="#166534">portable</text>
+
+  <!-- ===== ANESTHESIA PROVIDER (head of table) ===== -->
+  <rect x="125" y="155" width="115" height="65" rx="6" fill="#dbeafe" stroke="#3b82f6" stroke-width="1.5"/>
+  <text x="182" y="175" text-anchor="middle" font-size="11" font-weight="bold" fill="#1d4ed8">ANESTHESIA</text>
+  <text x="182" y="190" text-anchor="middle" font-size="10" fill="#2563eb">CRNA / MD at</text>
+  <text x="182" y="205" text-anchor="middle" font-size="10" fill="#2563eb">head of table</text>
+  <!-- Arrow to head of table -->
+  <line x1="240" y1="185" x2="262" y2="235" stroke="#3b82f6" stroke-width="1.5"/>
+  <polygon points="264,240 258,232 266,230" fill="#3b82f6"/>
+
+  <!-- ===== VIDEO TOWER (top corner) ===== -->
+  <rect x="31" y="62" width="90" height="60" rx="5" fill="#f1f5f9" stroke="#64748b" stroke-width="1.5"/>
+  <text x="76" y="82" text-anchor="middle" font-size="10" font-weight="bold" fill="#374151">VIDEO</text>
+  <text x="76" y="96" text-anchor="middle" font-size="9" fill="#475569">TOWER</text>
+  <text x="76" y="110" text-anchor="middle" font-size="9" fill="#475569">(Laparoscopic)</text>
+
+  <!-- ===== LIGHT SOURCE / CEILING LIGHTS indicator ===== -->
+  <ellipse cx="340" cy="190" rx="30" ry="14" fill="#fef9c3" stroke="#ca8a04" stroke-width="1.5" stroke-dasharray="4,2"/>
+  <text x="340" y="186" text-anchor="middle" font-size="9" fill="#92400e">OR LIGHT</text>
+  <text x="340" y="198" text-anchor="middle" font-size="8" fill="#92400e">(overhead)</text>
+  <!-- Rays -->
+  <line x1="340" y1="205" x2="340" y2="215" stroke="#f59e0b" stroke-width="1.5"/>
+  <line x1="325" y1="202" x2="318" y2="212" stroke="#f59e0b" stroke-width="1.5"/>
+  <line x1="355" y1="202" x2="362" y2="212" stroke="#f59e0b" stroke-width="1.5"/>
+
+  <!-- ===== DOORS ===== -->
+  <rect x="20" y="310" width="20" height="60" fill="#f8fafc" stroke="#94a3b8" stroke-width="1.5"/>
+  <text x="30" y="346" text-anchor="middle" font-size="8" fill="#64748b" transform="rotate(-90,30,346)">DOOR</text>
+
+  <rect x="640" y="310" width="20" height="60" fill="#f8fafc" stroke="#94a3b8" stroke-width="1.5"/>
+  <text x="650" y="346" text-anchor="middle" font-size="8" fill="#64748b" transform="rotate(-90,650,346)">DOOR</text>
+
+  <!-- ===== STERILE FIELD INDICATOR ===== -->
+  <rect x="255" y="190" width="180" height="300" rx="8" fill="none" stroke="#16a34a" stroke-width="1.5" stroke-dasharray="8,4" opacity="0.6"/>
+  <text x="445" y="512" text-anchor="end" font-size="9" fill="#16a34a" font-style="italic">— sterile boundary —</text>
+
+  <!-- ===== LEGEND ===== -->
+  <rect x="30" y="510" width="280" height="100" rx="6" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="170" y="528" text-anchor="middle" font-size="11" font-weight="bold" fill="#374151">Legend</text>
+  <rect x="42" y="536" width="14" height="10" rx="2" fill="#dcfce7" stroke="#16a34a" stroke-width="1.5"/>
+  <text x="60" y="546" font-size="10" fill="#374151">Sterile team member</text>
+  <rect x="42" y="552" width="14" height="10" rx="2" fill="#fee2e2" stroke="#dc2626" stroke-width="1.5"/>
+  <text x="60" y="562" font-size="10" fill="#374151">Non-sterile (circulator)</text>
+  <rect x="42" y="568" width="14" height="10" rx="2" fill="#fef9c3" stroke="#ca8a04" stroke-width="1.5"/>
+  <text x="60" y="578" font-size="10" fill="#374151">Sterile instrument surface</text>
+  <line x1="155" y1="536" x2="175" y2="536" stroke="#16a34a" stroke-width="1.5" stroke-dasharray="5,3"/>
+  <text x="178" y="540" font-size="10" fill="#374151">Sterile field boundary</text>
+  <rect x="155" y="551" width="14" height="10" rx="2" fill="#dbeafe" stroke="#3b82f6" stroke-width="1.5"/>
+  <text x="173" y="561" font-size="10" fill="#374151">Anesthesia (non-sterile)</text>
+  <rect x="155" y="567" width="14" height="10" rx="2" fill="#ede9fe" stroke="#7c3aed" stroke-width="1.5"/>
+  <text x="173" y="577" font-size="10" fill="#374151">Scrub tech</text>
+</svg>

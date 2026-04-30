@@ -86,6 +86,8 @@ The principle — maintain and widen exposure — is constant. The tool changes 
 
 Before the first incision is made in any case, the surgical wound is pre-classified based on the expected degree of contamination. This classification determines antibiotic selection, closure strategy, and documentation.
 
+![Wound Classification](../illustrations/wound_classification.svg)
+
 ### The Four Classes
 
 **Class I: Clean**
@@ -149,6 +151,8 @@ Most dissection uses all three in sequence: sharp to enter a plane, blunt to dev
 
 ## 12.6 Layers of the Abdominal Wall
 
+![Abdominal Wall Layers](../illustrations/abdominal_wall.svg)
+
 Understanding these layers is the foundation for understanding the **Approach** in every abdominal procedure and the **Closure** that follows.
 
 **Anterior abdomen, superficial to deep:**
@@ -178,6 +182,8 @@ Understanding these layers is the foundation for understanding the **Approach** 
 ---
 
 ## 12.7 Types of Wound Healing
+
+![Types of Wound Healing](../illustrations/wound_healing.svg)
 
 **Primary intention (first intention):** Wound edges directly approximated by suture, staples, or adhesive. Minimal gap; heals with minimal scarring. Standard for most elective clean cases.
 

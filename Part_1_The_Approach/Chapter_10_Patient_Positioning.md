@@ -74,6 +74,8 @@ All bony prominences and pressure points must be padded prior to draping.
 
 ## 10.3 Surgical Positions
 
+![Surgical Patient Positions](../illustrations/surgical_positions.svg)
+
 ### Supine (Dorsal Recumbent)
 
 **Description:** Patient lies flat on their back; arms may be at the side or extended on arm boards.

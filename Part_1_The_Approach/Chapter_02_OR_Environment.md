@@ -46,6 +46,8 @@ A typical surgical suite includes:
 
 ---
 
+![Operating Room Layout](../illustrations/or_layout.svg)
+
 ## 2.2 Traffic Flow and Zone Classification
 
 The OR suite uses a **three-zone traffic system** to control the movement of personnel and equipment and reduce the risk of cross-contamination.

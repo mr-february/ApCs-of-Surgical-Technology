@@ -32,6 +32,8 @@ By the end of this chapter, the learner will be able to:
 
 ## 6.1 Instrument Classification by Function
 
+![Common Surgical Instruments](../illustrations/instrument_silhouettes.svg)
+
 Surgical instruments are grouped by what they do. A thorough understanding of these categories allows the scrub technologist to anticipate surgical needs and organize the sterile field logically.
 
 ---
