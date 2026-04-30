@@ -1,18 +1,18 @@
-# The Approach, The Procedure, The Closure
-## *The ApC's of Surgical Technology*
+# The ApC's of Surgical Technology
+## *A Field Guide for the Working Scrub Tech*
 
 ---
 
-*A Comprehensive Educational Text for Surgical Technology Students and Practicing CSTs*
+This is not a textbook. It is a reference built for the OR floor — for the tech who wants to get faster, get sharper, and stop getting caught off guard.
+
+Every procedure in this book is structured around three phases: **Approach → Procedure → Closure**. Every specialty chapter includes **Quick Facts**, **Before You Scrub** checklists, **Watch For** callouts, and closure tables by layer. [Appendix H](#appendices) has one-page quick-reference cards for every major procedure.
 
 ---
 
 ## Table of Contents
 
----
-
 ### Introduction
-- [The World of Surgical Technology](Part_0_Introduction.md)
+- [The ApC's of Surgical Technology — Field Guide Introduction](Part_0_Introduction.md)
 
 ---
 
@@ -34,9 +34,9 @@
 ---
 
 ### PART II: THE PROCEDURE
-*Intraoperative Principles*
+*Intraoperative Principles — Each procedure: Quick Facts · Before You Scrub · Watch For · Closure Table*
 
-- [Chapter 12 — Wound Classification and Tissue Handling](Part_2_The_Procedure/Chapter_12_Wound_Classification.md)
+- [Chapter 12 — The ApC Framework](Part_2_The_Procedure/Chapter_12_Wound_Classification.md)
 - [Chapter 13 — General Surgery](Part_2_The_Procedure/Chapter_13_General_Surgery.md)
 - [Chapter 14 — Orthopedic Surgery](Part_2_The_Procedure/Chapter_14_Orthopedic_Surgery.md)
 - [Chapter 15 — Neurosurgery](Part_2_The_Procedure/Chapter_15_Neurosurgery.md)
@@ -68,8 +68,9 @@
 - [Appendix D — Surgical Positions Reference](Appendices/Appendix_D_Positions.md)
 - [Appendix E — Sterilization Methods Comparison](Appendices/Appendix_E_Sterilization.md)
 - [Appendix F — Study Questions by Chapter](Appendices/Appendix_F_Study_Questions.md)
-- [Appendix G — Instrument Illustrations and Mayo Stand Setups](Appendices/Appendix_G_Mayo_Stand_Setups.md)
+- [Appendix G — Mayo Stand Setups](Appendices/Appendix_G_Mayo_Stand_Setups.md)
+- [**Appendix H — Quick Reference Cards** *(one card per major procedure)*](Appendices/Appendix_H_Quick_Reference_Cards.md)
 
 ---
 
-*"Every incision begins with a plan. Every plan ends with a closure. Between them lies the art and science of surgical technology."*
+*The difference between a good scrub tech and an excellent one is anticipation. This book is built to develop that.*
