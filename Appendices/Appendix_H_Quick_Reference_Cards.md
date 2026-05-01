@@ -682,6 +682,167 @@ Donor site: layered primary closure or STSG. Recipient: non-compressive window d
 
 ---
 
+## Card H-25 · da Vinci Robotic Surgery (Bedside Assistant)
+
+| | |
+|---|---|
+| **Platform** | da Vinci Xi / X / SP (Intuitive Surgical) |
+| **Your Station** | Patient cart (bedside) |
+| **Surgeon Location** | Console — non-sterile |
+| **Your Port** | 10–12 mm assistant port |
+
+**Before You Scrub**
+- Robotic arm drapes × 4: applied before docking; no wrinkles; confirm locked
+- EndoWrist instruments: check use counter — expired instruments cannot be loaded
+- Assistant port instruments: laparoscopic clip applier, suction-irrigator, grasper, endobag
+- Pre-load anastomosis sutures on laparoscopic needle holders 20 min before the suturing step
+- Instrument exchange protocol memorized: release button → pull straight out → seat new instrument → confirm on monitor
+
+**Watch For:**
+- Pre-load every suture before it is called — the console surgeon cannot wait
+- Never grab a robotic arm while it is under power — significant torque risk
+- Arm drape breach → stop; re-drape the affected arm before continuing
+- Instrument counter expiration → open replacement immediately
+
+---
+
+## Card H-26 · Mako SmartRobotics (Stryker)
+
+| | |
+|---|---|
+| **Platform** | Mako SmartRobotics (Stryker) |
+| **Procedures** | THA, TKA, UKA |
+| **Requires** | Pre-op CT plan loaded before case |
+| **Cutting Tool** | Burr (not a saw) |
+| **Implant System** | Stryker (Triathlon knee / Accolade hip) |
+
+**Before You Scrub**
+- Pre-op CT plan confirmed loaded on Mako system
+- Tibial + femoral tracker arrays (sterile; pin-mounted) on field
+- Registration probe: sterile; immediately available when surgeon calls
+- Mako burr loaded and sterile; backup burr on field
+- Irrigation running during burr resection (heat generation)
+- All trial components in order; cement supplies ready (Mako guides cuts; cementing is still manual)
+
+**Watch For:**
+- Array disturbance = registration lost → re-register required
+- Burr requires continuous irrigation — confirm before activation
+- Arrays are counted; note their position to the whole team before draping
+
+---
+
+## Card H-27 · ROSA (Zimmer Biomet)
+
+| | |
+|---|---|
+| **Platform** | ROSA Knee / ROSA Hip (Zimmer Biomet) |
+| **ROSA Knee** | Imageless — no pre-op CT required |
+| **ROSA Hip** | Image-based — pre-op CT required |
+| **Cutting Tool** | Saw (ROSA positions the cutting jig) |
+| **Implant System** | Zimmer Biomet (Persona, NexGen) |
+
+**Before You Scrub**
+- ROSA system powered on; sterile arm drape applied
+- Bone pins + tracker arrays: sterile; on field
+- Registration probe: sterile
+- ROSA saw jig adapter confirmed compatible with implant system
+- Standard TKA instruments still required for manual steps
+
+**Watch For:**
+- Surgeon will spend time at the ROSA screen building the intraoperative plan — do not pass instruments during this phase
+- Saw blade must be fully seated in the jig before activation
+- ROSA arm drape breach = arm exits the sterile field
+
+---
+
+## Card H-28 · Mazor X (Medtronic)
+
+| | |
+|---|---|
+| **Platform** | Mazor X (Medtronic) |
+| **Procedure** | Spine pedicle screw placement |
+| **Requires** | Pre-op CT plan + O-arm spin for registration |
+| **Robot Does** | Positions drill guide at planned trajectory |
+| **Surgeon Does** | Drills, taps, and places screws manually |
+| **Implant System** | Medtronic (CD Horizon, Solera) |
+
+**Before You Scrub**
+- Pre-op CT plan confirmed loaded
+- Spine reference array (sterile; clamp-mounted on spinous process or iliac crest)
+- Mazor arm sterile drape applied before arm enters field
+- Mazor-specific drill guide cannulas on field
+- O-arm sterile drape ready
+- Medtronic screw set: confirm sizes; set screws in their rack (counted items)
+
+**Watch For:**
+- Reference array movement = invalidated registration → alert surgeon immediately
+- O-arm spin = hands off patient, everyone step back, call it loudly
+- Drill guide must contact cortical bone before drilling — not soft tissue
+- Set screws are tiny counted items; never leave unsupported on the field
+
+---
+
+## Card H-29 · ExcelsiusGPS (Globus Medical)
+
+| | |
+|---|---|
+| **Platform** | ExcelsiusGPS (Globus Medical) |
+| **Procedure** | Spine pedicle screw placement |
+| **Unique Feature** | Integrated navigation + robotics (one platform) |
+| **Can work with or without pre-op CT** | Intraoperative O-arm registration available |
+| **Implant System** | Globus Medical (CREO, REVOLVE) — NOT interchangeable with Medtronic |
+
+**Before You Scrub**
+- Workflow confirmed: pre-op CT plan OR intraoperative O-arm registration
+- ExcelsiusGPS arm sterile drape applied
+- Globus-specific reference array and drill cannulas on field
+- Globus screw set confirmed (not Medtronic, not DePuy)
+- O-arm or C-arm sterile drape ready
+
+**Watch For:**
+- ExcelsiusGPS arm locks automatically at planned trajectory — confirm lock indicator displayed before drilling
+- Reference array = same rules as Mazor X; any movement requires re-registration
+- O-arm spin protocol: full room clear, hands off patient
+
+---
+
+## Card H-30 · Stealth Navigation (Medtronic)
+
+| | |
+|---|---|
+| **Platform** | Stealth Navigation (Medtronic) |
+| **Procedure** | Spine, cranial, ENT navigation guidance |
+| **Robot** | None — navigation only (no robotic arm) |
+| **Tracking** | Optical (camera must have line of sight to trackers) |
+
+**Before You Scrub**
+- Stealth reference array: sterile; clamp-mounted; placed before O-arm spin
+- Instrument trackers (sterile): attach to drill, pedicle probe, tap — confirm all are on the field
+- Stealth-compatible instruments only: non-tracked instruments won't appear on the screen
+- O-arm sterile drape if spin is planned
+- Tracker ball cleaning routine: wipe balls with a dry sponge every time the instrument returns to the back table
+
+**Watch For:**
+- Tracker ball contamination = instrument disappears from navigation screen silently
+- Line-of-sight blocking: do not cross between the Stealth camera and the tracker arrays
+- O-arm spin = full room clear; hands off field; call it every time
+- If navigation fails intraoperatively, case continues with fluoroscopy — have C-arm sterile drape in the room
+
+---
+
+## Quick Reference: Robotic Platform at a Glance
+
+| System | Manufacturer | What the Robot Does | Implant System |
+|--------|-------------|---------------------|----------------|
+| da Vinci Xi | Intuitive Surgical | Holds/moves instruments (telemanipulation) | N/A |
+| Mako | Stryker | Haptic boundary; guides burr | Stryker |
+| ROSA | Zimmer Biomet | Positions cutting jig | Zimmer Biomet |
+| Mazor X | Medtronic | Positions drill guide | Medtronic |
+| ExcelsiusGPS | Globus Medical | Locks drill guide; integrated navigation | Globus Medical |
+| Stealth | Medtronic | Navigation tracking only (no robot arm) | Any |
+
+---
+
 ## Quick Reference: Blade Selection
 
 | Blade | Use |
