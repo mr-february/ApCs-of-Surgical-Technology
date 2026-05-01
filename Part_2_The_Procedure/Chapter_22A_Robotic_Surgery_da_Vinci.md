@@ -111,71 +111,17 @@ The most common and technically demanding task. Pre-load the suture on a laparos
 
 ---
 
-## da Vinci Xi: Procedure-Specific Setup
+## Procedure-Specific Setups — See the Specialty Chapters
 
-### Robotic-Assisted Radical Prostatectomy (RARP)
+The full Before You Scrub checklists, procedure steps, Watch For callouts, and closure tables for da Vinci cases live in the specialty chapters alongside their conventional counterparts. Use this chapter for platform mechanics and troubleshooting; go to the specialty chapter for the actual case setup.
 
-*(Full procedure detail in Chapter 18 — this is the robotic-specific setup summary)*
-
-> **BEFORE YOU SCRUB**
-> - [ ] Robot draped: 4 arm drapes applied before docking
-> - [ ] Ports: 12 mm camera port (infraumbilical); 3–4 × 8 mm robotic arm ports; 1 × 12 mm assistant port
-> - [ ] Instruments loaded: ProGrasp + monopolar scissors + bipolar Maryland + 2 × large needle drivers
-> - [ ] Anastomosis suture pre-loaded: 3-0 Monocryl on UR-6 × 2 (Van Velthoven); load on laparoscopic needle holder 20 min before it's needed
-> - [ ] DVC suture: 2-0 Vicryl on CT needle loaded and ready
-> - [ ] Foley catheter: 18 or 20 Fr; on the back table visible at all times
-> - [ ] Specimen bag ready to pass through assistant port
-> - [ ] JP drain: 10 mm Blake drain; 2-0 nylon for securing
-
-> **⚠ WATCH FOR**
-> - **Anastomosis suture demand:** the console surgeon will call for the 3-0 Monocryl while still dissecting the apex; have it fully loaded and in your hand
-> - **Instrument arm collision:** if two robotic arms collide during the case, the robot pauses; the console surgeon must reposition; do not try to force a jammed arm
-> - **Nerve-sparing step:** monopolar scissors must be exchanged for cold scissors or bipolar only during neurovascular bundle dissection; confirm the exchange is complete before the surgeon proceeds
-
----
-
-### Robotic-Assisted Hysterectomy (da Vinci TLH)
-
-> **BEFORE YOU SCRUB**
-> - [ ] Uterine manipulator placed vaginally before abdominal approach
-> - [ ] Ports: 12 mm camera port (umbilical); 2–3 × 8 mm robotic arm ports; 1 × 8–12 mm assistant port
-> - [ ] Instruments loaded: ProGrasp + monopolar scissors + bipolar Maryland + needle driver
-> - [ ] Vessel sealer (da Vinci Vessel Sealer Extend or bipolar) for pedicle ligation
-> - [ ] Vaginal cuff closure: 0 Vicryl on CT-1 × 2; pass through assistant port when called
-> - [ ] Specimen delivery: uterus comes out vaginally; no endobag needed for uterus (but have one available)
-
-> **⚠ WATCH FOR**
-> - **Uterine manipulator control:** if someone is managing the manipulator from below (assistant standing at the perineum), they must respond to the console surgeon's positioning requests promptly
-> - **Ureter thermal proximity:** Vessel Sealer firing near the parametrium — confirm the surgeon can see the ureter before each activation; thermal spread is 2–4 mm
-
----
-
-### Robotic Nissen Fundoplication (Pediatric or Adult)
-
-> **BEFORE YOU SCRUB**
-> - [ ] Ports: 12 mm camera port (umbilical area); 3 × 8 mm robotic arm ports (upper abdomen); 1 assistant port
-> - [ ] Instruments: ProGrasp + monopolar scissors + bipolar + needle driver
-> - [ ] Fundoplication sutures: 2-0 Ethibond × 3 (for the wrap); pass via assistant port on a laparoscopic needle holder
-> - [ ] Bougie (esophageal dilator): circulator will pass to anesthesia to place transorally; confirm size with surgeon before case
-
-> **⚠ WATCH FOR**
-> - **Vagus nerve preservation:** both anterior and posterior vagal trunks must be identified before the wrap is placed; if the surgeon pauses at the posterior esophagus, they are looking for the posterior vagus — do not rush the next instrument
-> - **Wrap too tight:** if the surgeon is sizing the wrap with a bougie in place, do not pass additional instruments until the sizing suture is placed
-
----
-
-### Robotic VATS Lobectomy
-
-> **BEFORE YOU SCRUB**
-> - [ ] Single-lung ventilation confirmed before any port is made
-> - [ ] Ports: 12 mm camera port + 3 × 8 mm robotic arm ports in the chest; 1 × 12 mm assistant port
-> - [ ] SureForm stapler (da Vinci) loaded with vascular reloads (white) × 3; bronchial reloads (green) × 1; extras of both
-> - [ ] Standard laparoscopic Endo-GIA available through assistant port as backup
-> - [ ] Endobag for specimen extraction
-
-> **⚠ WATCH FOR**
-> - **SureForm reload type:** vascular (white) for pulmonary artery and vein; bronchial (green) for the bronchus; confirm every reload before handing; wrong load type on a pulmonary vessel = catastrophic bleed
-> - **Single-lung ventilation failure:** if the operative lung re-expands mid-case, the working space collapses; the surgeon must pause — do not rush instrument exchanges during ventilation adjustments
+| Procedure | Chapter |
+|-----------|---------|
+| Robotic-Assisted Radical Prostatectomy (RARP) | [Chapter 18 — Urology](Chapter_18_Urology.md) |
+| Robotic-Assisted Total Laparoscopic Hysterectomy (da Vinci TLH) | [Chapter 17 — OB/GYN](Chapter_17_OB_GYN.md) |
+| Robotic Nissen Fundoplication (adult) | [Chapter 13 — General Surgery](Chapter_13_General_Surgery.md) |
+| Robotic Nissen Fundoplication (pediatric) | [Chapter 22 — Pediatric Surgery](Chapter_22_Pediatric_Surgery.md) |
+| Robotic VATS Lobectomy | [Chapter 16 — Cardiovascular & Thoracic](Chapter_16_Cardiovascular_Thoracic.md) |
 
 ---
 

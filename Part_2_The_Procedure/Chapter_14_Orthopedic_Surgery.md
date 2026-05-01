@@ -241,6 +241,118 @@ No deep layer closure — portals are too small to require it.
 
 ---
 
+## Robotic-Assisted Joint Arthroplasty
+
+Robotic arthroplasty systems add a platform-specific setup layer to TKA and THA. The core procedure — exposure, implant seating, closure — remains the same. What changes is the bone resection phase: the robotic arm either enforces a haptic boundary that physically prevents overresection (Mako) or positions and holds a cutting guide jig at a pre-planned angle (ROSA).
+
+**Non-negotiable rule before every robotic orthopedic case:** Confirm the implant system. Mako uses Stryker implants only. ROSA uses Zimmer Biomet implants only. These systems are not cross-compatible. Opening the wrong set is an avoidable implant error.
+
+---
+
+## Mako TKA (Stryker SmartRobotics)
+
+> **QUICK FACTS**
+> Wound Class: I (Clean) · Position: Supine, tourniquet · Avg time: 90–120 min · Implant system: **Stryker Triathlon or Resection System only** · Robot does: enforces haptic cutting boundary · Surgeon does: guides the arm through the boundary · Key: uses a **burr**, not a saw
+
+### The Approach
+
+> **BEFORE YOU SCRUB**
+> - [ ] Confirm pre-op CT plan is loaded on the Mako system — if no CT plan, the case cannot proceed as a Mako case; verify with the circulator before prepping
+> - [ ] Femoral and tibial tracker arrays: sterile; placed on bone pins intraoperatively — have the pin driver and array hardware on the sterile field
+> - [ ] Registration probe: sterile; immediately available when the surgeon calls for landmark digitization
+> - [ ] Mako RIO burr: sterile and loaded; have a backup burr on the field — Mako uses a burr, not a saw
+> - [ ] Continuous irrigation cannula for the burr: confirm irrigation is running before the burr is activated; burr overheating without irrigation damages bone and the instrument
+> - [ ] Stryker Triathlon trials and implants: 2 sizes above and below templated sizes; trials in order on the back table
+> - [ ] Standard TKA arthrotomy instruments: still required for exposure and final implant seating — these steps remain manual
+> - [ ] Cement: mixing supplies ready; resection is robotic, cementing is still manual
+> - [ ] Double-glove; replacement outer gloves on the field
+
+**Registration sequence — your role:**
+1. Bone pins placed into the distal femur and proximal tibia; tracker arrays mounted on the pins
+2. Surgeon digitizes anatomical landmarks with the registration probe — **the field must be still and quiet; do not disturb arrays or lean on the table**
+3. Registration confirmed on the Mako screen; haptic boundary activated for the burr
+4. Robotic-guided resection begins; the arm physically resists if the surgeon moves outside the planned zone
+
+**Tracker array protection:** Once arrays are placed, announce their locations to everyone at the table. Mark array positions with a towel clip on the drape edge if needed. Any bump to a tracker array invalidates the registration and requires full re-registration.
+
+### The Procedure
+
+Standard Mako TKA follows the same steps as conventional TKA (see Chapter 14 TKA section above) except the bone resection phase:
+- Medial parapatellar arthrotomy and exposure: manual
+- **Bone resection:** surgeon guides the Mako arm with the burr; the haptic system constrains cutting to the planned zone; resection confirmed on the Mako screen
+- Trial seating, gap balancing, patella resurfacing: manual
+- Cementing and final component seating: manual; same cement timing rules apply (alert at 5 min)
+
+> **⚠ WATCH FOR**
+> - **Array disturbance:** any bump to the tracker array during the case invalidates the registration; alert the team to array locations before dissection begins; the circulator should not move the table without warning the surgical team
+> - **Burr without irrigation:** the Mako burr generates significant heat; irrigation must be running continuously during resection; if the irrigation cannula clogs or runs dry, stop the burr
+> - **Implant size change post-registration:** if the surgeon decides to change implant size intraoperatively, the Mako cut plan must be updated before additional resection; confirm the plan update with the surgeon before handing the burr again
+> - **Cement timing:** same as standard TKA — track elapsed time from mix; alert the surgeon at 5 minutes
+
+### The Closure
+
+Same as standard TKA: arthrotomy with #1 Vicryl; subcutaneous 2-0 Vicryl; skin with staples or 3-0 Monocryl; Hemovac drain if used.
+
+---
+
+## Mako THA (Stryker SmartRobotics)
+
+> **QUICK FACTS**
+> Wound Class: I (Clean) · Position: Lateral decubitus (posterior approach) · Avg time: 75–105 min · Implant system: **Stryker Accolade/Secur-Fit stem + Trident acetabular shell only** · Robot controls: acetabular reamer trajectory and cup impactor angle · Femoral prep: manual
+
+> **BEFORE YOU SCRUB**
+> - [ ] Pre-op CT plan loaded on Mako system; confirm before prepping the patient
+> - [ ] Pelvis and femur tracker arrays: sterile; placed via bone pins; announce their locations to the team
+> - [ ] Registration probe: sterile; on the field
+> - [ ] Mako robotic arm with acetabular reamer: the system controls the reamer at the pre-planned inclination and anteversion; confirm the reamer attachment is loaded
+> - [ ] Standard THA instruments: femoral broaches, trial stems, trial heads, Hohmann retractors, offset Hohmann — femoral preparation is performed manually
+> - [ ] Stryker Accolade/Trident implants: templated sizes + 2 above and below; trials in order
+
+**Key difference from standard THA:** The Mako arm controls the **acetabular reamer trajectory and cup impactor angle**, ensuring the cup lands at the planned inclination and anteversion. Femoral broaching and stem placement are manual.
+
+**Registration:** The surgeon digitizes landmarks on the pelvis and acetabular rim. Do not handle or lean on the pelvis array or the OR table until registration is confirmed on the Mako screen.
+
+> **⚠ WATCH FOR**
+> - Same tracker array disturbance rules as Mako TKA — announce locations; restrict table movement
+> - **Acetabular registration landmarks:** surgeon will pause to digitize the acetabular rim with the registration probe; have the probe immediately available and maintain field stillness during digitization
+> - **Femoral prep steps are manual:** have femoral broaches, trial stems, and the cement setup accessible as in a standard THA — the robot does not assist with the femoral side
+
+### The Closure
+
+Same as standard THA: external rotator reattachment with #1 Ethibond; IT band/fascia lata with #1 Vicryl; subcutaneous 2-0 Vicryl; skin with staples or 3-0 Monocryl; Hemovac drain secured with 2-0 nylon.
+
+---
+
+## ROSA Knee (Zimmer Biomet)
+
+> **QUICK FACTS**
+> Wound Class: I (Clean) · Position: Supine, tourniquet · Avg time: 90–120 min · Implant system: **Zimmer Biomet (Persona, NexGen) only** · Robot does: positions the saw cutting guide jig at planned angles · Surgeon does: makes manual cuts through the robotic-guided jig · No pre-op CT required
+
+**Key difference from Mako:** ROSA Knee is **imageless** — no pre-op CT. The system builds a virtual surgical plan intraoperatively from digitized bone landmarks. ROSA uses a **saw** (not a burr); the robotic arm positions and holds the cutting guide while the surgeon cuts manually through it.
+
+> **BEFORE YOU SCRUB**
+> - [ ] ROSA system positioned in the room and powered on; sterile robotic arm drape applied before the arm enters the sterile field
+> - [ ] Bone pins and tracker arrays: sterile; distal femur and proximal tibia
+> - [ ] Intraoperative registration probe: sterile; on the field
+> - [ ] ROSA saw adapter / cutting guide jig: confirm it is compatible with the Zimmer Biomet system in use
+> - [ ] Standard TKA oscillating saw and blades: still required; the saw operates through the ROSA-positioned jig
+> - [ ] Zimmer Biomet trials and implants: 2 sizes above and below templated sizes; in order
+> - [ ] No pre-op CT required; confirm with surgeon whether imageless or CT-based workflow is being used
+
+**Intraoperative plan building:** After landmark digitization, the surgeon will spend 5–10 minutes building and adjusting the surgical plan on the ROSA screen. Do not pass instruments during this phase. This is normal — it is not a delay.
+
+> **⚠ WATCH FOR**
+> - **ROSA arm drape breach:** if the robotic arm drape tears, the arm cannot contact the sterile field; have a spare drape in the room
+> - **Saw blade seating in the jig:** confirm the blade is fully seated in the ROSA cutting jig before the saw is activated; a partially seated blade vibrates out and produces an inaccurate cut
+> - **Real-time plan adjustment:** the surgeon can change the cutting plan on the ROSA screen intraoperatively; wait for plan confirmation before passing the saw
+> - **Zimmer Biomet implant exclusivity:** ROSA-guided cuts are calibrated for Zimmer Biomet component geometry; opening Stryker or other brand implants is an implant error
+
+### The Closure
+
+Same as standard TKA: arthrotomy with #1 Vicryl; subcutaneous 2-0 Vicryl; skin with staples or 3-0 Monocryl.
+
+---
+
 ## Clinical Pearls
 
 > "In orthopedics, the Approach is also mechanical. A retractor that slips or an incise drape that peels mid-case compromises the sterile field around a permanent implant."

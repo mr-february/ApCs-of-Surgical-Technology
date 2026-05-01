@@ -245,6 +245,121 @@
 
 ---
 
+## Robotic-Assisted Spine Surgery
+
+Spine robotic systems are drill guide platforms. The robotic arm positions a cannula or guide at a pre-planned pedicle screw trajectory. The surgeon then drills, taps, and places the screw manually through that guide. No spine robot currently drills or taps automatically.
+
+**Navigation vs. robotics — know the difference:**
+- **Navigation only (Stealth without robot):** tracks instrument position on a screen in real time; the surgeon cuts freehand; navigation is guidance only
+- **Robotics (Mazor X, ExcelsiusGPS, Stealth Autopilot):** a powered arm physically positions the drill guide at the planned trajectory before any drilling begins
+
+**Universal rule for all robotic and navigation spine cases:** The reference array (patient tracker) is the most critical item on the field after the patient. Any movement of the array invalidates the registration and corrupts every subsequent screw placement. Announce its location to the entire room before the case begins.
+
+---
+
+## Mazor X — Robotic Pedicle Screw Placement (Medtronic)
+
+> **QUICK FACTS**
+> Wound Class: I (Clean) · Position: Prone on Wilson frame or Jackson table · Avg time: 2–5 hrs (level-dependent) · Implant system: **Medtronic pedicle screw system only (CD Horizon, Solera, or equivalent)** · Navigation: Stealth + O-arm integrated
+
+### The Approach
+
+> **BEFORE YOU SCRUB**
+> - [ ] Pre-op CT plan loaded on Mazor system; confirm before positioning the patient
+> - [ ] Spine reference array: sterile; clamped to the spinous process or iliac crest; must be mounted before the O-arm spin
+> - [ ] O-arm sterile drape: the intraoperative O-arm CT scanner registers the patient; confirm drape is available
+> - [ ] Mazor robotic arm sterile drape: applied before the arm enters the sterile field
+> - [ ] Mazor drill cannulas/guides: sterile; confirm they match the Mazor X platform in use — these are not interchangeable with other robotic spine systems
+> - [ ] Medtronic screw set: pedicle screws, rods, set screws in templated and adjacent sizes; full set available including trauma-size backups
+> - [ ] Standard spine instruments still required: pedicle probe, awl, drill bits, taps — surgeon drills and taps manually through the Mazor guide
+> - [ ] Set screw rack: set screws are tiny, counted items; keep them in the rack at all times; never leave loose on the field
+> - [ ] C-arm or O-arm for intraoperative screw verification
+
+**Workflow sequence:**
+1. Patient positioned prone; reference array clamped to the spine
+2. O-arm spin → images transfer to Mazor system → automatic registration
+3. Surgeon verifies registration on the Mazor screen
+4. For each screw: Mazor arm moves to planned trajectory → locks → surgeon makes the incision → drill guide seated on cortical bone through the robotic cannula → surgeon drills, taps, places screw manually
+5. Verification image (O-arm or fluoroscopy) after each set of screws
+
+> **⚠ WATCH FOR**
+> - **Reference array movement:** if the array is bumped or loosened at any point during the case, every screw placed after that point is navigated to wrong anatomy; call it out immediately; re-registration is required
+> - **O-arm spin — mandatory field clear:** when the O-arm rotates, every person must step back and remove hands from the patient; announce the spin to the room every time; this is a radiation event
+> - **Drill guide not on bone:** the Mazor guide must contact cortical bone, not float on soft tissue; if it feels soft, the trajectory is off; do not drill until bone contact is confirmed
+> - **Pedicle breach:** sudden loss of resistance while drilling = possible breakthrough; stop drilling; assess with fluoroscopy; a breached pedicle threatens the spinal cord or nerve root
+> - **Set screw count:** set screws are implanted items; count them with the same rigor as sponges and sharps; use the rack
+
+### The Closure
+
+| Layer | Suture | Notes |
+|-------|--------|-------|
+| Thoracolumbar fascia | 1-0 Vicryl figure-of-eight | Midline; strength layer |
+| Subcutaneous | 2-0 Vicryl | |
+| Skin | Staples or 3-0 Monocryl | |
+| Drain | JP through separate stab | For multilevel fusions; surgeon preference |
+
+---
+
+## ExcelsiusGPS — Robotic Spine Navigation (Globus Medical)
+
+> **QUICK FACTS**
+> Wound Class: I (Clean) · Position: Prone · Avg time: 2–5 hrs · Implant system: **Globus Medical only (CREO, REVOLVE, or equivalent)** · Navigation and robotics integrated on one platform — no separate navigation cart required
+
+**How it differs from Mazor X:** ExcelsiusGPS combines navigation and robotics on one workstation. The robotic arm **locks automatically at the planned trajectory** — the surgeon does not manually guide it to each position. Globus-specific drills, taps, and cannulas are required; Medtronic, DePuy, or other brand instruments are not interchangeable.
+
+> **BEFORE YOU SCRUB**
+> - [ ] Pre-op CT or intraoperative O-arm spin planned; confirm workflow with surgeon
+> - [ ] ExcelsiusGPS arm sterile drape: applied before the arm enters the sterile field
+> - [ ] Reference array: Globus-specific clamp; sterile; on the field before the O-arm spin
+> - [ ] Globus screw system: confirm which system (CREO, REVOLVE, etc.) and templated sizes; full set with adjacent sizes
+> - [ ] ExcelsiusGPS drill bits, taps, and cannulas: system-specific; confirm all are on the field
+> - [ ] O-arm or fluoroscopy for intraoperative verification
+> - [ ] Manual backup: confirm standard C-arm sterile drape and conventional spine instruments are in the room
+
+> **⚠ WATCH FOR**
+> - Same reference array disturbance rules as Mazor X — announce location; restrict table movement; any array shift requires re-registration
+> - **Arm lock confirmation:** the ExcelsiusGPS arm must display a fully locked indicator before the surgeon drills; a partially locked arm can shift under drilling force and deviate the trajectory
+> - **Globus system exclusivity:** Globus screws, rods, and reduction instruments are NOT interchangeable with Medtronic or any other system; confirm the correct implant set is open before the first screw is placed
+> - **O-arm spin protocol:** step back, hands off the patient, announce to the room — same as Mazor X
+
+### The Closure
+
+Same layered closure as Mazor X (above): thoracolumbar fascia with 1-0 Vicryl, subcutaneous 2-0 Vicryl, skin with staples or 3-0 Monocryl, JP drain for multilevel fusions.
+
+---
+
+## Stealth Navigation + Autopilot (Medtronic)
+
+**Stealth Navigation** is Medtronic's optical tracking platform for spine, cranial, and ENT cases. It tracks instruments and anatomy in real time using optical sensors. Navigation provides guidance on a screen — the surgeon cuts freehand.
+
+**Stealth Autopilot** is Medtronic's robotic spine arm. It mounts directly on the patient's spine via a rigid clamp and reference frame, positioning the drill guide at pre-planned pedicle screw trajectories. The surgeon drills, taps, and places screws manually through the guide. Workflow is otherwise comparable to Mazor X.
+
+### Before You Scrub — Stealth Navigation Case
+
+> - [ ] Stealth reference array: sterile; clamp-mounted to the spinous process or iliac crest; in place before any O-arm spin
+> - [ ] Instrument trackers: sterile optical tracker balls that attach to the drill, pedicle probe, and awl — confirm all are on the field and **clean** (blood or fluid on tracker balls = tracking failure)
+> - [ ] Tracked instruments only: drills, probes, and taps must have Stealth tracker attachment points; non-tracked instruments will not appear on the navigation screen
+> - [ ] O-arm sterile drape if intraoperative spin is planned
+> - [ ] Line-of-sight maintained: Stealth's optical camera must have an unobstructed view of both the reference array and instrument trackers at all times
+
+### Before You Scrub — Stealth Autopilot (add to above)
+
+> - [ ] Stealth Autopilot arm sterile drape: applied before the arm mounts on the patient's spine reference frame
+> - [ ] Autopilot arm attachment hardware: sterile; confirm on the field
+> - [ ] Workflow: registration → arm positions drill guide → manual drill/tap/screw, identical to Mazor X
+
+> **⚠ WATCH FOR**
+> - **Tracker ball contamination — this is the most common Stealth failure mode:** blood or fluid on the optical balls causes instruments to disappear from the navigation screen without warning; the surgeon may continue for several steps before noticing; wipe every tracker ball with a dry sponge every time an instrument returns to the back table — make it a habit
+> - **Line-of-sight interruption:** if your hand, the surgeon's shoulder, or any instrument passes between the Stealth camera and a tracker, that instrument drops off the screen; be aware of the camera's line of sight and keep the zone between camera and trackers clear
+> - **O-arm spin protocol:** clear the field, step back, hands off the patient, announce to the room — identical to all other spine robotic cases
+> - **Reference array mount (Autopilot):** because the Autopilot arm is patient-mounted, any movement of the patient (table adjustment, patient shift) is transmitted directly to the arm; confirm the table is locked before drilling begins
+
+### The Closure
+
+Same layered closure as above (thoracolumbar fascia, subcutaneous, skin, drain for multilevel).
+
+---
+
 ## Clinical Pearls
 
 > "In neurosurgery, the Approach demands absolute precision. The Raney clips, the Mayfield, the cottonoids — they are not accessories. They are the framework that makes everything that follows possible."

@@ -329,6 +329,58 @@ Camera cord and CO₂ tubing are sterile field items. Secure them to the drape; 
 
 ---
 
+## 13.8 Robotic Nissen Fundoplication (da Vinci)
+
+> **QUICK FACTS**
+> Wound Class: I (Clean) · Position: Supine, reverse Trendelenburg · Avg time: 90–150 min · Team: console surgeon + bedside scrub tech + circulator · Robot: da Vinci · Note: adult anti-reflux procedure; pediatric Nissen is in Chapter 22
+
+**What changes at the back table:** In a robotic case you are stationed at the patient cart — not across the table from the surgeon. The console surgeon controls all robotic arm movements remotely. You are their hands at the bedside: every suture, every clip, and every irrigation cannula passes through the assistant port. Pre-loading sutures before they are called is mandatory.
+
+### The Approach
+
+> **BEFORE YOU SCRUB**
+> - [ ] Robot arm drapes × 4: assist the circulator draping each arm before docking
+> - [ ] Instruments: ProGrasp forceps + monopolar curved scissors + bipolar Maryland forceps + large needle driver — confirm all seated correctly
+> - [ ] 2-0 Ethibond × 3 loaded on laparoscopic needle holders for the wrap sutures — pre-load all three before the wrap step; have them in hand before the fundus is passed posterior to the esophagus
+> - [ ] Ports: 12 mm camera port (infraumbilical); 3 × 8 mm robotic arm ports (upper abdomen); 1 × 10–12 mm assistant port for the scrub tech
+> - [ ] Bougie (esophageal dilator): circulator will pass to anesthesia for transoral placement; confirm size with surgeon before case — do NOT place until surgeon calls for it; confirm removal is possible after the wrap is sized
+> - [ ] Suction/irrigation cannula through the assistant port; warm saline on the back table
+> - [ ] 0 Vicryl for crural repair on a laparoscopic needle holder if hiatal hernia repair is planned
+
+**Position:** Supine; steep reverse Trendelenburg (20–30°) with foot board support. This displaces bowel caudad and exposes the esophageal hiatus.
+
+**Prep:** CHG/alcohol; mid-chest to pubis, full width.
+
+**Draping:** Laparoscopic fenestrated sheet; robotic arm drapes applied before docking.
+
+### The Procedure
+
+1. Ports placed under direct vision; robot docked to the upper abdominal ports
+2. Divide the gastrohepatic ligament; expose the right crus of the diaphragm
+3. Identify and dissect free both the **anterior and posterior vagal trunks** — both must be preserved; if the surgeon pauses at the posterior esophagus, they are confirming the vagus
+4. Develop the retro-esophageal window between the two crura
+5. Mobilize the gastric fundus: divide short gastric vessels with the Vessel Sealer or bipolar Maryland
+6. Crural repair (if hiatal hernia present): close the crura posterior to the esophagus with interrupted 2-0 Ethibond — **pass each suture through the assistant port on a loaded laparoscopic needle holder**
+7. **Fundoplication wrap:** anesthesia places the bougie transorally at the correct calibration size; the mobilized fundus is passed posterior to the esophagus; three 2-0 Ethibond sutures create the 360° wrap; each suture passed through the assistant port in sequence; all three must be loaded and in hand before step 7 begins
+8. Bougie removed after the wrap sutures are placed; confirm the surgeon is satisfied with wrap tension before the bougie is withdrawn
+
+> **⚠ WATCH FOR**
+> - **Vagus nerve — do not rush:** both vagal trunks run along the anterior and posterior esophagus; if the surgeon stops during the posterior dissection, they are looking for the vagus; wait for them to call the next instrument
+> - **Bougie timing:** wrap sutures are placed and sized with the bougie in place; do not pass any instruments during sizing — wait for the surgeon's call; the bougie must be removed before the sutures are locked
+> - **Ethibond pre-loading:** have all three wrap sutures loaded before the fundus is passed posterior; the surgeon will call for them in rapid succession
+> - **Crural suture tension:** if the crural closure is too tight around the bougie, the patient will have post-op dysphagia; the anesthesia team must be able to withdraw the bougie freely after the crural sutures are placed
+> - **Arm collision in the upper abdomen:** the upper abdominal port configuration puts robotic arms close together; watch the vision cart monitor for collision warnings; alert the console surgeon before docking if a collision path is visible
+
+### The Closure
+
+| Layer | Suture | Notes |
+|-------|--------|-------|
+| Port sites ≥10 mm fascia | 0 Vicryl | Required for all 12 mm port sites |
+| Skin (all ports) | 4-0 Monocryl subcuticular | |
+| Dressing | Small adhesive dressings | Each port site |
+
+---
+
 ## Clinical Pearls
 
 > "In general surgery, your job is to be one step ahead. Know what gets clipped before the hepatocystic triangle is clear. Know when the stapler is about to fire. Know that the conversion tray needs to be in the room before the surgeon decides to convert. Anticipation is not a gift — it is preparation."

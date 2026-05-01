@@ -226,6 +226,62 @@ No formal wound closure. Remove the tenaculum; confirm cervical hemostasis; remo
 
 ---
 
+## Robotic-Assisted Total Laparoscopic Hysterectomy (da Vinci TLH)
+
+> **QUICK FACTS**
+> Wound Class: II (Clean-Contaminated) · Position: Low lithotomy → steep Trendelenburg · Avg time: 90–150 min · Team: console surgeon + bedside scrub tech + circulator + perineal assistant · Robot: da Vinci
+
+**What changes at the back table:** You are stationed at the patient cart. The console surgeon controls all robotic arm movements remotely and cannot directly pass anything to themselves. Every suture — including the vaginal cuff closure — comes through the assistant port from your hands. A separate perineal assistant manages the uterine manipulator from below throughout the entire abdominal phase; the console surgeon directs manipulator positioning verbally.
+
+### The Approach
+
+> **BEFORE YOU SCRUB**
+> - [ ] Uterine manipulator (RUMI or Koh system) placed vaginally **before** any abdominal approach — confirm it is in place and the perineal assistant is positioned before prepping; the case cannot begin without it
+> - [ ] Robot arm drapes × 4: assist the circulator before docking
+> - [ ] Ports: 12 mm camera port (umbilical); 2–3 × 8 mm robotic arm ports; 1 × 8–12 mm assistant port for the bedside scrub tech
+> - [ ] Robotic instruments: ProGrasp forceps + monopolar curved scissors + bipolar Maryland forceps + large needle driver — confirm all seated
+> - [ ] Energy device for pedicle ligation: da Vinci Vessel Sealer Extend or bipolar Maryland — confirm per preference card; thermal spread from the Vessel Sealer is 2–4 mm
+> - [ ] Vaginal cuff closure suture: 0 Vicryl on CT-1 needle × 2; load on a laparoscopic needle holder; have immediately available when the uterus is delivered — **passed through the assistant port; surgeon closes the cuff robotically**
+> - [ ] Specimen delivery: uterus exits vaginally through the colpotomy; no endobag required for the uterus (have one available if adnexa are removed)
+> - [ ] Endobag for adnexa: have one unsealed on the back table if oophorectomy is planned
+
+**Position:** Low lithotomy in Allen stirrups → steep Trendelenburg (30–45°) once ports are placed; gravity displaces the bowel cephalad and exposes the pelvic structures.
+
+**Prep:** CHG/alcohol abdomen; betadine vaginal prep; perineal area prepped for the uterine manipulator.
+
+**Draping:** Laparoscopic fenestrated sheet + perineal drape with vaginal access incorporated; robotic arm drapes applied before docking.
+
+### The Procedure
+
+Robotic da Vinci TLH mirrors the conventional TLH sequence (see Section 17.3) executed through robotic arms:
+
+1. Round ligaments divided bilaterally with the energy device
+2. **Ureter identification:** the surgeon identifies the ureter on each side before any clamp or energy device approaches the parametrium; do not pass instruments during this step
+3. IP ligaments (ovaries removed) or utero-ovarian ligaments (ovaries preserved): divided with energy device
+4. **Uterine vessels:** bladder reflected downward; energy device divides the uterine artery pedicles bilaterally — **confirm the surgeon has visualized the ureter before each activation near the uterine vessels; delayed ureteral thermal injury from a missed ureter presents 5–10 days post-op**
+5. Cardinal and uterosacral ligaments divided sequentially
+6. Vagina incised at the colpotomy cup of the uterine manipulator; uterus delivered vaginally by the perineal assistant
+7. **Vaginal cuff closure:** 0 Vicryl on CT-1 passed through the assistant port; console surgeon sutures the cuff laparoscopically; have the suture loaded and in hand before the uterus is out
+
+> **⚠ WATCH FOR**
+> - **Uterine manipulator response:** the console surgeon controls the arms but not the manipulator; the perineal assistant must respond promptly to exposure requests; if the correct pedicle is not exposed, the surgeon will wait — do not pass the energy device until anatomy is exposed
+> - **Ureter thermal proximity:** the Vessel Sealer and bipolar both spread heat 2–4 mm; a ureter not visualized before each activation is a ureter at risk; if the surgeon pauses near the parametrium, they are looking for the ureter — wait for them to call the instrument
+> - **Vaginal cuff suture timing:** have the 0 Vicryl on CT-1 loaded and in your hand before the uterus is delivered; the surgeon will call for it immediately after the colpotomy is complete
+> - **CO₂ loss through the colpotomy:** when the vagina is entered, pneumoperitoneum can escape around the manipulator; the perineal assistant should hold the manipulator firmly during the colpotomy step
+> - **Ovarian specimen extraction:** if the ovaries are removed, place them in an endobag before extraction; tumor seeding of the port site is a risk if specimen is delivered loose
+
+### The Closure
+
+| Layer | Suture | Notes |
+|-------|--------|-------|
+| Vaginal cuff | 0 Vicryl CT-1 running | Passed through assistant port; sutured robotically |
+| Port sites ≥10 mm fascia | 0 Vicryl | Required |
+| Skin (all ports) | 4-0 Monocryl subcuticular | |
+
+**Dressing:** Small adhesive dressings over port sites.
+
+---
+
 ## Clinical Pearls
 
 > "In pelvic surgery, your Approach determines whether the ureter is safe. Your retractors determine whether the surgeon can see it."

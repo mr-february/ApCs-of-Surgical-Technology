@@ -238,6 +238,61 @@ Same as CABG: sternal wires or plate system; mediastinal drains; layered soft ti
 
 ---
 
+## Robotic VATS Lobectomy (da Vinci)
+
+> **QUICK FACTS**
+> Wound Class: I (Clean) · Position: Lateral decubitus, operative lung up · Avg time: 120–180 min · Team: console surgeon + bedside scrub tech + circulator · Robot: da Vinci Xi · Single-lung ventilation: required before any port is made
+
+**What changes at the back table:** You are stationed at the patient cart. The console surgeon controls all robotic arm movements from the console. Every staple reload, suture, and clip comes through the assistant port from your hands. The da Vinci SureForm stapler is console-controlled — but you supply each reload from the bedside. Reload type confirmation with the surgeon is mandatory before every single fire.
+
+### The Approach
+
+> **BEFORE YOU SCRUB**
+> - [ ] Confirm single-lung ventilation is established (double-lumen ETT positioned and confirmed by anesthesia) before any port is made — this is a non-negotiable prerequisite
+> - [ ] Robot arm drapes × 4: assist the circulator before docking
+> - [ ] Ports: 12 mm camera port + 3 × 8 mm robotic arm ports in the chest + 1 × 12 mm assistant port
+> - [ ] da Vinci SureForm stapler: loaded with vascular reloads (white) × 3 minimum; bronchial reloads (green) × 1 minimum; extras of both types immediately available — confirm reload type with the surgeon before every reload; wrong type on a pulmonary vessel = catastrophic hemorrhage
+> - [ ] Standard Endo-GIA through the assistant port as backup: vascular (white/gray) and bronchial (green/blue) loads available
+> - [ ] Specimen endobag for lobe extraction through the utility/access port
+> - [ ] 28–32 Fr chest tube; 0 silk for securing
+> - [ ] Robotic instruments: Tip-Up fenestrated grasper + monopolar curved scissors + bipolar Maryland + ProGrasp — confirm all seated
+> - [ ] Complete conventional VATS instrument set and open thoracotomy tray accessible in the room before the case starts — conversion happens
+
+**Position:** Lateral decubitus; operative lung up; beanbag positioner. Confirm single-lung ventilation is established before the first port incision.
+
+**Prep and Draping:** Identical to standard VATS lobectomy. Robotic arm drapes applied after standard chest draping, before docking.
+
+### The Procedure
+
+Robotic VATS lobectomy follows the same anatomical sequence as conventional VATS (see Chapter 16 VATS section above), executed through robotic arms from the da Vinci patient cart:
+
+1. Thoracoscope inserted; confirm operative lung is deflated
+2. Divide the inferior pulmonary ligament to mobilize the lobe
+3. Dissect and complete the fissure — SureForm with vascular reload (white) if the fissure is incomplete
+4. Divide pulmonary artery branches — SureForm **vascular reload (white)** — **confirm type with surgeon before each fire**
+5. Divide pulmonary vein(s) — SureForm **vascular reload (white)** — **confirm type before each fire**
+6. Divide the lobar bronchus — SureForm **bronchial reload (green)** — **confirm type before firing**
+7. Place lobe in endobag; extract through the utility/access port
+
+> **⚠ WATCH FOR**
+> - **SureForm reload type — this is the critical error:** vascular structures require white/vascular reloads; the bronchus requires green/bronchial reloads; firing a bronchial load across a pulmonary artery or vein can fail to seal and cause massive hemorrhage; confirm type and color with the surgeon before every reload, every time
+> - **Single-lung ventilation failure mid-case:** if the operative lung re-expands, the working space collapses; the surgeon must pause; do not pass instruments during ventilation adjustments
+> - **Robotic arm collision in the chest:** the thoracic port configuration puts robotic arms close together; watch the vision cart for collision warnings
+> - **Conversion to conventional VATS or open:** have the conventional VATS tray and open thoracotomy instruments in the room before the case; do not remove them; conversion can happen without warning
+
+### The Closure
+
+| Layer | Suture | Notes |
+|-------|--------|-------|
+| Intercostal / port site fascia | 0 Vicryl | Per port |
+| Subcutaneous | 2-0 Vicryl | |
+| Skin | 4-0 Monocryl | |
+| Chest tube securing | 0 silk | Petroleum gauze (Xeroform) around the tube site |
+
+**Dressing:** Occlusive dressing over chest tube site; Tegaderm or Mefix over port incisions.
+
+---
+
 ## Clinical Pearls
 
 > "In cardiac and thoracic surgery, the Approach is a structured, sequential entry into the most protected cavity in the human body. Every element — the sternotomy, the Finochietto, the purse-strings — must be perfect before the heart is touched."
