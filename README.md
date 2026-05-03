@@ -13,6 +13,7 @@ Every procedure in this book is structured around three phases: **Approach → P
 
 ### Introduction
 - [The ApC's of Surgical Technology — Field Guide Introduction](Part_0_Introduction.md)
+- [Copyright & Disclaimer](Copyright.md)
 
 ---
 
@@ -47,6 +48,8 @@ Every procedure in this book is structured around three phases: **Approach → P
 - [Chapter 20 — Ophthalmology](Part_2_The_Procedure/Chapter_20_Ophthalmology.md)
 - [Chapter 21 — Plastic and Reconstructive Surgery](Part_2_The_Procedure/Chapter_21_Plastic_Reconstructive.md)
 - [Chapter 22 — Pediatric Surgery](Part_2_The_Procedure/Chapter_22_Pediatric_Surgery.md)
+- [Chapter 22A — Robotic Surgery: da Vinci](Part_2_The_Procedure/Chapter_22A_Robotic_Surgery_da_Vinci.md)
+- [Chapter 22B — Robotic Orthopedic & Spine](Part_2_The_Procedure/Chapter_22B_Robotic_Orthopedic_Spine.md)
 
 ---
 

@@ -36,6 +36,7 @@ theme:
 nav:
   - Home: README.md
   - Introduction: Part_0_Introduction.md
+  - Copyright: Copyright.md
   - "Part I — The Approach":
     - "Ch 1: What Is Surgical Technology?": Part_1_The_Approach/Chapter_01_What_Is_Surgical_Technology.md
     - "Ch 2: The OR Environment": Part_1_The_Approach/Chapter_02_OR_Environment.md
@@ -60,6 +61,8 @@ nav:
     - "Ch 20: Ophthalmology": Part_2_The_Procedure/Chapter_20_Ophthalmology.md
     - "Ch 21: Plastic & Reconstructive": Part_2_The_Procedure/Chapter_21_Plastic_Reconstructive.md
     - "Ch 22: Pediatric Surgery": Part_2_The_Procedure/Chapter_22_Pediatric_Surgery.md
+    - "Ch 22A: Robotic Surgery — da Vinci": Part_2_The_Procedure/Chapter_22A_Robotic_Surgery_da_Vinci.md
+    - "Ch 22B: Robotic Orthopedic & Spine": Part_2_The_Procedure/Chapter_22B_Robotic_Orthopedic_Spine.md
   - "Part III — The Closure":
     - "Ch 23: Wound Closure Techniques": Part_3_The_Closure/Chapter_23_Wound_Closure_Techniques.md
     - "Ch 24: Drains, Dressings & Packing": Part_3_The_Closure/Chapter_24_Drains_Dressings_Packing.md
@@ -73,6 +76,7 @@ nav:
     - "Appendix E: Sterilization Methods": Appendices/Appendix_E_Sterilization.md
     - "Appendix F: Study Questions": Appendices/Appendix_F_Study_Questions.md
     - "Appendix G: Mayo Stand Setups": Appendices/Appendix_G_Mayo_Stand_Setups.md
+    - "Appendix H: Quick Reference Cards": Appendices/Appendix_H_Quick_Reference_Cards.md
 
 markdown_extensions:
   - admonition
