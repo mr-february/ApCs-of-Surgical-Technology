@@ -3,6 +3,8 @@ site_description: A Comprehensive Educational Text for Surgical Technology Stude
 site_author: mr-february
 repo_url: https://github.com/mr-february/ApCs-of-Surgical-Technology
 repo_name: ApCs-of-Surgical-Technology
+docs_dir: .
+site_dir: _site
 
 theme:
   name: material
