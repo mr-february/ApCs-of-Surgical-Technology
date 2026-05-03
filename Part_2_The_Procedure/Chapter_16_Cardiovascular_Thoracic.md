@@ -33,6 +33,43 @@
 > - [ ] Silastic vessel loops (red and white) for LIMA identification; medium titanium clips for LIMA branches
 > - [ ] Double-glove; have replacement outer gloves on the field
 
+### Instruments
+
+| Instrument | Notes |
+|-----------|-------|
+| #10 blade on #3 handle | Sternotomy skin incision (sternal notch to xiphoid) |
+| #15 blade on #3 handle | SVG harvest incision along medial thigh; LIMA dissection |
+| Sternal oscillating saw (power) or air-powered sternal saw | Sternum division; test before the case |
+| Bone wax | Sternal marrow hemostasis after saw |
+| Finochietto sternal retractor | Primary sternal spreading; select width for patient's chest |
+| Metzenbaum scissors, regular | Pericardiotomy and soft tissue dissection |
+| Metzenbaum scissors, long | Mediastinal and deep dissection |
+| DeBakey tissue forceps, regular | General tissue handling |
+| DeBakey tissue forceps, long | Deep mediastinal tissue handling |
+| Adson forceps | Skin and superficial tissue |
+| Kelly hemostats ×6 | Hemostasis throughout |
+| Kocher clamps ×4 | Fascial and heavy tissue grasping |
+| Right-angle (Mixter) clamps ×2 | Vessel isolation and passing sutures behind structures |
+| Satinsky partial occlusion vascular clamp | Partial aortic occlusion for proximal SVG anastomosis |
+| DeBakey atraumatic vascular clamps, straight and angled | Aorta and graft occlusion; atraumatic — no teeth |
+| Bulldog clamps | Temporary vessel occlusion |
+| Silastic vessel loops, red ×2 + white ×2 | LIMA and graft identification and control |
+| Medium titanium clips + clip applier | LIMA side-branch ligation |
+| Mayo-Hegar needle driver ×2 | General suturing |
+| Fine needle driver (Ryder or DeBakey) | Coronary anastomosis sutures |
+| Castroviejo needle driver ×2 | 7-0/8-0 Prolene for coronary anastomoses |
+| Potts scissors | Coronary arteriotomy extension |
+| Aortic punch (circular cutting punch) | Aortotomy for proximal SVG attachment |
+| Deaver retractors ×2 | Pericardial edge retraction |
+| Bovie/ESU pencil with long active extension | Mediastinal and soft tissue hemostasis |
+| Bipolar forceps | Delicate hemostasis near vessels and grafts |
+| Yankauer suction ×2 | Field suction; one for primary scrub, one for assistant |
+| Poole/pool suction | Gross sump suction during opening and flooding |
+| Chest tubes 32 Fr mediastinal ×2 + pleural | Placed at closure; counted; 2-0 silk securing sutures |
+| Sternal wire twister + #5 or #6 stainless steel wires ×8 | Sternal closure |
+| Large bulb syringe | SVG distension leak test |
+| Cardioplegia line connectors | Perfusionist-side delivery; confirm antegrade vs. retrograde |
+
 **Position:** Supine; arms tucked at sides. Slight reverse Trendelenburg. Both legs slightly abducted if SVG harvest planned; left arm extended if radial artery harvest planned.
 
 **Prep:** CHG/alcohol to chest (sternum and bilateral chest wall) from chin to pubis; both legs from groin to ankle if SVG planned; left arm axilla to wrist if radial artery planned.
@@ -95,6 +132,20 @@
 > - [ ] 4-0 Prolene for aortotomy closure; aortic valve retractors (small, smooth-tipped)
 > - [ ] Everything else: same as CABG setup (sternotomy, CPB, wires, chest tubes)
 
+### Instruments
+
+| Instrument | Notes |
+|-----------|-------|
+| All CABG sternotomy and CPB instruments | See CABG instrument list above; full setup identical |
+| Valve sizers, full set (system-specific) | Have all sizes on the field before the aortotomy |
+| Pledgeted sutures 2-0 Ti-Cron or Ethibond + Teflon pledgets ×15–20 | All loaded before the valve is seated; pledgets are counted items |
+| Suture management rack or organizer | Keeps 15–20 pledgeted sutures organized; anterior vs. posterior sequence |
+| #11 blade on #3 handle | Initial aortotomy stab incision |
+| Potts scissors | Aortotomy extension along the ascending aorta |
+| Aortic valve retractors, small smooth-tipped ×2 | Retract aortic wall edges to expose annulus; smooth — no teeth |
+| 4-0 Prolene | Aortotomy two-layer closure |
+| Prosthetic valve + valve holder/delivery system | Mechanical or bioprosthetic; do not open until surgeon confirms size |
+
 **Position, Prep, Draping:** Identical to CABG. Median sternotomy; Finochietto retractor. CPB established identically.
 
 **The Knife (aortotomy):** After cross-clamp and cardioplegia, a #11 blade stab-incises the ascending aorta transversely; Potts scissors extend the aortotomy; stay sutures hold the aortic edges open for valve exposure.
@@ -140,6 +191,36 @@ Same as CABG: sternal wires or plate system; mediastinal drains; layered soft ti
 > - [ ] Potts scissors for arteriotomy extension; #11 blade for initial arteriotomy stab
 > - [ ] Intraluminal shunt (Javid or Pruitt-Inahara) on the field if neurological monitoring indicates shunting
 > - [ ] Heparin drawn by the circulator; timing with surgeon for administration
+
+### Instruments
+
+| Instrument | Notes |
+|-----------|-------|
+| #15 blade on #3 handle ×2 | Primary cervical incision; backup blade for re-incision if needed |
+| Metzenbaum scissors | Platysma and carotid sheath dissection |
+| Fine Metzenbaum scissors | Delicate periadventitial dissection near bifurcation |
+| DeBakey vascular tissue forceps | Primary tissue handling; atraumatic |
+| Adson forceps (1×2 teeth) | Skin only |
+| Kelly hemostats ×4 | Hemostasis |
+| Crile hemostats ×4 | Vessel branch hemostasis |
+| DeBakey atraumatic vascular clamps, straight and angled | ICA, ECA, CCA occlusion; NO teeth — atraumatic only |
+| Silastic vessel loops, red ×3 | ICA, ECA, CCA control and identification |
+| Right-angle clamps ×2 | Vessel isolation and loop passing |
+| Freer elevator/dissector | Plaque dissection from the arterial wall |
+| Potts scissors | Arteriotomy extension from CCA into ICA |
+| #11 blade on #3 handle | Initial arteriotomy stab incision |
+| Mayo-Hegar needle driver ×2 | General suturing |
+| Fine Castroviejo needle driver | 6-0 Prolene running patch closure |
+| Army-Navy retractors ×2 | Initial skin and platysma retraction |
+| Weitlaner self-retaining retractor | Sustained cervical wound retraction |
+| Vein retractors, small smooth | Gentle tissue retraction near the hypoglossal nerve |
+| Patch graft material (vein, Dacron, or bovine pericardium) | Confirm type with surgeon; keep closed until needed |
+| Intraluminal shunt (Javid or Pruitt-Inahara) | On back table; insert if neuro monitoring requires shunting |
+| Yankauer suction | General field suction |
+| Frazier suction | Fine suction near the arteriotomy |
+| ESU pencil | Soft tissue hemostasis |
+| Bipolar forceps | Fine hemostasis near the nerve and vessel |
+| Heparinized saline bulb syringe | Vessel flushing before final patch closure |
 
 **Position:** Supine; small shoulder roll; neck slightly extended; head turned away from the operative side; foam head ring.
 
@@ -197,6 +278,26 @@ Same as CABG: sternal wires or plate system; mediastinal drains; layered soft ti
 > - [ ] Specimen bag (endobag) for lobe extraction through the utility port
 > - [ ] 28–32 Fr chest tube; 0 silk × 2 for securing
 > - [ ] Thoracoscopic instruments: graspers, dissectors, clip applier, electrosurgical hook; confirm all are in the room and working
+
+### Instruments
+
+| Instrument | Notes |
+|-----------|-------|
+| #11 blade on #3 handle ×3 | One per port incision |
+| 10 mm 30° thoracoscope + camera + light cord | White-balance and focus before the case |
+| Thoracoscopic trocars (port access sleeves) | Camera port + working ports |
+| Endo-GIA stapler + vascular loads (white/gray) ×3–4 | For pulmonary artery and vein division; label separately from bronchial loads |
+| Endo-GIA bronchial loads (green/blue) ×1–2 | For lobar bronchus division; label separately from vascular loads |
+| Extra vascular and bronchial loads | Have additional counts of each type ready |
+| Thoracoscopic graspers ×2 | Lung and tissue manipulation |
+| Thoracoscopic dissectors | Hilar and fissure dissection |
+| Electrosurgical hook, thoracoscopic | Ligament and soft tissue division |
+| Thoracoscopic clip applier | Small vessel ligation |
+| Specimen endobag, large | Lobe extraction through utility port; rough handling risks tears in cancer cases |
+| 28–32 Fr chest tube | Placed at closure; 0 silk ×2 securing sutures |
+| Thoracoscopic suction | Field suctioning through working port |
+| 0 Vicryl | Fascial closure at utility port |
+| 4-0 Monocryl | Skin closure at port sites |
 
 **Position:** Lateral decubitus; operative lung up; beanbag positioner. Confirm single-lung ventilation is established (operative lung deflated) before making any port incisions.
 
@@ -257,6 +358,28 @@ Same as CABG: sternal wires or plate system; mediastinal drains; layered soft ti
 > - [ ] 28–32 Fr chest tube; 0 silk for securing
 > - [ ] Robotic instruments: Tip-Up fenestrated grasper + monopolar curved scissors + bipolar Maryland + ProGrasp — confirm all seated
 > - [ ] Complete conventional VATS instrument set and open thoracotomy tray accessible in the room before the case starts — conversion happens
+
+### Instruments
+
+| Instrument | Notes |
+|-----------|-------|
+| EndoWrist Tip-Up fenestrated grasper | Primary lung retraction and tissue manipulation from bedside |
+| EndoWrist monopolar curved scissors | Dissection and cutting at the console |
+| EndoWrist bipolar Maryland forceps | Hemostasis for small vessels |
+| EndoWrist ProGrasp forceps | Heavy tissue and lobe grasping |
+| da Vinci SureForm stapler (console-controlled) | Console surgeon fires; scrub tech supplies reloads from bedside |
+| SureForm vascular reloads (white) ×3 minimum | PA and PV division; confirm type with surgeon before EVERY reload |
+| SureForm bronchial reloads (green) ×1 minimum | Bronchus division only; confirm type before firing |
+| Extra SureForm reloads, both types | Immediately available at the back table |
+| Laparoscopic suction/irrigation cannula | Passed through the assistant port by the bedside scrub |
+| Standard Endo-GIA + vascular and bronchial loads | Backup through assistant port if SureForm unavailable |
+| Specimen endobag | Lobe extraction through utility/access port |
+| Robotic arm drapes ×4 | Applied before docking; assist circulator |
+| 12 mm trocars ×2 | Camera port and assistant port |
+| 8 mm robotic trocars ×3 | Robotic arm ports in the chest |
+| 28–32 Fr chest tube + 0 silk securing suture | Placed at closure |
+
+*Confirm SureForm reload type with surgeon before EVERY single reload — vascular (white) for PA/PV; bronchial (green) for bronchus.*
 
 **Position:** Lateral decubitus; operative lung up; beanbag positioner. Confirm single-lung ventilation is established before the first port incision.
 

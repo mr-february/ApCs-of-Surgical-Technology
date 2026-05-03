@@ -37,6 +37,45 @@
 > - [ ] Dural graft (DuraGen, pericranial, or fascial) available if primary closure may not be achievable
 > - [ ] Titanium fixation plates and screws for bone flap replacement
 
+### Instruments
+
+| Instrument | Notes |
+|-----------|-------|
+| #10 blade on #3 handle | Scalp incision |
+| #15 blade on #3 handle | Dural incision and fine scalp work |
+| Mayo scissors, straight | General soft tissue cutting |
+| Metzenbaum scissors | Dissection of scalp/pericranium |
+| DeBakey tissue forceps | General tissue handling |
+| Adson forceps (1×2 teeth) | Skin and galea handling |
+| Raney clip applier, pre-loaded | Scalp hemostasis; load before first cut |
+| Raney clips ×30–40 | Counted items; all must be accounted for |
+| Fishhook scalp retractors on rubber bands | Hold scalp flap edges open |
+| Gelpi retractors or self-retaining scalp hooks | Superficial wound retraction |
+| Mayo-Hegar needle driver | General suturing including galea closure |
+| Fine needle driver (Castroviejo or Ryder) | Dural closure with fine suture |
+| High-speed drill (Midas Rex or Anspach) + round cutting burr | Burr holes |
+| Craniotome footplate attachment | Connects burr holes to cut the bone flap |
+| Drill irrigator | Continuous irrigation during drilling to prevent bone necrosis |
+| Bone wax | Sternal edge bleeding from bone marrow |
+| Cottonoids (neuro patties) 1/2" ×20 | Smallest size; all counted; radiopaque thread must be visible |
+| Cottonoids (neuro patties) 3/4" ×10 | Mid size; all counted |
+| Cottonoids (neuro patties) 1" ×10 | Largest size; all counted |
+| Leyla bar / Greenberg retractor system with ribbon blades | Brain retraction; always back cottonoid with retractor blade |
+| Bipolar forceps, straight ×1 | Primary vessel coagulation in the field |
+| Bipolar forceps, bayonet ×1 | Coagulation in deep or angled positions |
+| Bovie pencil with long active extension | Scalp/soft tissue ESU backup |
+| Malis bipolar/irrigation combination | Optional; used in delicate intracranial work |
+| Bayonet forceps | Tissue handling at depth without obstructing view |
+| Frazier suction #6, #8, #10 | Graduated neuro suction; #6 for delicate cortical work |
+| Poole suction | Gross irrigation/suction during opening and closing |
+| Pituitary rongeur | Tumor removal if tumor case |
+| Yasargil clip applier | Aneurysm clipping if aneurysm case |
+| CUSA (Cavitron) handpiece connection | Tumor debulking if tumor case |
+| Gelfoam pledgets | Hemostasis at dural and cortical surfaces |
+| Surgicel | Supplemental hemostasis |
+| Titanium fixation plates + screws (CranioFix or Synthes) | Bone flap reattachment |
+| Surgical microscope sterile drape | Drape before the surgeon calls for the scope |
+
 **Position:** Determined by the target. Supine (head turned): frontal/temporal/parietal. Lateral (park bench): posterior fossa/cerebellopontine angle. Prone: occipital/posterior cervical. Head fixed in Mayfield three-pin clamp; pins placed under sterile conditions.
 
 **Prep:** Betadine or CHG/alcohol over the entire scalp. Do not use CHG near the ears. Surgeon may shave a narrow strip along the planned incision or part the hair without shaving.
@@ -94,6 +133,32 @@
 > - [ ] Perforating drill bit specific to the shunt system loaded and ready
 > - [ ] Measurement: have a sterile ruler available (some surgeons measure the distal catheter length to the peritoneum)
 
+### Instruments
+
+| Instrument | Notes |
+|-----------|-------|
+| #15 blade on #3 handle ×2 | One for scalp incision; one for abdominal incision |
+| #10 blade on #3 handle | Abdominal fascial/deeper incision |
+| Mayo scissors | General soft tissue cutting |
+| Metzenbaum scissors | Subcutaneous and peritoneal dissection |
+| DeBakey tissue forceps | General tissue handling |
+| Adson forceps (1×2 teeth) | Skin handling |
+| Kelly hemostats ×4 | Hemostasis and tissue clamping |
+| Right-angle clamp | Peritoneum elevation before entry |
+| Mayo-Hegar needle driver ×2 | Suturing at both scalp and abdomen |
+| Small Weitlaner self-retaining retractor | Scalp wound retraction |
+| Small Richardson retractors ×2 | Abdominal wound retraction |
+| Perforating drill bit (system-specific) + drill | Single burr hole at Kocher's point |
+| Shunt valve + ventricular catheter + peritoneal catheter | Confirm brand and pressure setting before opening |
+| Shunt tunneling rod, sterile | Subcutaneous tunnel from scalp to abdomen |
+| Stylet for ventricular catheter | Maintains catheter shape during insertion |
+| Bipolar forceps | Scalp hemostasis at burr hole site |
+| Bovie/ESU pencil | Soft tissue hemostasis |
+| Frazier suction #8 | Scalp and intracranial suction |
+| Yankauer suction | Abdominal field suction |
+| Sterile ruler | Measuring peritoneal catheter insertion length |
+| 4-0 Nurolon | Dural tack-up sutures if needed |
+
 **Position:** Supine; head turned away from the shunt side (right-sided most common); neck slightly extended.
 
 **Prep:** Two fields. Scalp: betadine or CHG around Kocher's point (2.5 cm from midline, 1 cm anterior to the coronal suture). Abdomen: CHG/alcohol midline or right upper quadrant. Both prepped; both draped as one extended sterile field.
@@ -150,6 +215,41 @@
 > - [ ] Bipolar on the field for dural bleeders; Bovie pencil for soft tissue
 > - [ ] Irrigation bulb syringe: keep the disc space and Kerrison bite clean
 
+### Instruments
+
+| Instrument | Notes |
+|-----------|-------|
+| #10 blade on #3 handle | Midline skin incision |
+| #15 blade on #3 handle | Annulotomy and fine tissue cuts |
+| Mayo scissors | Fascial cutting |
+| Metzenbaum scissors | Subcutaneous dissection |
+| DeBakey tissue forceps | General tissue handling |
+| Adson forceps (1×2 teeth) | Skin handling |
+| Kocher clamps ×2 | Fascial grasping during dissection |
+| Kelly hemostats ×4 | Hemostasis |
+| Mayo-Hegar needle driver ×2 | Closure at all layers |
+| Cobb elevator | Subperiosteal dissection of paraspinal muscles off laminae |
+| Periosteal elevator, curved | Additional subperiosteal dissection |
+| Army-Navy retractors ×2 | Superficial wound retraction |
+| Taylor retractors ×2 | Deep retraction of paraspinal muscles; held by assistant |
+| McCulloch retractors | Alternative deep retractors |
+| Love nerve root retractor | Medial dural sac retraction during discectomy |
+| Kerrison punch 2 mm | Ligamentum flavum and lamina removal |
+| Kerrison punch 3 mm | Ligamentum flavum and lamina removal |
+| Kerrison punch 4 mm | Ligamentum flavum and lamina removal |
+| Pituitary rongeur, straight | Disc material removal |
+| Pituitary rongeur, up-bite | Disc material removal at superior angle |
+| Pituitary rongeur, down-bite | Disc material removal at inferior angle |
+| Bayonet forceps | Deep tissue handling without obstructing view |
+| Bipolar forceps | Dural surface and epidural venous bleeding |
+| Bovie/ESU pencil | Soft tissue hemostasis |
+| Frazier suction #8 and #10 | Field suction during decompression |
+| Bulb syringe | Irrigation to clear the Kerrison bite and disc space |
+| Fluoroscopy spinal needle | Level confirmation under C-arm before bone removal |
+| Cottonoids (neuro patties) 1/2" ×10 | Epidural hemostasis; all counted |
+| Cottonoids (neuro patties) 3/4" ×10 | Epidural hemostasis; all counted |
+| DuraGen or fat graft | Available for dural repair if tear occurs |
+
 **Position:** Prone on Wilson frame or chest rolls; hips and knees slightly flexed to open the interlaminar spaces; face in a padded horseshoe or Mayfield headrest. Confirm eyes are free from pressure after positioning.
 
 **Prep:** CHG/alcohol; lumbar back from T10 to the gluteal crease, full width.
@@ -205,6 +305,37 @@
 > - [ ] Pituitary rongeurs (up-bite and straight) for disc removal
 > - [ ] Curettes (straight and angled) for endplate preparation
 > - [ ] Bipolar for bleeding from endplates and epidural veins
+
+### Instruments
+
+| Instrument | Notes |
+|-----------|-------|
+| #15 blade on #3 handle ×2 | Skin incision; second blade for deeper tissue as needed |
+| Metzenbaum scissors | Platysma and subcutaneous dissection |
+| DeBakey tissue forceps, standard | General tissue handling |
+| DeBakey tissue forceps, bayonet/angled | Deep cervical tissue handling at the disc space |
+| Adson forceps (1×2 teeth) | Skin handling |
+| Kelly hemostats ×4 | Hemostasis |
+| Right-angle clamps ×2 | Vessel and tissue isolation in the deep cervical space |
+| Mayo-Hegar needle driver, long | Platysma and deep layer suturing |
+| Army-Navy retractors ×2 | Initial skin and platysma retraction |
+| Caspar cervical self-retaining retractor system (blades multiple sizes) | Primary deep cervical exposure; holds carotid and trachea apart |
+| Caspar distraction pins ×2 + distraction pin driver | Inserted into vertebral bodies above/below to open the disc space |
+| Small Richardson retractors ×2 | Supplemental soft tissue retraction |
+| Penfield dissector #1 | Soft tissue and periosteal dissection at the disc space |
+| Penfield dissector #4 | Posterior longitudinal ligament and epidural dissection |
+| Pituitary rongeur, up-bite | Disc material removal |
+| Pituitary rongeur, straight | Disc material removal |
+| Angled curette, straight | Endplate preparation and disc removal |
+| Angled curette, angled | Endplate preparation at far lateral aspects of the disc |
+| High-speed burr (AM-8 or equivalent) | Osteophyte removal |
+| PEEK cage or interbody graft + impactor | Confirm level and size; have one size up and down |
+| Anterior cervical plate + screws (multiple lengths) + drill bits + depth gauge | Level-specific system; confirm brand before opening |
+| Bipolar forceps | Epidural venous and endplate bleeding |
+| Bovie/ESU pencil | Soft tissue hemostasis |
+| Frazier suction #8 | Field suction |
+| Bulb syringe | Disc space irrigation |
+| Fluoroscopy spinal needle | Level confirmation before disc removal |
 
 **Position:** Supine; small shoulder roll to elevate the shoulders; neck slightly extended; head turned slightly away from the operative side (right-side approach is standard).
 
@@ -275,6 +406,22 @@ Spine robotic systems are drill guide platforms. The robotic arm positions a can
 > - [ ] Set screw rack: set screws are tiny, counted items; keep them in the rack at all times; never leave loose on the field
 > - [ ] C-arm or O-arm for intraoperative screw verification
 
+### Instruments
+
+| Instrument | Notes |
+|-----------|-------|
+| Mazor robotic arm sterile drape | Applied before the arm enters the sterile field |
+| Spine reference array + clamp (Medtronic-specific) | Most critical item on the field; announce its location to the room |
+| O-arm sterile drape | Required for intraoperative CT registration spin |
+| Mazor drill guide cannulas (system-specific) | Not interchangeable with other robotic spine systems |
+| Stealth instrument trackers (for drill, awl, pedicle probe) | Attach to each tracked instrument before use |
+| Registration probe, sterile | Used to verify Mazor registration accuracy |
+| O-arm spin warning flag | Visual signal to notify everyone in the room before radiation exposure |
+| Medtronic pedicle screw set (CD Horizon, Solera, or equivalent) | Templated sizes plus adjacent sizes; full trauma-size backup |
+| Set screw rack | Set screws are counted implants; keep in rack at all times |
+
+*Standard open spine instruments (Cobb elevator, periosteal elevators, Kerrison punches, pedicle probe, awl, drill bits, taps, screw set) also required.*
+
 **Workflow sequence:**
 1. Patient positioned prone; reference array clamped to the spine
 2. O-arm spin → images transfer to Mazor system → automatic registration
@@ -316,6 +463,21 @@ Spine robotic systems are drill guide platforms. The robotic arm positions a can
 > - [ ] O-arm or fluoroscopy for intraoperative verification
 > - [ ] Manual backup: confirm standard C-arm sterile drape and conventional spine instruments are in the room
 
+### Instruments
+
+| Instrument | Notes |
+|-----------|-------|
+| ExcelsiusGPS arm sterile drape | Applied before the arm enters the sterile field |
+| Reference array + clamp (Globus-specific) | Globus clamp; not interchangeable with Medtronic; announce location to room |
+| O-arm sterile drape | For intraoperative CT registration spin |
+| ExcelsiusGPS drill guide cannulas (Globus-specific) | System-specific; confirm all are on the field |
+| Globus pedicle screws + rods (CREO/REVOLVE system) | Templated sizes plus adjacent sizes; Globus only |
+| Registration probe, sterile | Accuracy verification after registration |
+| Globus-specific drill bits, taps, and reduction instruments | Not interchangeable with Medtronic or any other system |
+| Set screw rack | Counted implants; never leave loose on the field |
+
+*Standard open spine instruments also required; all implants must be Globus Medical — not interchangeable with other systems.*
+
 > **⚠ WATCH FOR**
 > - Same reference array disturbance rules as Mazor X — announce location; restrict table movement; any array shift requires re-registration
 > - **Arm lock confirmation:** the ExcelsiusGPS arm must display a fully locked indicator before the surgeon drills; a partially locked arm can shift under drilling force and deviate the trajectory
@@ -347,6 +509,20 @@ Same layered closure as Mazor X (above): thoracolumbar fascia with 1-0 Vicryl, s
 > - [ ] Stealth Autopilot arm sterile drape: applied before the arm mounts on the patient's spine reference frame
 > - [ ] Autopilot arm attachment hardware: sterile; confirm on the field
 > - [ ] Workflow: registration → arm positions drill guide → manual drill/tap/screw, identical to Mazor X
+
+### Instruments
+
+| Instrument | Notes |
+|-----------|-------|
+| Stealth reference array + clamp, sterile | Clamp-mounted to spinous process or iliac crest; in place before any O-arm spin |
+| Instrument tracker balls — for drill (sterile) | Optical balls must stay clean; wipe with dry sponge each time instrument returns to back table |
+| Instrument tracker balls — for pedicle probe (sterile) | Same cleaning requirement as drill tracker |
+| Instrument tracker balls — for awl (sterile) | Same cleaning requirement |
+| O-arm sterile drape | Required if intraoperative spin is planned |
+| Stealth Autopilot arm sterile drape | Applied before the robotic arm mounts on the reference frame |
+| Autopilot arm attachment hardware, sterile | Confirm on the field before docking the arm |
+
+*Instrument trackers must be attached to ALL tracked instruments; wipe tracker balls clean whenever an instrument returns to the back table.*
 
 > **⚠ WATCH FOR**
 > - **Tracker ball contamination — this is the most common Stealth failure mode:** blood or fluid on the optical balls causes instruments to disappear from the navigation screen without warning; the surgeon may continue for several steps before noticing; wipe every tracker ball with a dry sponge every time an instrument returns to the back table — make it a habit

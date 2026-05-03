@@ -54,6 +54,35 @@ Camera cord and CO₂ tubing are sterile field items. Secure them to the drape; 
 > - [ ] Suction/irrigation cannula + warm saline
 > - [ ] Extra lap sponges if perforation possible
 
+### Instruments
+
+| Instrument | Notes |
+|-----------|-------|
+| #10 blade on #3 handle | Umbilical incision for 12 mm trocar entry |
+| #11 blades × 2 on #3 handles | 5 mm port site incisions |
+| Veress needle | Initial peritoneal insufflation; have Hasson available if adhesions suspected |
+| 12 mm trocar × 1 | Umbilical port; primary scope and specimen extraction port |
+| 5 mm trocars × 2 | RLQ and suprapubic working ports |
+| 30° laparoscope + camera head + light cord | Primary visualization; 30° angle improves RLQ viewing angle |
+| CO₂ insufflation tubing | Connect to sterile field; circulator attaches non-sterile end to tower |
+| Laparoscopic grasper × 2 | Atraumatic bowel grasper; one for cecal retraction, one for appendix manipulation |
+| Laparoscopic Maryland dissector | Blunt dissection of mesoappendix and peritoneal attachments |
+| L-hook electrocautery (monopolar) | Divide mesoappendix; coagulate small vessels |
+| Harmonic scalpel (ultrasonic) | Alternative to L-hook; simultaneous cutting and sealing of mesoappendix |
+| Laparoscopic clip applier + extra cartridges × 2 | Clip appendiceal artery (2 proximal, 1 distal) |
+| Endoloops (Roeder loops) × 3 | Ligate appendix base; 2 proximal loops, 1 distal; load all three before approaching the base |
+| Endo-GIA stapler with blue/white load | Alternative to endoloops for base division; have ready if endoloop technique fails |
+| Laparoscopic scissors | Divide between endoloops or clips; cut endoloop tails |
+| Specimen retrieval bag (Endocatch or similar) | Contain appendix for extraction; prevents port-site contamination |
+| Laparoscopic suction/irrigation cannula | Clear operative field; irrigate if perforation found; connect to warm saline |
+| Warm saline irrigation (1 L minimum) | Peritoneal lavage if perforation; have extra immediately available |
+| Anti-fog solution or warm saline cup | Scope defogging before insertion |
+| Mayo scissors (curved) | On back table for open conversion if needed |
+| Kelly hemostats × 4 | On back table for open conversion |
+| Mayo-Hegar needle driver × 2 | Fascial closure of 12 mm port; on back table for open conversion |
+| 0 Vicryl CTX on needle driver | Pre-loaded for fascial closure of umbilical port at end of case |
+| Yankauer suction tip | Oropharyngeal suction by anesthesia; available for field if needed at open conversion |
+
 **Position:** Supine; Trendelenburg with left lateral tilt once ports are placed.
 
 **Prep:** CHG/alcohol; nipples to mid-thigh, full width; umbilicus prepped separately.
@@ -109,6 +138,35 @@ Camera cord and CO₂ tubing are sterile field items. Secure them to the drape; 
 > - [ ] CO₂ tubing + Veress needle (or Hasson if prior abdominal surgery)
 > - [ ] Suction/irrigation + warm saline
 > - [ ] Cholangiogram supplies on back table if IOC on schedule: cystic duct catheter, C-clamp, contrast (confirm with circulator)
+
+### Instruments
+
+| Instrument | Notes |
+|-----------|-------|
+| #10 blade on #3 handle | Umbilical 12 mm port incision |
+| #15 blades × 3 on #3 handles | Three 5 mm port site incisions; finer cut for small stab incisions |
+| Veress needle | Closed peritoneal entry; have Hasson trocar on back table for prior-surgery cases |
+| Hasson trocar (blunt-tip) | Open cut-down entry; required if prior abdominal surgery or failed Veress |
+| 10–12 mm trocar × 1 | Umbilical port; scope introduction and specimen extraction |
+| 5 mm trocars × 3 | Epigastric and right subcostal ports; working and fundus-retraction ports |
+| CO₂ insufflation tubing | Sterile field side; circulator connects to insufflator |
+| 30° laparoscope + camera head + light cord | Primary visualization; 30° angle essential for hepatocystic triangle view from above |
+| Anti-fog solution or warm saline cup | Scope defogging at insertion and as needed |
+| Laparoscopic grasper (toothed/locking) for fundus | Grasps gallbladder fundus; retracts cephalad and laterally toward right shoulder |
+| Laparoscopic Maryland dissector | Dissects peritoneum off hepatocystic triangle to achieve Critical View of Safety |
+| L-hook electrocautery (monopolar) | Primary energy device for triangle dissection and gallbladder-off-liver-bed step |
+| 10 mm clip applier (loaded) | Clips cystic duct and cystic artery; have loaded before CVS is achieved |
+| Extra clip cartridges × 2 | Backup for misfire or jam; never approach the duct without backup cartridges available |
+| Laparoscopic scissors | Divide cystic duct and cystic artery between clips |
+| Specimen retrieval bag (Endocatch or similar) | Contains gallbladder; prevents bile/stone spillage during umbilical extraction |
+| Laparoscopic suction/irrigation cannula | Clears bile or blood; irrigates if spillage occurs |
+| Warm saline irrigation (500 mL minimum) | Irrigation for bile spillage; retrieve any dropped stones |
+| Cystic duct catheter + C-clamp + contrast | On back table, unopened unless surgeon calls for intraoperative cholangiogram (IOC) |
+| Mayo-Hegar needle driver × 2 | Fascial closure of 12 mm umbilical port; pre-load with 0 Vicryl CTX |
+| 0 Vicryl CTX | Port-site fascial closure; pass on loaded driver at end of case |
+| Yankauer suction | Available at back table; for open conversion suction if needed |
+| Kelly hemostats × 4 | Back table; open conversion backup |
+| Metzenbaum scissors | Back table; open conversion backup |
 
 **Position:** Supine; reverse Trendelenburg 10–15° with right side up; left arm tucked.
 
@@ -167,6 +225,33 @@ Camera cord and CO₂ tubing are sterile field items. Secure them to the drape; 
 > - [ ] 2-0 Prolene loaded on needle driver for mesh fixation
 > - [ ] 3-0 Vicryl for subcutaneous, 4-0 Monocryl for skin
 
+### Instruments
+
+| Instrument | Notes |
+|-----------|-------|
+| #10 blade × 2 on #3 handle | Primary skin and subcutaneous incision; second blade for any re-incision needs |
+| Mayo scissors (curved) | Divide external oblique aponeurosis along fiber direction; general heavy cutting |
+| Mayo scissors (straight) | Trim mesh to size on the back table before passing |
+| Metzenbaum scissors | Fine dissection of hernia sac from cord structures and peritoneum |
+| DeBakey forceps × 2 | Atraumatic tissue handling; does not crush cord structures |
+| Adson forceps (1×2 teeth) × 2 | Skin and subcutaneous tissue grasping at closure |
+| Russian forceps | Stronger tissue grasp for fascia and external oblique |
+| Kelly hemostats × 4 | Vessel clamping in subcutaneous fat and inguinal canal |
+| Crile hemostats × 4 | Finer clamping than Kelly; hemostasis in canal dissection |
+| Right-angle clamp (Mixter) | Pass ties around cord vessels; elevate structures for division |
+| Mayo-Hegar needle driver × 2 | Mesh fixation suture (Prolene) and layer closure |
+| Army-Navy retractors × 2 | Skin and subcutaneous retraction; initial exposure of external oblique |
+| Richardson retractors × 2 | Deeper retraction of musculoaponeurotic layers during canal exposure |
+| Weitlaner self-retaining retractor | Holds inguinal canal open hands-free once external oblique is incised |
+| Penrose drain (¼ inch) | Encircles spermatic cord for gentle retraction throughout the case |
+| ESU pencil (electrosurgical unit / Bovie) | Hemostasis in subcutaneous layer and inguinal canal; keep tip clean |
+| Yankauer suction tip | Blood and irrigation suction; inguinal cases are typically low volume but keep available |
+| Prolene mesh (6×11 cm, polypropylene) | Do not open until surgeon verbally confirms; confirm size with circulator first |
+| 2-0 Prolene on Mayo-Hegar | Mesh fixation: running stitch along inguinal ligament and interrupted at pubic tubercle |
+| 2-0 Vicryl (continuous) | External oblique aponeurosis re-approximation at closure |
+| 3-0 Vicryl (interrupted) | Scarpa's fascia; eliminate dead space |
+| 4-0 Monocryl | Subcuticular skin closure |
+
 **Position:** Supine; slight reverse Trendelenburg.
 
 **Prep:** CHG/alcohol; umbilicus to mid-thigh; include groin and genitalia.
@@ -222,6 +307,41 @@ Camera cord and CO₂ tubing are sterile field items. Secure them to the drape; 
 > - [ ] Large warm saline for irrigation (1–3L)
 > - [ ] #1 looped PDS for fascial closure
 > - [ ] JP drain if anastomosis near pelvis
+
+### Instruments
+
+| Instrument | Notes |
+|-----------|-------|
+| #10 blade on #3 handle × 2 | Skin incision (midline laparotomy); second blade held in reserve |
+| Mayo scissors (curved) | Enter abdomen through linea alba; cut peritoneum |
+| Metzenbaum scissors (regular) | Fine dissection; incise lateral peritoneal reflection (white line of Toldt) |
+| Metzenbaum scissors (long) | Deep pelvic dissection; reach structures below the pelvic brim |
+| DeBakey forceps (regular) × 2 | Atraumatic handling of bowel wall and mesentery |
+| DeBakey forceps (long) × 2 | Deep pelvic and retroperitoneal tissue handling |
+| Adson forceps (1×2 teeth) × 2 | Skin closure; wound edge grasping |
+| Kelly hemostats × 6 | Mesenteric vessel clamping; general hemostasis |
+| Crile hemostats × 6 | Finer vessel clamping in mesentery and subcutaneous layer |
+| Kocher clamps × 4 | Crushing clamp for dividing mesentery; secure ligature placement |
+| Babcock clamps × 4 | Atraumatic bowel wall grasping; does not crush intestinal tissue |
+| Right-angle clamps (Mixter) × 2 | Pass ligatures around mesenteric vessels; encircle bowel for stapler placement |
+| Doyen bowel clamp (or Dennis clamp) × 2 pairs | Non-crushing bowel occlusion during anastomosis; prevents spillage without devascularizing |
+| Mayo-Hegar needle driver × 2 | Standard anastomosis and closure suturing |
+| Long Mayo-Hegar needle driver | Deep pelvic anastomosis; hand-sewn posterior wall of low rectal anastomosis |
+| Army-Navy retractors × 2 | Initial peritoneal entry and superficial retraction |
+| Richardson retractors × 2 | Mid-depth retraction once abdomen is entered |
+| Deaver retractors × 2 | Deep retraction of liver, omentum, and pelvic structures |
+| Balfour self-retaining retractor (with lateral blades + bladder blade) | Primary sustained abdominal wall retraction; assembled before abdominal entry |
+| Bookwalter retractor system | Deep pelvic dissection for sigmoid/rectal cases; attaches to OR table rail |
+| Poole (pool) suction tip + sheath | High-volume abdominal suction; sheath prevents bowel occlusion of tip |
+| Yankauer suction | Secondary suction; field clearing during anastomosis |
+| ESU pencil (Bovie) | Hemostasis throughout; enter abdomen and dissect mesentery |
+| Bipolar forceps | Precise coagulation near ureter and bowel wall |
+| LigaSure or Harmonic scalpel | Mesenteric vessel sealing; reduces blood loss in vascular mesentery |
+| GIA stapler (60 mm or 80 mm) + multiple loads | Bowel division and anastomosis creation; have at least 3–4 reloads per surgeon preference |
+| TA stapler (55 mm or 90 mm) | Linear transverse staple line for rectal stump or anastomosis completion |
+| Wound protector (Alexis) | Protects fascial edges from contamination; reduces SSI; placed before bowel is opened |
+| Warm saline irrigation (1–3 L) | Copious peritoneal lavage after anastomosis; final irrigation before closure |
+| JP drain | Near anastomosis in pelvis; passed through separate stab incision |
 
 **Position:** Supine; arms extended; Foley in place. Lithotomy for sigmoid/rectal.
 
@@ -282,6 +402,51 @@ Camera cord and CO₂ tubing are sterile field items. Secure them to the drape; 
 > - [ ] 2 JP drains minimum
 > - [ ] Large warm saline (2–3L irrigation)
 > - [ ] Double-glove; organize back table for a long case with phases; label suture by use
+
+### Instruments
+
+| Instrument | Notes |
+|-----------|-------|
+| #10 blade on #3 handle × 2 | Midline xiphoid-to-umbilicus incision; second blade for Kocher extension |
+| Mayo scissors (curved) | Enter abdomen; cut peritoneum; general heavy tissue division |
+| Metzenbaum scissors (regular) | Hepatocystic dissection; peritoneal attachments of duodenum |
+| Metzenbaum scissors (long/fine) | Delicate anastomosis work; trimming bowel edges for pancreaticojejunostomy |
+| Potts scissors (angled) | Arteriotomy-style enterotomy openings for anastomoses; angled tips reach deep |
+| DeBakey forceps (regular) × 2 | Atraumatic tissue handling throughout resection phase |
+| DeBakey forceps (long) × 2 | Deep dissection posterior to pancreas; portal vein exposure |
+| DeBakey vascular forceps (straight + angled) | Handle vascular structures; portal vein and SMV dissection |
+| Adson forceps (1×2 teeth) × 2 | Skin closure |
+| Russian forceps | Fascial closure at end of case |
+| Kelly hemostats × 6 | General hemostasis throughout |
+| Crile hemostats × 6 | Fine vessel control in pancreatic and biliary dissection |
+| Kocher clamps × 4 | Mesenteric division; securing ligatures in thick mesentery |
+| Right-angle clamps (Mixter) × 2 | Pass vessel loops and ligatures around portal vein, SMV, CBD |
+| Silastic vessel loops (red × 2, white × 2) | Encircle and tag portal vein, SMV, hepatic artery; red = arteries, white = veins (confirm with surgeon) |
+| Satinsky (partial occlusion) vascular clamp | Urgent portal vein bleeding control; must be on the field at all times during resection phase |
+| DeBakey vascular clamps (straight + angled) × 1 each | Vascular control during hepatic artery and portal vein dissection |
+| Pledgets (felt or Teflon) × 6 | Vascular suture reinforcement at anastomotic bleeding points |
+| Babcock clamps × 4 | Bowel grasping during jejunal division and Roux limb creation |
+| Harrington retractor | Liver lobe retraction; spares assistant fatigue on long-duration case |
+| Deaver retractors × 2 | Liver and hepatoduodenal ligament retraction; held by first assist |
+| Balfour self-retaining retractor | Initial abdominal wall retraction; use until upper hand retractor is placed |
+| Bookwalter or Thompson self-retaining upper hand retractor | Sustained deep upper abdominal access; essential for reconstruction phase |
+| Army-Navy retractors × 2 | Initial entry; superficial retraction |
+| Richardson retractors × 2 | Mid-depth retraction during Kocher maneuver |
+| Poole (pool) suction tip + sheath | High-volume abdominal suction; bleeding events and irrigation |
+| Yankauer suction | Secondary suction at anastomosis sites |
+| ESU pencil (Bovie) | Hemostasis throughout; enter abdomen and parenchymal dissection |
+| Bipolar forceps | Fine hemostasis near portal vein, bile duct, and anastomosis edges |
+| LigaSure or Harmonic scalpel | Omental and mesenteric vessel sealing during mobilization |
+| GIA stapler (60 mm/80 mm) + multiple loads × 4–6 | Jejunal division, gastric division, bowel stapling during reconstruction |
+| TA stapler (55 mm/90 mm) + multiple loads | Gastrojejunostomy stapled completion; duodenal stump |
+| Short fine needle drivers × 2 | Pancreaticojejunostomy and hepaticojejunostomy; small-caliber suture in confined space |
+| Long Mayo-Hegar needle drivers × 2 | Deep-field suturing during reconstruction; gastrojejunostomy posterior wall |
+| Mayo-Hegar needle drivers (standard) × 2 | General suturing throughout |
+| JP drains × 2 | Placed near pancreatic anastomosis and near biliary anastomosis; separate stab incisions |
+| Warm saline irrigation (2–3 L) | Copious irrigation after each anastomosis and before final closure |
+| 4-0 PDS or Vicryl (labeled "pancreatic anastomosis") | Pancreaticojejunostomy; keep clearly separated from other anastomosis sutures |
+| 5-0 PDS or Vicryl (labeled "biliary anastomosis") | Hepaticojejunostomy; finest suture on back table — protect and pre-load before step |
+| #1 looped PDS | Fascial closure; have ready well before closure phase |
 
 **Position:** Supine; arms extended; reverse Trendelenburg.
 
@@ -346,6 +511,34 @@ Camera cord and CO₂ tubing are sterile field items. Secure them to the drape; 
 > - [ ] Bougie (esophageal dilator): circulator will pass to anesthesia for transoral placement; confirm size with surgeon before case — do NOT place until surgeon calls for it; confirm removal is possible after the wrap is sized
 > - [ ] Suction/irrigation cannula through the assistant port; warm saline on the back table
 > - [ ] 0 Vicryl for crural repair on a laparoscopic needle holder if hiatal hernia repair is planned
+
+### Instruments
+
+| Instrument | Notes |
+|-----------|-------|
+| #11 blades × 5 on #3 handles | All port-site incisions; small stab entry for robotic and assistant trocars |
+| 12 mm camera trocar × 1 | Infraumbilical; primary laparoscope port |
+| 8 mm robotic trocars × 3 | Upper abdominal robotic arm ports; docked to da Vinci patient cart |
+| 10–12 mm assistant port trocar × 1 | Scrub tech's working port; all sutures, clips, and irrigation pass through here |
+| CO₂ insufflation tubing | Connect to sterile field before docking; confirm pneumoperitoneum before robot docks |
+| 30° laparoscope + camera head + light cord | Initial port placement under direct vision before robot is docked |
+| Anti-fog solution or warm saline cup | Scope defogging at insertion |
+| EndoWrist ProGrasp forceps | Robotic instrument; grasps and retracts stomach and fundus throughout case |
+| EndoWrist monopolar curved scissors | Robotic instrument; divides gastrohepatic ligament and peritoneum at hiatus |
+| EndoWrist bipolar Maryland forceps | Robotic instrument; precise hemostasis; dissects short gastric vessels and vagal planes |
+| EndoWrist large needle driver | Robotic instrument; passes crural and wrap sutures placed by surgeon at console |
+| da Vinci Vessel Sealer Extend | Robotic instrument; seals and divides short gastric vessels if used instead of bipolar Maryland |
+| Robotic arm drapes × 4 | Sterile drapes for each robotic arm; assist circulator in draping before docking |
+| Laparoscopic needle holders × 3 | Scrub tech passes each wrap suture through assistant port on a pre-loaded driver |
+| 2-0 Ethibond sutures × 3 (pre-loaded) | Fundoplication wrap sutures; all three loaded before fundus is passed posterior to esophagus |
+| 0 Vicryl on laparoscopic needle holder | Crural repair sutures; pass through assistant port for each interrupted crural stitch |
+| Laparoscopic suction/irrigation cannula | Passed through assistant port; warm saline irrigation and blood clearing |
+| Warm saline irrigation (500 mL) | Hiatal area irrigation; clearing smoke and blood during short gastric division |
+| 5 mm laparoscopic grasper | Assistant port; retract liver lobe or stomach when additional exposure needed |
+| Laparoscopic clip applier (5 mm) | Backup for any small vessel the robotic vessel sealer cannot reach via assistant port |
+| Mayo scissors (curved) | On back table; open conversion if robot must be undocked emergently |
+| 0 Vicryl CTX on needle driver | Port-site fascial closure of 12 mm ports at case end; pre-load before undocking |
+| 4-0 Monocryl | Subcuticular closure of all port sites |
 
 **Position:** Supine; steep reverse Trendelenburg (20–30°) with foot board support. This displaces bowel caudad and exposes the esophageal hiatus.
 

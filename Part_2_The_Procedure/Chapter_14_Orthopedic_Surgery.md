@@ -30,6 +30,40 @@
 > - [ ] Bovie pencil + bipolar available
 > - [ ] Hemovac drain — confirm size and have suture (2-0 nylon) for securing
 
+### Instruments
+
+| Instrument | Notes |
+|-----------|-------|
+| #10 blade on #3 handle ×2 | Primary skin and soft tissue incision |
+| Mayo scissors (straight) | Cut fascia and fibrous tissue |
+| Metzenbaum scissors | Delicate soft tissue dissection |
+| DeBakey tissue forceps | Atraumatic tissue handling |
+| Adson forceps | Fine tissue handling near neurovascular structures |
+| Kocher clamps ×4 | Grasp and retract dense fibrous/capsular tissue |
+| Kelly hemostats ×4 | Clamp bleeders in soft tissue |
+| Right-angle clamps ×2 | Pass suture around structures (e.g., short external rotators) |
+| Mayo-Hegar needle driver ×2 | Suture placement for capsule and rotator reattachment |
+| Cobra retractors ×2 | Initial soft tissue and capsule exposure |
+| Sharp Hohmann retractors ×4 | Acetabular rim retraction (anterior, posterior, inferior, superior) |
+| Offset Hohmann retractor | Femoral neck retraction during femoral canal preparation |
+| Hip skid / lever retractor | Lever femur anteriorly for femoral broaching access |
+| Army-Navy retractors ×2 | Superficial wound retraction during exposure |
+| Cobb elevator / periosteal elevator | Elevate periosteum; expose bone surfaces |
+| Oscillating saw (power) | Femoral neck osteotomy |
+| Sagittal saw (power) | Alternate bone cuts; backup power tool |
+| Reciprocating saw (backup) | Additional backup power saw |
+| Acetabular reamers (sequential sizes) | Concentric reaming of acetabulum to bleeding subchondral bone |
+| Acetabular shell impactor + handle | Seat press-fit acetabular shell at correct depth and angle |
+| Femoral broach set (sequential) + broach handle | Progressive canal preparation to cortical contact |
+| Femoral trial components (stems + heads ×3 offsets) | Trialing stem fit and head height (+0 / +4 / +8 mm) |
+| Acetabular trial components (shell + liner) | Confirm liner fit and stability before definitive implant |
+| Bovie / ESU pencil + bipolar forceps | Electrosurgical hemostasis in soft tissue and capsule |
+| Pulsatile lavage irrigator + saline | High-pressure irrigation before implant seating |
+| Yankauer suction + Poole suction | Fluid evacuation from field |
+| Cement mixing bowl + spatula + syringe gun + cement | Required for cemented stem cases |
+| Hemovac drain | Post-closure wound drainage |
+| Mallet / hammer | Drive broaches, impactors, and final components |
+
 **Position:** Lateral decubitus, secured with beanbag and lateral post system. Dependent leg padded at knee and ankle. Axillary roll placed just below the axilla — not in it. Confirm stability before draping.
 
 **Prep:** CHG/alcohol; entire lower extremity circumferentially, iliac crest to foot; include perineum (betadine) if visible.
@@ -86,6 +120,38 @@
 > - [ ] Cement: mixing supplies ready; do NOT mix until surgeon's call
 > - [ ] Pulsatile lavage available for cement prep
 > - [ ] Double-glove; replacement outer gloves on the field
+
+### Instruments
+
+| Instrument | Notes |
+|-----------|-------|
+| #10 blade on #3 handle ×2 | Anterior midline incision through skin and subcutaneous tissue |
+| Mayo scissors (straight) | Cut retinacular and fascial layers |
+| Metzenbaum scissors | Soft tissue dissection around the joint capsule |
+| DeBakey tissue forceps | Atraumatic tissue handling |
+| Adson forceps | Skin edge handling and fine tissue work |
+| Kelly hemostats ×4 | Clamp bleeders in subcutaneous and retinacular layers |
+| Kocher clamps ×2 | Grasp and retract dense capsular or retinacular tissue |
+| Right-angle clamps ×2 | Pass suture around structures during closure |
+| Mayo-Hegar needle driver ×2 | Arthrotomy closure and subcutaneous suture |
+| Sharp Hohmann retractors ×4 | Medial, lateral, and posterior knee retraction within the joint |
+| Posterior knee retractor (dedicated) | Protect posterior capsule and neurovascular structures during tibial cut |
+| Army-Navy retractors ×2 | Superficial wound retraction |
+| Periosteal elevator | Elevate soft tissue from bone; expose tibial tubercle and bone landmarks |
+| Oscillating saw (power) | All bone cuts — distal femoral, tibial, patellar |
+| Sagittal saw (backup) | Alternate saw for posterior and chamfer cuts |
+| Femoral cutting guides (distal, AP, chamfer) | Pin-stabilized guides for each femoral cut sequence |
+| Tibial cutting guide (IM or EM) | Intramedullary or extramedullary alignment guide for tibial resection |
+| Patellar cutting guide + drill guide | Guides patellar resection and button drill holes |
+| Trial femoral components (multiple sizes) | Confirm femoral fit and rotation before cementing |
+| Trial tibial tray + poly insert trials (multiple thicknesses) | Balance flexion/extension gaps; confirm poly thickness |
+| Trial patellar button | Confirm patellar button size and tracking |
+| Bovie / ESU pencil + bipolar forceps | Hemostasis; lateral retinacular release if needed |
+| Pulsatile lavage irrigator + saline | Bone canal irrigation before cement application |
+| Yankauer suction | Continuous fluid evacuation |
+| Cement mixing bowl + spatula + syringe gun + cement | All-component cemented fixation |
+| Mallet / hammer | Seat cutting guides, trial components, and final implants |
+| Hemovac drain | Post-closure wound drainage (surgeon preference) |
 
 **Position:** Supine; tourniquet on proximal thigh over cast padding. Lateral post or triangular bolster under the ipsilateral hip/thigh. Knee must be able to flex to 90°+ freely.
 
@@ -145,6 +211,32 @@
 > - [ ] K-wires available for temporary fixation during reduction
 > - [ ] Reduction forceps (periosteal elevator, Weber clamps) on the field
 
+### Instruments
+
+| Instrument | Notes |
+|-----------|-------|
+| #15 blade on #3 handle ×2 | Fine volar wrist incision; small-blade control for delicate approach |
+| Iris scissors (or fine Metzenbaum scissors) | Precise dissection around FCR sheath and neurovascular structures |
+| DeBakey tissue forceps (fine) | Atraumatic handling of tendons and soft tissue |
+| Adson forceps (1×2 teeth) | Skin edge handling |
+| Kelly hemostats ×4 | Clamp small bleeders in subcutaneous and forearm tissue |
+| Small right-angle clamp | Pass suture; develop tissue planes around tendons |
+| Mayo-Hegar needle driver | Suture placement for pronator quadratus and skin closure |
+| Army-Navy retractors ×2 | Initial wound retraction during approach |
+| Small Richardson retractors ×2 | Protect flexor tendons and neurovascular bundle during fracture exposure |
+| Small Weitlaner self-retaining retractor | Hands-free retraction in the subcutaneous layer |
+| Freer elevator / periosteal elevator | Subperiosteal elevation of pronator quadratus off the radial border |
+| Weber clamps (reduction forceps) ×2 | Provisional fracture fragment reduction and hold |
+| K-wires (assorted sizes) + K-wire driver/drill | Temporary fixation of fracture fragments during plate positioning |
+| Volar locking plate (VLP) | Primary implant; templated system per surgeon preference |
+| Locking screw set (multiple lengths) + depth gauge | Distal locking screws; confirm length before every screw handoff |
+| Drill guide specific to the plate | Ensures accurate drill trajectory through the plate holes |
+| Drill bits specific to the plate system | Matched to locking and cortical screw dimensions |
+| Bovie / ESU pencil | Hemostasis in soft tissue |
+| Frazier suction #10 | Precise fluid evacuation in the small wound |
+| Sterile mini C-arm drape | Covers imaging detector entering the sterile field |
+| Tourniquet cuff (on proximal forearm) | Applied pre-prep; confirm position and pressure before incision |
+
 **Position:** Supine; arm fully extended on a radiolucent hand table. Tourniquet on proximal forearm.
 
 **Prep:** CHG/alcohol; entire arm from tourniquet to fingertips circumferentially.
@@ -200,6 +292,28 @@
 > - [ ] Arthroscopic probe on the field
 > - [ ] If repair is possible: meniscal repair implants (all-inside system) pulled and ready
 > - [ ] Fluid collection pouch drape under the knee before final draping
+
+### Instruments
+
+| Instrument | Notes |
+|-----------|-------|
+| #11 blade on #3 handle ×2 | Stab portal incisions — anterolateral and anteromedial |
+| 30° arthroscope + camera head + light cord | Primary visualization; 30° angle allows compartment surveying |
+| Arthroscopy cannulas (anterolateral + anteromedial) + trocars | Portal access sheaths; trocars for initial insertion |
+| Fluid management tubing (spiked into 3L saline bags) | Irrigation inflow through arthroscope or dedicated cannula |
+| Arthroscopy pump (external or integrated) | Maintains joint distension pressure; monitors inflow/outflow |
+| Arthroscopic probe | Palpate and stress meniscal tissue to classify tear |
+| Motorized shaver (full-radius resector blade) + console connection | Resect and evacuate unstable meniscal fragments |
+| Arthroscopic basket forceps — straight | Bite and resect meniscal tissue at the apex of the tear |
+| Arthroscopic basket forceps — left upcut | Reach posterior and lateral meniscal tissue from the medial portal |
+| Arthroscopic basket forceps — right upcut | Mirror orientation for contralateral access |
+| Arthroscopic grasping forceps | Remove free meniscal fragments from the joint |
+| Curved rasp or smooth rasp | Contour and smooth the meniscal rim after resection |
+| 18-gauge spinal needle | Portal localization — confirm trajectory before stab incision |
+| Yankauer suction | Evacuate gross fluid at the end of the case when the scope is out |
+| Fluid collection pouch drape | Channels irrigation runoff away from the back table |
+| Tourniquet cuff (proximal thigh) | Applied and available; inflate only if visualization requires it |
+| All-inside meniscal repair system (FasT-Fix / Meniscal Cinch or equivalent) | Unsealed and on back table if repair becomes necessary intraoperatively |
 
 **Position:** Supine; leg in leg holder (circumferential post at table break); tourniquet on proximal thigh (inflate only if visibility is poor).
 

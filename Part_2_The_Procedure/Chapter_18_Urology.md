@@ -33,6 +33,24 @@
 > - [ ] Lubricating jelly: sterile; for urethral introduction
 > - [ ] Cystoscopy drape with integrated collection pouch — fluid runs constantly; the pouch catches the runoff
 
+### Instruments
+
+| Instrument | Notes |
+|-----------|-------|
+| Cystoscope sheath (16–22 Fr) + obturator | Urethral entry; obturator removed once in bladder |
+| Cystoscope bridge (working channel bridge) | Attaches telescope to sheath; provides the working channel |
+| 30° telescope | Standard bladder visualization |
+| 70° telescope | Lateral wall and ureteral orifice visualization |
+| Irrigation tubing + 1 L sterile saline bags × 2 | Spiked and primed; bladder distension and visualization medium |
+| Hydrophilic guidewire (Glidewire, 0.035") | Primary wire for ureteral access |
+| Stiff guidewire (0.035") | Backup wire if primary meets resistance |
+| Double-J ureteral stent | Confirm length and diameter ordered; do not open until confirmed |
+| Stent pusher | System-specific — confirm compatibility with stent before opening |
+| Foley catheter | May be left post-procedure |
+| Cystoscopy drape with integrated collection pouch | Fluid runoff collection |
+| Sterile lubricating jelly | Urethral introduction |
+| C-arm sterile drape | Fluoroscopic guidance during wire and stent placement |
+
 **Position:** Lithotomy (Allen or candy-cane stirrups).
 
 **Prep:** Betadine; perineum, external genitalia, and inner thighs. Males: prep the glans and urethral meatus.
@@ -75,6 +93,23 @@ No wound closure. Remove all instruments; drain the bladder if needed. Foley cat
 > - [ ] Ellik evacuator on the field for evacuating tissue chips; use with saline (not glycine)
 > - [ ] Three-way Foley catheter (22–24 Fr) with 30 mL balloon — needed at the end; have it ready
 > - [ ] Track irrigation in vs. irrigation out throughout the case; document
+
+### Instruments
+
+| Instrument | Notes |
+|-----------|-------|
+| Resectoscope sheath (22–26 Fr) | Confirm monopolar vs. bipolar system with surgeon before opening |
+| Resectoscope working element (cutting loop electrode) | The active resection instrument |
+| 30° telescope for the resectoscope | Visualization through the resectoscope |
+| Resectoscope irrigation tubing | Connects irrigation fluid to the sheath |
+| Glycine 1.5% irrigation fluid | Monopolar system only — do NOT use with bipolar |
+| Normal saline irrigation fluid | Bipolar system only — confirm type before spiking bags |
+| Ellik evacuator | Removes prostatic chips — use with saline only, never glycine |
+| Ball electrode | Hemostasis; confirm it fits the working element |
+| Three-way Foley catheter (22–24 Fr, 30 mL balloon) | Placed at case end for continuous bladder irrigation (CBI) |
+| CBI tubing + normal saline bags | Set up at end of case for post-resection bladder irrigation |
+| Extra working element with fresh cutting loop | Backup if primary loop breaks mid-case |
+| Fluid measurement / tracking log | Circulator documents in vs. out throughout the entire case |
 
 **Position:** Lithotomy (Allen stirrups; legs slightly lower than standard — reduces prostatic venous pressure and bleeding).
 
@@ -121,6 +156,28 @@ No wound closure. A three-way Foley catheter (22–24 Fr, 30 mL balloon) is plac
 > - [ ] Extraction port incision planning: surgeon will extend one port site; have #10 blade and longer instruments ready for that step
 > - [ ] Kidney rest: confirm it is elevated and locked before prepping
 > - [ ] 0 Vicryl for fascial closure at extraction site; 4-0 Monocryl for skin
+
+### Instruments
+
+| Instrument | Notes |
+|-----------|-------|
+| #11 blade on #3 handle × 4 | All port incisions |
+| #10 blade on #3 handle | Extraction port incision extension |
+| 10–12 mm camera trocar × 1 | Camera port |
+| 5 mm trocars × 2–3 | Working ports |
+| 10 mm 0° or 30° laparoscope + camera + light cord | Confirm white balance and light before draping |
+| Laparoscopic graspers × 2 | Tissue manipulation and retraction |
+| Laparoscopic Maryland dissector | Hilar dissection and vessel exposure |
+| Laparoscopic scissors | Tissue cutting and ureter division |
+| Laparoscopic L-hook electrocautery or Harmonic/LigaSure | Energy dissection throughout |
+| Laparoscopic clip applier with medium and large titanium clips | Smaller vessel control |
+| Endo-GIA stapler + vascular loads (white/gray) × 2–3 | Renal artery and vein division — confirm load type before every fire |
+| Large specimen endobag | Must be large enough for the kidney; do not force extraction |
+| Laparoscopic fan retractor | Colon medial retraction to expose the retroperitoneum |
+| Laparoscopic suction/irrigation | Field irrigation and fluid removal |
+| 0 Vicryl | Fascial closure at extraction site |
+| 4-0 Monocryl | Skin closure at all port sites |
+| Yankauer suction | Backup suction |
 
 **Position:** Lateral decubitus, operative side up; beanbag positioner. Kidney rest elevated under the flank; table slightly flexed at the waist to open the flank space. Confirm stability before draping.
 
@@ -174,6 +231,27 @@ No wound closure. A three-way Foley catheter (22–24 Fr, 30 mL balloon) is plac
 > - [ ] Specimen extraction bag (endobag) passed through the assistant port
 > - [ ] JP drain (10 mm Blake or round): suture (2-0 nylon) for securing; placed through an assistant port site at the end
 > - [ ] Foley catheter (18 or 20 Fr) on the back table — placed through the urethra before tying the anastomosis
+
+### Instruments
+
+| Instrument | Notes |
+|-----------|-------|
+| EndoWrist ProGrasp forceps | Tissue grasping and retraction via robotic arm |
+| EndoWrist monopolar curved scissors | Dissection — cold scissors only during nerve-sparing steps |
+| EndoWrist bipolar Maryland forceps | Hemostasis via robotic arm |
+| EndoWrist large needle drivers × 2 | Vesicourethral anastomosis suturing |
+| Laparoscopic needle holder × 2 | Passing sutures through assistant port — DVC 2-0 Vicryl and anastomosis 3-0 Monocryl |
+| Laparoscopic clip applier (Hem-o-lok clips) | Vessel clipping through assistant port |
+| Laparoscopic suction/irrigation | For assistant port |
+| Specimen endobag | Prostate extraction through assistant port |
+| Robotic arm drapes × 4 | Applied before docking |
+| 12 mm trocar × 1 | Camera port |
+| 8 mm robotic trocars × 3–4 | Robotic arm ports |
+| 10–12 mm assistant port trocar × 1 | Bedside scrub tech working port |
+| Foley catheter (18 or 20 Fr) | On back table visible throughout — placed before final anastomosis throw |
+| JP drain (10 mm Blake drain) | Placed near anastomosis at case end |
+| 2-0 nylon | JP drain securing suture |
+| 3-0 Monocryl on UR-6 × 2 | Van Velthoven anastomosis — pre-load 20 minutes before needed |
 
 **Position:** Supine; steep Trendelenburg (30–45°). Arms tucked bilaterally. Padded shoulder supports to prevent sliding cephalad. The robot is docked over the patient's lower body after port placement.
 

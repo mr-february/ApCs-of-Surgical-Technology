@@ -30,6 +30,29 @@
 > - [ ] Adenoid curette (La Force adenotome) if adenoidectomy included
 > - [ ] Suction: Yankauer for secretions and blood; Frazier for the narrow adenoid field
 
+### Instruments
+
+| Instrument | Notes |
+|-----------|-------|
+| Crowe-Davis mouth gag + tongue blade | Self-retaining mouth retractor; suspends from Mayo stand arm or ceiling mount; most critical exposure instrument |
+| McIvor gag (alternate) | Alternative mouth gag; surgeon preference |
+| Allis clamps × 2 | Grasp and provide traction on tonsil during dissection |
+| Hurd tonsil dissector and pillar retractor | Blunt dissection and pillar retraction |
+| Yankauer suction | Primary suction for blood and secretions in the oropharynx |
+| Frazier suction tip (#5 or #7) | Narrow-field suction for adenoid space and tight recesses |
+| Tonsil sponges (tonsil balls) | Small gauze squares for packing and hemostasis; counted as retained foreign body risk |
+| Adenoid curettes × 3 (LaForce or Barnhill, graduated sizes) | Remove adenoid tissue from the nasopharynx |
+| Adenoid punch / basket forceps | Basket-style punch for trimming residual adenoid tissue |
+| Tydings tonsil snare (wire snare) | Divides the tonsillar pedicle at the base |
+| Bipolar electrosurgical forceps | Precise hemostasis; preferred over monopolar in the oropharynx |
+| ESU pencil with tonsil tip (monopolar) | Electrosurgical dissection if electrocautery technique; confirm surgeon preference |
+| Coblation wand | Coblation technique alternative; confirm energy device type with surgeon preoperatively |
+| Tonsil needle (curved needle on large handle) | For suture ligation of tonsillar pillar bleeding; load 3-0 chromic before the case |
+| #12 blade on #3 handle (or curved tonsil scissors) | Cold dissection technique; fine curved blade for submucosal dissection |
+| Periosteal elevator (small) | Blunt dissection of tonsil from its capsule in cold dissection |
+| Nasopharyngoscope or laryngeal mirror | Visualization of nasopharynx for adenoidectomy assessment |
+| Specimen cups × 2 (labeled L/R tonsil) | Pathology specimens; label immediately after each tonsil is removed |
+
 **Position:** Supine; shoulder roll under the shoulder blades to extend the neck; head in a foam donut ring.
 
 **Prep:** No traditional skin prep — the oropharynx is a non-sterile field. The oral mucosa is not prepped with antiseptic. Eyes are taped closed and protected.
@@ -82,6 +105,31 @@ Before removing the gag: confirm all sponges are out; confirm the mouth is clear
 > - [ ] Small vein retractors and right-angle retractors for posterior thyroid lobe exposure
 > - [ ] Parathyroid autotransplant supplies: if a parathyroid is accidentally devascularized, it is minced and implanted into the SCM — have a small basin and saline ready
 > - [ ] Specimen cups × 2 (left lobe, right lobe); intraoperative PTH test tube if parathyroid testing is anticipated
+
+### Instruments
+
+| Instrument | Notes |
+|-----------|-------|
+| #15 blade on #3 handle × 2 | Kocher collar incision and subcutaneous dissection; fine control |
+| Metzenbaum scissors (curved) | Dissection of subplatysmal flaps and strap muscle separation |
+| Fine Metzenbaum scissors | Delicate dissection around parathyroids and near the RLN |
+| DeBakey tissue forceps | Atraumatic tissue handling throughout |
+| Adson forceps (1×2 teeth) | Skin edge and subcutaneous tissue handling |
+| Kelly hemostats × 6 | Vessel control and tissue clamping in superficial layers |
+| Crile hemostats × 6 | Hemostasis; vessel pedicle clamping |
+| Right-angle (Mixter) clamps × 4 | Passing ties around vessels; dissecting around vascular structures |
+| Mayo-Hegar needle drivers × 2 | Suture placement; closure |
+| Lahey thyroid tenaculum | Grasps and rotates the thyroid lobe for posterior exposure |
+| Army-Navy retractors × 2 | Skin and subplatysmal flap retraction |
+| Small Richardson retractors × 2 | Deeper retraction of strap muscles |
+| Gelpi or Weitlaner self-retaining retractor | Hands-free strap muscle retraction during lobe dissection |
+| Nerve stimulator probe (fine-tip insulated) | Intraoperative RLN identification and confirmation; connects to NIM system |
+| Harmonic scalpel or LigaSure vessel sealer | Vessel ligation and tissue sealing; confirm surgeon device preference |
+| Bipolar electrosurgical forceps | Hemostasis within 1 cm of the RLN; do NOT use monopolar near the nerve |
+| ESU pencil (monopolar) | General hemostasis away from the nerve |
+| Yankauer suction | Primary suction for blood and irrigation fluid |
+| JP drain (small, 7 mm flat) | Optional drain placement; have available; 2-0 nylon for securing |
+| Small basin with saline | Parathyroid autotransplant: mince any devascularized gland into this basin for SCM implantation |
 
 **Position:** Supine; shoulder roll under the shoulder blades; neck extended and elevated. Head in a donut ring. Slight reverse Trendelenburg.
 

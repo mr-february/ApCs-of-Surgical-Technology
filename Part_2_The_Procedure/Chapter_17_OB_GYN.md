@@ -31,6 +31,34 @@
 > - [ ] 0 or #1 Vicryl × 2 loaded on needle holders for uterine closure before the infant is out
 > - [ ] Specimen cup for placenta
 
+### Instruments
+
+| Instrument | Notes |
+|-----------|-------|
+| #10 blade on #3 handle × 2 | One for skin incision, one for fascial scoring and uterine stab incision |
+| Bandage scissors | Extends the uterine incision laterally — NOT standard scissors; keep on Mayo stand separately |
+| Mayo scissors, curved | Fascial extension and general cutting |
+| Mayo scissors, straight | General cutting |
+| Metzenbaum scissors | Tissue dissection |
+| DeBakey tissue forceps | Atraumatic tissue handling |
+| Adson forceps (1×2 teeth) | Skin and fascial edges |
+| Russian tissue forceps | General tissue grasping |
+| Kelly hemostats × 6 | Hemostasis and clamping |
+| Kocher clamps × 4 | Fascial and tissue clamping |
+| Allis clamps × 2 | Fascial edge retraction |
+| Right-angle clamps × 2 | Dissection and vessel isolation |
+| Cord clamps × 2 | Umbilical cord clamping at delivery — keep immediately accessible |
+| Mayo-Hegar needle drivers × 2 | Suturing throughout |
+| Doyen retractor / bladder blade | Most critical retractor — retracts bladder to expose lower uterine segment |
+| Army-Navy retractors × 2 | Skin and subcutaneous retraction |
+| Richardson retractors × 2 | Fascial and soft tissue retraction |
+| Balfour or O'Sullivan-O'Connor retractor | For cases with difficult abdominal access |
+| Yankauer suction × 2 | One for amniotic fluid at delivery, one for abdomen |
+| Bulb syringe | Infant airway clearance at delivery |
+| ESU pencil | Electrocautery throughout |
+| Warm receiving towel / sterile drape | For infant handoff — infant is NOT sterile |
+| Specimen cup | For placenta |
+
 **Position:** Supine with left lateral tilt (wedge or folded blanket under the right hip to displace the uterus off the IVC — prevents supine hypotensive syndrome).
 
 **Prep:** CHG/alcohol or betadine; xiphoid to upper thighs, full width including the pubic area.
@@ -88,6 +116,38 @@
 > - [ ] Long instruments available: long Metzenbaum, long Deaver, long DeBakeys — pelvic work is deep
 > - [ ] Specimen: large basin on the back table; confirm pathology slip required
 > - [ ] Foley catheter confirmed in by the circulator before draping
+
+### Instruments
+
+| Instrument | Notes |
+|-----------|-------|
+| #10 blade on #3 handle | Skin incision |
+| Mayo scissors, curved | Fascial and general cutting |
+| Mayo scissors, straight | General cutting |
+| Metzenbaum scissors | Pelvic tissue dissection |
+| Metzenbaum scissors, long | Deep pelvic dissection |
+| DeBakey tissue forceps | Standard tissue handling |
+| DeBakey tissue forceps, long | Deep pelvic tissue handling |
+| Adson forceps | Skin and superficial tissue |
+| Russian tissue forceps | General tissue grasping |
+| Heaney clamps × 8 | Workhorse clamp for pedicle ligation — keep all 8 in a visible rack; passed in rapid succession |
+| Ochsner / Kocher clamps × 4 | Tissue and fascial clamping |
+| Long Heaney or Masterson clamps × 4 | Deep pelvic pedicles |
+| Right-angle clamps × 2 | Vessel isolation and dissection |
+| Mayo-Hegar needle drivers × 2 | Standard suturing |
+| Long Mayo-Hegar needle driver | Deep pelvic suturing |
+| O'Sullivan-O'Connor (OSO) retractor + lateral blades + bladder blade + upper arm | Self-retaining pelvic retractor — essential for pelvic exposure; confirm correct blade set |
+| Deaver retractors × 2 | Hand-held retraction of pelvic structures |
+| Long Deaver retractors × 2 | Deep pelvic hand-held retraction |
+| Army-Navy retractors × 2 | Skin and subcutaneous retraction |
+| Richardson retractors × 2 | Fascial retraction |
+| Suture scissors | Dedicated scissors for cutting ties only — do not use for tissue |
+| Yankauer suction | Standard suction |
+| Poole suction | Irrigation and bulk fluid removal |
+| ESU pencil with long active extension | Electrocautery including deep pelvic use |
+| Bipolar forceps | Precise hemostasis |
+| Pre-cut 0 Vicryl ties × 10+ | Pedicle ligation in rapid succession — lay out visibly before the case starts |
+| Large specimen basin | Uterus ± adnexa to pathology |
 
 **Position:** Supine; Foley catheter placed before prepping. Low lithotomy added if vaginal access needed.
 
@@ -147,6 +207,27 @@
 > - [ ] 0 Vicryl × 2 for port site fascial closure; 4-0 Monocryl for skin
 > - [ ] Vaginal cuff closure: 0 Vicryl on a CT-1 needle; may be sutured laparoscopically or vaginally
 
+### Instruments
+
+| Instrument | Notes |
+|-----------|-------|
+| #11 blade on #3 handle × 4 | All port incisions |
+| 10–12 mm umbilical trocar × 1 | Camera port |
+| 5 mm trocars × 3 | Working ports |
+| 10 mm 0° or 30° laparoscope + camera + light cord | Confirm white balance and light before draping |
+| Laparoscopic energy device (LigaSure or EnSeal) | Pedicle ligation — confirm correct generator is connected |
+| Laparoscopic graspers × 2 | One toothed; tissue manipulation and retraction |
+| Laparoscopic scissors (hook or curved) | Tissue cutting and colpotomy |
+| Laparoscopic Maryland dissector | Blunt dissection and vessel exposure |
+| Laparoscopic suction/irrigation | Field irrigation and fluid removal |
+| Laparoscopic needle drivers × 2 | Vaginal cuff closure through scope |
+| Carter-Thomason fascial closure device | Fascial closure at all ports ≥10 mm |
+| Uterine manipulator (RUMI or Koh system) | Placed vaginally pre-op — confirm in place before draping |
+| Specimen retrieval bag (endobag) | For adnexa if removed |
+| 0 Vicryl on CT-1 needle | Vaginal cuff closure |
+| ESU pencil | Backup energy |
+| Yankauer suction | Backup suction |
+
 **Position:** Supine → modified low lithotomy (Allen stirrups) after abdominal access established; steep Trendelenburg (bowel displaces out of the pelvis by gravity).
 
 **Prep:** CHG/alcohol abdomen; betadine vaginal prep.
@@ -194,6 +275,24 @@ Mirrors TAH steps executed laparoscopically. Energy device (LigaSure/EnSeal) rep
 > - [ ] Uterine sound: confirm it's on the Mayo stand
 > - [ ] Sharp curettes (small, medium, large) in order
 > - [ ] Specimen cup labeled and ready to receive curettings immediately
+
+### Instruments
+
+| Instrument | Notes |
+|-----------|-------|
+| Weighted (Auvard) vaginal speculum | Provides constant posterior vaginal retraction via its own weight |
+| Anterior Sims retractor | Anterior vaginal wall retraction |
+| Single-tooth tenaculum | Grasps and stabilizes the anterior cervix |
+| Hegar dilators — full set (#1–14) | Cervical dilation in ascending order — lay out in sequence before the case |
+| Pratt dilators — full set | Alternative tapered dilator set |
+| Uterine sound | Measures uterine cavity depth before dilation |
+| Sharp uterine curette, small | Endometrial curettage |
+| Sharp uterine curette, medium | Endometrial curettage |
+| Sharp uterine curette, large | Endometrial curettage |
+| Serrated ring forceps / sponge forceps | Removing larger tissue fragments |
+| Suction curettage cannula + syringe or vacuum system | If suction curettage planned |
+| Betadine-soaked sponge stick | Cervical prep |
+| Specimen cup | Labeled and ready before the first curette pass |
 
 **Position:** Lithotomy (Allen stirrups).
 
@@ -244,6 +343,24 @@ No formal wound closure. Remove the tenaculum; confirm cervical hemostasis; remo
 > - [ ] Vaginal cuff closure suture: 0 Vicryl on CT-1 needle × 2; load on a laparoscopic needle holder; have immediately available when the uterus is delivered — **passed through the assistant port; surgeon closes the cuff robotically**
 > - [ ] Specimen delivery: uterus exits vaginally through the colpotomy; no endobag required for the uterus (have one available if adnexa are removed)
 > - [ ] Endobag for adnexa: have one unsealed on the back table if oophorectomy is planned
+
+### Instruments
+
+| Instrument | Notes |
+|-----------|-------|
+| EndoWrist ProGrasp forceps | Tissue grasping and retraction via robotic arm |
+| EndoWrist monopolar curved scissors | Dissection and cutting via robotic arm |
+| EndoWrist bipolar Maryland forceps | Hemostasis via robotic arm |
+| EndoWrist large needle driver | Suturing via robotic arm |
+| da Vinci Vessel Sealer Extend | Pedicle ligation — thermal spread 2–4 mm; confirm per preference card |
+| Laparoscopic needle holder × 2 | Passing 0 Vicryl through assistant port for vaginal cuff closure |
+| Laparoscopic grasper (5 mm) | Assistant port retraction |
+| Laparoscopic suction/irrigation cannula | For assistant port |
+| Endobag | For adnexa if removed |
+| Robotic arm drapes × 4 | Applied before docking |
+| 12 mm trocar × 1 | Camera port |
+| 8 mm robotic trocars × 2–3 | Robotic arm ports |
+| 8–12 mm assistant port trocar × 1 | Bedside scrub tech working port |
 
 **Position:** Low lithotomy in Allen stirrups → steep Trendelenburg (30–45°) once ports are placed; gravity displaces the bowel cephalad and exposes the pelvic structures.
 
