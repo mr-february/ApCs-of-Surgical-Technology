@@ -1,0 +1,153 @@
+<svg width="780" height="320" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 320">
+  <defs>
+    <style>text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif; }</style>
+  </defs>
+  <rect width="780" height="320" fill="#f8fafc" rx="4"/>
+  <text x="390" y="28" text-anchor="middle" font-size="17" font-weight="bold" fill="#0f172a">Types of Wound Healing</text>
+
+  <!-- ======== PANEL 1: Primary Intention ======== -->
+  <rect x="10" y="42" width="240" height="268" rx="8" fill="#f0fdf4" stroke="#16a34a" stroke-width="2"/>
+  <rect x="10" y="42" width="240" height="36" rx="8" fill="#16a34a"/>
+  <rect x="10" y="63" width="240" height="15" fill="#16a34a"/>
+  <text x="130" y="66" text-anchor="middle" font-size="13" font-weight="bold" fill="white">PRIMARY INTENTION</text>
+
+  <!-- Tissue cross-section: skin on top, subcutaneous below, deep tissue at bottom -->
+  <!-- Left wound edge -->
+  <rect x="30" y="100" width="80" height="18" rx="2" fill="#f4a261"/>
+  <!-- Right wound edge -->
+  <rect x="150" y="100" width="80" height="18" rx="2" fill="#f4a261"/>
+  <!-- Subcutaneous: approximated -->
+  <rect x="30" y="118" width="80" height="30" fill="#fde68a"/>
+  <rect x="150" y="118" width="80" height="30" fill="#fde68a"/>
+  <!-- Deep tissue approximated -->
+  <rect x="30" y="148" width="80" height="22" fill="#bbf7d0"/>
+  <rect x="150" y="148" width="80" height="22" fill="#bbf7d0"/>
+
+  <!-- Wound gap (very narrow — closed) -->
+  <rect x="108" y="100" width="24" height="70" fill="#e2e8f0" stroke="#94a3b8" stroke-width="0.5"/>
+
+  <!-- Sutures closing the gap -->
+  <!-- Suture 1 -->
+  <path d="M 104,105 Q 130,95 156,105" stroke="#dc2626" stroke-width="2" fill="none"/>
+  <circle cx="104" cy="105" r="2" fill="#dc2626"/>
+  <circle cx="156" cy="105" r="2" fill="#dc2626"/>
+  <!-- Suture 2 -->
+  <path d="M 104,113 Q 130,103 156,113" stroke="#dc2626" stroke-width="2" fill="none"/>
+  <circle cx="104" cy="113" r="2" fill="#dc2626"/>
+  <circle cx="156" cy="113" r="2" fill="#dc2626"/>
+
+  <!-- Suture at subcutaneous layer -->
+  <path d="M 107,132 Q 130,125 153,132" stroke="#7c3aed" stroke-width="1.5" fill="none"/>
+  <circle cx="107" cy="132" r="1.5" fill="#7c3aed"/>
+  <circle cx="153" cy="132" r="1.5" fill="#7c3aed"/>
+
+  <!-- Arrow showing minimal scar -->
+  <line x1="120" y1="178" x2="120" y2="195" stroke="#16a34a" stroke-width="1.5"/>
+  <polygon points="120,200 116,192 124,192" fill="#16a34a"/>
+  <text x="130" y="205" font-size="9" fill="#166534">Minimal scar</text>
+
+  <text x="130" y="228" text-anchor="middle" font-size="11" fill="#166534">Edges directly approximated</text>
+  <text x="130" y="243" text-anchor="middle" font-size="11" fill="#166534">by suture, staple, or adhesive</text>
+  <text x="130" y="265" text-anchor="middle" font-size="10" font-style="italic" fill="#15803d">Most elective clean cases</text>
+  <text x="130" y="280" text-anchor="middle" font-size="10" font-style="italic" fill="#15803d">Class I / II wounds</text>
+  <text x="130" y="300" text-anchor="middle" font-size="10" font-weight="bold" fill="#166534">Heals fastest · Least scar</text>
+
+  <!-- ======== PANEL 2: Secondary Intention ======== -->
+  <rect x="270" y="42" width="240" height="268" rx="8" fill="#fffbeb" stroke="#d97706" stroke-width="2"/>
+  <rect x="270" y="42" width="240" height="36" rx="8" fill="#d97706"/>
+  <rect x="270" y="63" width="240" height="15" fill="#d97706"/>
+  <text x="390" y="66" text-anchor="middle" font-size="13" font-weight="bold" fill="white">SECONDARY INTENTION</text>
+
+  <!-- Wound open — wide gap, healing from base up -->
+  <!-- Left wound edge (wider gap) -->
+  <rect x="290" y="100" width="60" height="18" rx="2" fill="#f4a261"/>
+  <!-- Right wound edge -->
+  <rect x="430" y="100" width="60" height="18" rx="2" fill="#f4a261"/>
+
+  <!-- Wide open wound gap -->
+  <path d="M 350,100 L 350,175 Q 390,180 430,175 L 430,100" fill="#ffe4e6" stroke="#fca5a5" stroke-width="1"/>
+
+  <!-- Granulation tissue rising from base -->
+  <!-- Wave pattern at base of wound = granulation tissue -->
+  <path d="M 355,172 Q 362,162 370,168 Q 378,175 386,165 Q 394,155 402,163 Q 410,172 418,164 Q 424,157 428,163 L 428,180 Q 390,185 355,180 Z" fill="#fb923c" opacity="0.8"/>
+  <text x="391" y="183" text-anchor="middle" font-size="8" fill="#7c2d12">granulation tissue</text>
+
+  <!-- Subcutaneous sides (open) -->
+  <rect x="290" y="118" width="60" height="30" fill="#fde68a"/>
+  <rect x="430" y="118" width="60" height="30" fill="#fde68a"/>
+
+  <!-- Deep tissue (open) -->
+  <rect x="290" y="148" width="60" height="22" fill="#bbf7d0"/>
+  <rect x="430" y="148" width="60" height="22" fill="#bbf7d0"/>
+
+  <!-- Arrows showing healing direction (from base upward and sides inward) -->
+  <line x1="360" y1="160" x2="360" y2="140" stroke="#ea580c" stroke-width="1.5"/>
+  <polygon points="360,135 356,143 364,143" fill="#ea580c"/>
+  <line x1="420" y1="160" x2="420" y2="140" stroke="#ea580c" stroke-width="1.5"/>
+  <polygon points="420,135 416,143 424,143" fill="#ea580c"/>
+  <!-- Contraction arrows (inward) -->
+  <line x1="356" y1="125" x2="368" y2="125" stroke="#ea580c" stroke-width="1.5"/>
+  <polygon points="373,125 365,121 365,129" fill="#ea580c"/>
+  <line x1="424" y1="125" x2="412" y2="125" stroke="#ea580c" stroke-width="1.5"/>
+  <polygon points="407,125 415,121 415,129" fill="#ea580c"/>
+
+  <text x="390" y="215" text-anchor="middle" font-size="11" fill="#92400e">Wound left open; heals</text>
+  <text x="390" y="230" text-anchor="middle" font-size="11" fill="#92400e">by granulation + contraction</text>
+  <text x="390" y="245" text-anchor="middle" font-size="11" fill="#92400e">from base upward</text>
+  <text x="390" y="265" text-anchor="middle" font-size="10" font-style="italic" fill="#d97706">Contaminated / infected wounds</text>
+  <text x="390" y="280" text-anchor="middle" font-size="10" font-style="italic" fill="#d97706">Class III / IV wounds</text>
+  <text x="390" y="300" text-anchor="middle" font-size="10" font-weight="bold" fill="#92400e">More scarring · Longer healing</text>
+
+  <!-- ======== PANEL 3: Tertiary / Delayed Primary ======== -->
+  <rect x="530" y="42" width="240" height="268" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+  <rect x="530" y="42" width="240" height="36" rx="8" fill="#9333ea"/>
+  <rect x="530" y="63" width="240" height="15" fill="#9333ea"/>
+  <text x="650" y="62" text-anchor="middle" font-size="11" font-weight="bold" fill="white">TERTIARY (DELAYED PRIMARY)</text>
+
+  <!-- Phase 1: Open wound (left side of panel) -->
+  <text x="580" y="96" text-anchor="middle" font-size="9" fill="#64748b" font-style="italic">Days 0–5: Left open</text>
+
+  <rect x="550" y="100" width="40" height="18" rx="2" fill="#f4a261"/>
+  <rect x="610" y="100" width="40" height="18" rx="2" fill="#f4a261"/>
+  <rect x="550" y="118" width="40" height="30" fill="#fde68a"/>
+  <rect x="610" y="118" width="40" height="30" fill="#fde68a"/>
+  <rect x="550" y="148" width="40" height="22" fill="#bbf7d0"/>
+  <rect x="610" y="148" width="40" height="22" fill="#bbf7d0"/>
+  <!-- Open gap -->
+  <rect x="590" y="100" width="20" height="70" fill="#ffe4e6" stroke="#fca5a5" stroke-width="0.5"/>
+  <!-- Packing indicator -->
+  <path d="M 591,105 Q 600,110 609,105 Q 600,115 591,110 Q 600,120 609,115 Q 600,125 591,120 Q 600,130 609,125 Q 600,140 591,135 Q 600,145 609,140" stroke="#94a3b8" stroke-width="1" fill="none"/>
+  <text x="600" y="180" text-anchor="middle" font-size="7.5" fill="#64748b">packed open</text>
+
+  <!-- Arrow pointing right (time passage) -->
+  <line x1="640" y1="135" x2="680" y2="135" stroke="#9333ea" stroke-width="2"/>
+  <polygon points="685,135 677,131 677,139" fill="#9333ea"/>
+  <text x="660" y="127" text-anchor="middle" font-size="9" fill="#7e22ce">3–5 days</text>
+
+  <!-- Phase 2: Closed wound (right side of panel) -->
+  <text x="720" y="96" text-anchor="middle" font-size="9" fill="#64748b" font-style="italic">Day 3–5: Closed</text>
+
+  <rect x="690" y="100" width="40" height="18" rx="2" fill="#f4a261"/>
+  <rect x="730" y="100" width="38" height="18" rx="2" fill="#f4a261"/>
+  <!-- Narrow gap now closed -->
+  <rect x="728" y="100" width="5" height="70" fill="#e2e8f0"/>
+  <!-- Sutures -->
+  <path d="M 726,106 Q 730.5,98 735,106" stroke="#dc2626" stroke-width="2" fill="none"/>
+  <circle cx="726" cy="106" r="2" fill="#dc2626"/>
+  <circle cx="735" cy="106" r="2" fill="#dc2626"/>
+  <path d="M 726,114 Q 730.5,106 735,114" stroke="#dc2626" stroke-width="2" fill="none"/>
+  <circle cx="726" cy="114" r="2" fill="#dc2626"/>
+  <circle cx="735" cy="114" r="2" fill="#dc2626"/>
+
+  <rect x="690" y="118" width="40" height="30" fill="#fde68a"/>
+  <rect x="730" y="118" width="38" height="30" fill="#fde68a"/>
+  <rect x="690" y="148" width="40" height="22" fill="#bbf7d0"/>
+  <rect x="730" y="148" width="38" height="22" fill="#bbf7d0"/>
+
+  <text x="650" y="215" text-anchor="middle" font-size="11" fill="#7e22ce">Wound initially left open;</text>
+  <text x="650" y="230" text-anchor="middle" font-size="11" fill="#7e22ce">reassessed at 3–5 days;</text>
+  <text x="650" y="245" text-anchor="middle" font-size="11" fill="#7e22ce">closed once contamination</text>
+  <text x="650" y="260" text-anchor="middle" font-size="11" fill="#7e22ce">is controlled</text>
+  <text x="650" y="280" text-anchor="middle" font-size="10" font-style="italic" fill="#9333ea">Class III/IV wounds initially</text>
+  <text x="650" y="300" text-anchor="middle" font-size="10" font-weight="bold" fill="#7e22ce">Controlled closure · Reduced SSI</text>
+</svg>

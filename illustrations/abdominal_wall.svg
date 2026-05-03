@@ -1,0 +1,121 @@
+<svg width="680" height="560" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 560">
+  <defs>
+    <style>text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif; }</style>
+  </defs>
+  <rect width="680" height="560" fill="#f8fafc" rx="4"/>
+  <text x="340" y="28" text-anchor="middle" font-size="17" font-weight="bold" fill="#0f172a">Layers of the Anterior Abdominal Wall</text>
+  <text x="340" y="46" text-anchor="middle" font-size="11" fill="#64748b">Cross-section view · Superficial to Deep</text>
+
+  <!-- Layer bands (left edge x=40, right edge x=380, width=340) -->
+  <!-- LAYER 1: Skin -->
+  <rect x="40" y="60" width="340" height="28" fill="#f4a261" stroke="#e76f51" stroke-width="1"/>
+  <text x="210" y="79" text-anchor="middle" font-size="12" font-weight="bold" fill="#7c2d12">① SKIN</text>
+
+  <!-- LAYER 2: Camper's Fascia (superficial fat) -->
+  <rect x="40" y="88" width="340" height="40" fill="#fde68a" stroke="#f59e0b" stroke-width="1"/>
+  <text x="210" y="113" text-anchor="middle" font-size="12" font-weight="bold" fill="#78350f">② CAMPER'S FASCIA (superficial fat)</text>
+
+  <!-- LAYER 3: Scarpa's Fascia -->
+  <rect x="40" y="128" width="340" height="18" fill="#fef9c3" stroke="#eab308" stroke-width="1"/>
+  <text x="210" y="141" text-anchor="middle" font-size="11" font-weight="bold" fill="#713f12">③ SCARPA'S FASCIA (deep membranous)</text>
+
+  <!-- LAYER 4: External Oblique -->
+  <rect x="40" y="146" width="340" height="36" fill="#bfdbfe" stroke="#3b82f6" stroke-width="1"/>
+  <!-- Muscle fiber lines -->
+  <line x1="60" y1="148" x2="90" y2="180" stroke="#93c5fd" stroke-width="1" opacity="0.8"/>
+  <line x1="90" y1="148" x2="120" y2="180" stroke="#93c5fd" stroke-width="1" opacity="0.8"/>
+  <line x1="120" y1="148" x2="150" y2="180" stroke="#93c5fd" stroke-width="1" opacity="0.8"/>
+  <line x1="150" y1="148" x2="180" y2="180" stroke="#93c5fd" stroke-width="1" opacity="0.8"/>
+  <line x1="180" y1="148" x2="210" y2="180" stroke="#93c5fd" stroke-width="1" opacity="0.8"/>
+  <line x1="210" y1="148" x2="240" y2="180" stroke="#93c5fd" stroke-width="1" opacity="0.8"/>
+  <line x1="240" y1="148" x2="270" y2="180" stroke="#93c5fd" stroke-width="1" opacity="0.8"/>
+  <line x1="270" y1="148" x2="300" y2="180" stroke="#93c5fd" stroke-width="1" opacity="0.8"/>
+  <line x1="300" y1="148" x2="330" y2="180" stroke="#93c5fd" stroke-width="1" opacity="0.8"/>
+  <line x1="330" y1="148" x2="360" y2="180" stroke="#93c5fd" stroke-width="1" opacity="0.8"/>
+  <text x="210" y="169" text-anchor="middle" font-size="12" font-weight="bold" fill="#1d4ed8">④ EXTERNAL OBLIQUE MUSCLE / APONEUROSIS</text>
+
+  <!-- LAYER 5: Internal Oblique -->
+  <rect x="40" y="182" width="340" height="36" fill="#a5f3fc" stroke="#06b6d4" stroke-width="1"/>
+  <!-- Muscle fiber lines (different angle) -->
+  <line x1="370" y1="184" x2="340" y2="216" stroke="#67e8f9" stroke-width="1" opacity="0.8"/>
+  <line x1="345" y1="184" x2="315" y2="216" stroke="#67e8f9" stroke-width="1" opacity="0.8"/>
+  <line x1="320" y1="184" x2="290" y2="216" stroke="#67e8f9" stroke-width="1" opacity="0.8"/>
+  <line x1="295" y1="184" x2="265" y2="216" stroke="#67e8f9" stroke-width="1" opacity="0.8"/>
+  <line x1="270" y1="184" x2="240" y2="216" stroke="#67e8f9" stroke-width="1" opacity="0.8"/>
+  <line x1="245" y1="184" x2="215" y2="216" stroke="#67e8f9" stroke-width="1" opacity="0.8"/>
+  <line x1="220" y1="184" x2="190" y2="216" stroke="#67e8f9" stroke-width="1" opacity="0.8"/>
+  <line x1="195" y1="184" x2="165" y2="216" stroke="#67e8f9" stroke-width="1" opacity="0.8"/>
+  <line x1="170" y1="184" x2="140" y2="216" stroke="#67e8f9" stroke-width="1" opacity="0.8"/>
+  <line x1="145" y1="184" x2="115" y2="216" stroke="#67e8f9" stroke-width="1" opacity="0.8"/>
+  <text x="210" y="205" text-anchor="middle" font-size="12" font-weight="bold" fill="#0e7490">⑤ INTERNAL OBLIQUE MUSCLE / APONEUROSIS</text>
+
+  <!-- LAYER 6: Transversus Abdominis -->
+  <rect x="40" y="218" width="340" height="36" fill="#bbf7d0" stroke="#16a34a" stroke-width="1"/>
+  <!-- Horizontal muscle fibers -->
+  <line x1="42" y1="228" x2="378" y2="228" stroke="#86efac" stroke-width="1" opacity="0.9"/>
+  <line x1="42" y1="238" x2="378" y2="238" stroke="#86efac" stroke-width="1" opacity="0.9"/>
+  <line x1="42" y1="248" x2="378" y2="248" stroke="#86efac" stroke-width="1" opacity="0.9"/>
+  <text x="210" y="241" text-anchor="middle" font-size="12" font-weight="bold" fill="#15803d">⑥ TRANSVERSUS ABDOMINIS / APONEUROSIS</text>
+
+  <!-- LAYER 7: Transversalis Fascia -->
+  <rect x="40" y="254" width="340" height="18" fill="#e0e7ff" stroke="#6366f1" stroke-width="1"/>
+  <text x="210" y="267" text-anchor="middle" font-size="11" font-weight="bold" fill="#3730a3">⑦ TRANSVERSALIS FASCIA</text>
+
+  <!-- LAYER 8: Preperitoneal Fat -->
+  <rect x="40" y="272" width="340" height="30" fill="#fef3c7" stroke="#d97706" stroke-width="1"/>
+  <text x="210" y="292" text-anchor="middle" font-size="12" font-weight="bold" fill="#92400e">⑧ PREPERITONEAL FAT</text>
+
+  <!-- LAYER 9: Peritoneum -->
+  <rect x="40" y="302" width="340" height="16" fill="#fecaca" stroke="#dc2626" stroke-width="1.5"/>
+  <text x="210" y="315" text-anchor="middle" font-size="11" font-weight="bold" fill="#7f1d1d">⑨ PERITONEUM</text>
+
+  <!-- Abdominal cavity indicator -->
+  <rect x="40" y="318" width="340" height="35" fill="#f0f9ff" stroke="#0284c7" stroke-width="1" stroke-dasharray="5,3"/>
+  <text x="210" y="340" text-anchor="middle" font-size="12" fill="#0369a1" font-style="italic">ABDOMINAL CAVITY</text>
+
+  <!-- LABELS on right side with leader lines -->
+  <text x="420" y="78" font-size="11" fill="#374151">Epidermis + dermis</text>
+  <line x1="380" y1="74" x2="415" y2="74" stroke="#9ca3af" stroke-width="1"/>
+
+  <text x="420" y="108" font-size="11" fill="#374151">Loose fat; continues to thigh</text>
+  <line x1="380" y1="108" x2="415" y2="108" stroke="#9ca3af" stroke-width="1"/>
+
+  <text x="420" y="138" font-size="11" fill="#374151">Dense; lower abdomen only</text>
+  <line x1="380" y1="137" x2="415" y2="137" stroke="#9ca3af" stroke-width="1"/>
+
+  <text x="420" y="163" font-size="11" fill="#374151">Fibers run inferomedially</text>
+  <line x1="380" y1="164" x2="415" y2="164" stroke="#9ca3af" stroke-width="1"/>
+
+  <text x="420" y="198" font-size="11" fill="#374151">Fibers run superomedially</text>
+  <line x1="380" y1="200" x2="415" y2="200" stroke="#9ca3af" stroke-width="1"/>
+
+  <text x="420" y="236" font-size="11" fill="#374151">Fibers run horizontally</text>
+  <line x1="380" y1="236" x2="415" y2="236" stroke="#9ca3af" stroke-width="1"/>
+
+  <text x="420" y="263" font-size="11" fill="#374151">Thin; continuous with iliac fascia</text>
+  <line x1="380" y1="263" x2="415" y2="263" stroke="#9ca3af" stroke-width="1"/>
+
+  <text x="420" y="289" font-size="11" fill="#374151">Variable thickness</text>
+  <line x1="380" y1="287" x2="415" y2="287" stroke="#9ca3af" stroke-width="1"/>
+
+  <text x="420" y="311" font-size="11" fill="#374151">Thin serous membrane</text>
+  <line x1="380" y1="310" x2="415" y2="310" stroke="#9ca3af" stroke-width="1"/>
+
+  <!-- Linea Alba callout -->
+  <rect x="80" y="370" width="220" height="60" rx="6" fill="#fffbeb" stroke="#f59e0b" stroke-width="1.5"/>
+  <text x="190" y="388" text-anchor="middle" font-size="12" font-weight="bold" fill="#92400e">LINEA ALBA</text>
+  <text x="190" y="403" text-anchor="middle" font-size="10" fill="#78350f">Layers 4, 5, and 6 fuse at the midline</text>
+  <text x="190" y="417" text-anchor="middle" font-size="10" fill="#78350f">Avascular · Preferred entry point</text>
+
+  <!-- Arrow from midline to callout -->
+  <line x1="210" y1="318" x2="210" y2="365" stroke="#f59e0b" stroke-width="1.5" stroke-dasharray="4,2"/>
+  <polygon points="210,370 206,360 214,360" fill="#f59e0b"/>
+
+  <!-- Midline indicator -->
+  <line x1="210" y1="60" x2="210" y2="318" stroke="#f59e0b" stroke-width="1" stroke-dasharray="3,3" opacity="0.6"/>
+  <text x="213" y="57" font-size="9" fill="#d97706" font-style="italic">midline</text>
+
+  <!-- Depth arrow -->
+  <line x1="18" y1="60" x2="18" y2="317" stroke="#64748b" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <text x="14" y="190" text-anchor="middle" font-size="10" fill="#64748b" transform="rotate(-90, 14, 190)">SUPERFICIAL → DEEP</text>
+</svg>
