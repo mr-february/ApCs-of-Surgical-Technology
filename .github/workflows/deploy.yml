@@ -22,5 +22,10 @@ jobs:
       - name: Install MkDocs Material
         run: pip install mkdocs-material
 
+      - name: Prepare docs folder
+        run: |
+          mkdir -p docs
+          cp -r Part_0_Introduction.md Part_1_The_Approach Part_2_The_Procedure Part_3_The_Closure Appendices illustrations Copyright.md README.md docs/
+
       - name: Deploy
         run: mkdocs gh-deploy --force
